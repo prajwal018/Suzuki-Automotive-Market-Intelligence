@@ -1,0 +1,21 @@
+brand,model,segment,price_lakh,fuel_options,variant_count_demo,feature_score_demo
+Maruti Suzuki,Swift,Hatchback,8.0,Petrol/Hybrid,6,3.8
+Maruti Suzuki,Baleno,Premium Hatchback,9.0,Petrol/CNG,4,4.1
+Maruti Suzuki,Brezza,Compact SUV,11.0,Petrol/CNG,3,4.9
+Maruti Suzuki,Fronx,Crossover,9.5,Petrol/CNG,6,4.9
+Maruti Suzuki,WagonR,Hatchback,6.5,Petrol/CNG,6,4.3
+Hyundai,i20,Premium Hatchback,9.0,Petrol/Diesel,4,4.7
+Hyundai,Venue,Compact SUV,10.5,Petrol/Hybrid,2,4.7
+Hyundai,Creta,Mid-size SUV,15.0,Petrol/Hybrid,4,4.3
+Hyundai,Exter,Micro SUV,7.5,Petrol/Hybrid,3,3.7
+Tata,Punch,Micro SUV,7.5,Petrol,2,3.8
+Tata,Nexon,Compact SUV,10.5,Petrol/Diesel,4,3.4
+Tata,Tiago,Hatchback,6.5,Petrol/CNG,3,4.2
+Tata,Altroz,Premium Hatchback,8.0,Petrol/CNG,3,4.7
+Kia,Sonet,Compact SUV,10.0,Petrol/CNG,2,4.2
+Kia,Seltos,Mid-size SUV,15.5,EV/Petrol,2,4.1
+Toyota,Glanza,Premium Hatchback,8.5,EV/Petrol,4,4.3
+Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.0,Petrol,4,4.0
+Mahindra,XUV 3XO,Compact SUV,10.0,Petrol,2,3.9
+Mahindra,Scorpio-N,Mid-size SUV,18.0,Petrol/Diesel,3,4.3
+Mahindra,Thar,Lifestyle SUV,17.0,Petrol,4,4.6

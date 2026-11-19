@@ -1,0 +1,2901 @@
+month,state,segment,registrations
+2022-01-01,Maharashtra,Hatchback,869
+2022-01-01,Maharashtra,Compact SUV,1066
+2022-01-01,Maharashtra,Mid-size SUV,720
+2022-01-01,Maharashtra,Premium Hatchback,471
+2022-01-01,Maharashtra,Micro SUV,605
+2022-01-01,Uttar Pradesh,Hatchback,954
+2022-01-01,Uttar Pradesh,Compact SUV,1197
+2022-01-01,Uttar Pradesh,Mid-size SUV,715
+2022-01-01,Uttar Pradesh,Premium Hatchback,578
+2022-01-01,Uttar Pradesh,Micro SUV,710
+2022-01-01,Karnataka,Hatchback,683
+2022-01-01,Karnataka,Compact SUV,777
+2022-01-01,Karnataka,Mid-size SUV,510
+2022-01-01,Karnataka,Premium Hatchback,469
+2022-01-01,Karnataka,Micro SUV,561
+2022-01-01,Tamil Nadu,Hatchback,644
+2022-01-01,Tamil Nadu,Compact SUV,753
+2022-01-01,Tamil Nadu,Mid-size SUV,467
+2022-01-01,Tamil Nadu,Premium Hatchback,419
+2022-01-01,Tamil Nadu,Micro SUV,445
+2022-01-01,Gujarat,Hatchback,605
+2022-01-01,Gujarat,Compact SUV,687
+2022-01-01,Gujarat,Mid-size SUV,517
+2022-01-01,Gujarat,Premium Hatchback,334
+2022-01-01,Gujarat,Micro SUV,421
+2022-01-01,Telangana,Hatchback,513
+2022-01-01,Telangana,Compact SUV,716
+2022-01-01,Telangana,Mid-size SUV,372
+2022-01-01,Telangana,Premium Hatchback,298
+2022-01-01,Telangana,Micro SUV,351
+2022-01-01,Rajasthan,Hatchback,563
+2022-01-01,Rajasthan,Compact SUV,474
+2022-01-01,Rajasthan,Mid-size SUV,330
+2022-01-01,Rajasthan,Premium Hatchback,438
+2022-01-01,Rajasthan,Micro SUV,387
+2022-01-01,West Bengal,Hatchback,493
+2022-01-01,West Bengal,Compact SUV,666
+2022-01-01,West Bengal,Mid-size SUV,420
+2022-01-01,West Bengal,Premium Hatchback,388
+2022-01-01,West Bengal,Micro SUV,483
+2022-01-01,Delhi,Hatchback,390
+2022-01-01,Delhi,Compact SUV,435
+2022-01-01,Delhi,Mid-size SUV,322
+2022-01-01,Delhi,Premium Hatchback,209
+2022-01-01,Delhi,Micro SUV,229
+2022-01-01,Kerala,Hatchback,260
+2022-01-01,Kerala,Compact SUV,347
+2022-01-01,Kerala,Mid-size SUV,220
+2022-01-01,Kerala,Premium Hatchback,166
+2022-01-01,Kerala,Micro SUV,264
+2022-02-01,Maharashtra,Hatchback,821
+2022-02-01,Maharashtra,Compact SUV,936
+2022-02-01,Maharashtra,Mid-size SUV,626
+2022-02-01,Maharashtra,Premium Hatchback,544
+2022-02-01,Maharashtra,Micro SUV,619
+2022-02-01,Uttar Pradesh,Hatchback,1014
+2022-02-01,Uttar Pradesh,Compact SUV,1136
+2022-02-01,Uttar Pradesh,Mid-size SUV,767
+2022-02-01,Uttar Pradesh,Premium Hatchback,610
+2022-02-01,Uttar Pradesh,Micro SUV,696
+2022-02-01,Karnataka,Hatchback,627
+2022-02-01,Karnataka,Compact SUV,816
+2022-02-01,Karnataka,Mid-size SUV,477
+2022-02-01,Karnataka,Premium Hatchback,437
+2022-02-01,Karnataka,Micro SUV,480
+2022-02-01,Tamil Nadu,Hatchback,588
+2022-02-01,Tamil Nadu,Compact SUV,820
+2022-02-01,Tamil Nadu,Mid-size SUV,504
+2022-02-01,Tamil Nadu,Premium Hatchback,387
+2022-02-01,Tamil Nadu,Micro SUV,472
+2022-02-01,Gujarat,Hatchback,612
+2022-02-01,Gujarat,Compact SUV,719
+2022-02-01,Gujarat,Mid-size SUV,477
+2022-02-01,Gujarat,Premium Hatchback,370
+2022-02-01,Gujarat,Micro SUV,412
+2022-02-01,Telangana,Hatchback,452
+2022-02-01,Telangana,Compact SUV,630
+2022-02-01,Telangana,Mid-size SUV,429
+2022-02-01,Telangana,Premium Hatchback,308
+2022-02-01,Telangana,Micro SUV,501
+2022-02-01,Rajasthan,Hatchback,544
+2022-02-01,Rajasthan,Compact SUV,679
+2022-02-01,Rajasthan,Mid-size SUV,423
+2022-02-01,Rajasthan,Premium Hatchback,409
+2022-02-01,Rajasthan,Micro SUV,337
+2022-02-01,West Bengal,Hatchback,445
+2022-02-01,West Bengal,Compact SUV,669
+2022-02-01,West Bengal,Mid-size SUV,456
+2022-02-01,West Bengal,Premium Hatchback,368
+2022-02-01,West Bengal,Micro SUV,426
+2022-02-01,Delhi,Hatchback,444
+2022-02-01,Delhi,Compact SUV,491
+2022-02-01,Delhi,Mid-size SUV,332
+2022-02-01,Delhi,Premium Hatchback,206
+2022-02-01,Delhi,Micro SUV,235
+2022-02-01,Kerala,Hatchback,422
+2022-02-01,Kerala,Compact SUV,435
+2022-02-01,Kerala,Mid-size SUV,241
+2022-02-01,Kerala,Premium Hatchback,198
+2022-02-01,Kerala,Micro SUV,229
+2022-03-01,Maharashtra,Hatchback,856
+2022-03-01,Maharashtra,Compact SUV,1035
+2022-03-01,Maharashtra,Mid-size SUV,615
+2022-03-01,Maharashtra,Premium Hatchback,565
+2022-03-01,Maharashtra,Micro SUV,629
+2022-03-01,Uttar Pradesh,Hatchback,1008
+2022-03-01,Uttar Pradesh,Compact SUV,1193
+2022-03-01,Uttar Pradesh,Mid-size SUV,749
+2022-03-01,Uttar Pradesh,Premium Hatchback,586
+2022-03-01,Uttar Pradesh,Micro SUV,702
+2022-03-01,Karnataka,Hatchback,691
+2022-03-01,Karnataka,Compact SUV,862
+2022-03-01,Karnataka,Mid-size SUV,514
+2022-03-01,Karnataka,Premium Hatchback,484
+2022-03-01,Karnataka,Micro SUV,498
+2022-03-01,Tamil Nadu,Hatchback,675
+2022-03-01,Tamil Nadu,Compact SUV,764
+2022-03-01,Tamil Nadu,Mid-size SUV,410
+2022-03-01,Tamil Nadu,Premium Hatchback,425
+2022-03-01,Tamil Nadu,Micro SUV,504
+2022-03-01,Gujarat,Hatchback,651
+2022-03-01,Gujarat,Compact SUV,788
+2022-03-01,Gujarat,Mid-size SUV,465
+2022-03-01,Gujarat,Premium Hatchback,367
+2022-03-01,Gujarat,Micro SUV,486
+2022-03-01,Telangana,Hatchback,552
+2022-03-01,Telangana,Compact SUV,630
+2022-03-01,Telangana,Mid-size SUV,459
+2022-03-01,Telangana,Premium Hatchback,304
+2022-03-01,Telangana,Micro SUV,367
+2022-03-01,Rajasthan,Hatchback,585
+2022-03-01,Rajasthan,Compact SUV,668
+2022-03-01,Rajasthan,Mid-size SUV,377
+2022-03-01,Rajasthan,Premium Hatchback,343
+2022-03-01,Rajasthan,Micro SUV,384
+2022-03-01,West Bengal,Hatchback,444
+2022-03-01,West Bengal,Compact SUV,658
+2022-03-01,West Bengal,Mid-size SUV,434
+2022-03-01,West Bengal,Premium Hatchback,351
+2022-03-01,West Bengal,Micro SUV,430
+2022-03-01,Delhi,Hatchback,441
+2022-03-01,Delhi,Compact SUV,466
+2022-03-01,Delhi,Mid-size SUV,252
+2022-03-01,Delhi,Premium Hatchback,267
+2022-03-01,Delhi,Micro SUV,273
+2022-03-01,Kerala,Hatchback,348
+2022-03-01,Kerala,Compact SUV,424
+2022-03-01,Kerala,Mid-size SUV,374
+2022-03-01,Kerala,Premium Hatchback,128
+2022-03-01,Kerala,Micro SUV,244
+2022-04-01,Maharashtra,Hatchback,882
+2022-04-01,Maharashtra,Compact SUV,1051
+2022-04-01,Maharashtra,Mid-size SUV,719
+2022-04-01,Maharashtra,Premium Hatchback,606
+2022-04-01,Maharashtra,Micro SUV,649
+2022-04-01,Uttar Pradesh,Hatchback,941
+2022-04-01,Uttar Pradesh,Compact SUV,1168
+2022-04-01,Uttar Pradesh,Mid-size SUV,728
+2022-04-01,Uttar Pradesh,Premium Hatchback,612
+2022-04-01,Uttar Pradesh,Micro SUV,695
+2022-04-01,Karnataka,Hatchback,682
+2022-04-01,Karnataka,Compact SUV,859
+2022-04-01,Karnataka,Mid-size SUV,460
+2022-04-01,Karnataka,Premium Hatchback,386
+2022-04-01,Karnataka,Micro SUV,416
+2022-04-01,Tamil Nadu,Hatchback,674
+2022-04-01,Tamil Nadu,Compact SUV,793
+2022-04-01,Tamil Nadu,Mid-size SUV,511
+2022-04-01,Tamil Nadu,Premium Hatchback,346
+2022-04-01,Tamil Nadu,Micro SUV,549
+2022-04-01,Gujarat,Hatchback,594
+2022-04-01,Gujarat,Compact SUV,772
+2022-04-01,Gujarat,Mid-size SUV,516
+2022-04-01,Gujarat,Premium Hatchback,357
+2022-04-01,Gujarat,Micro SUV,434
+2022-04-01,Telangana,Hatchback,537
+2022-04-01,Telangana,Compact SUV,780
+2022-04-01,Telangana,Mid-size SUV,420
+2022-04-01,Telangana,Premium Hatchback,414
+2022-04-01,Telangana,Micro SUV,445
+2022-04-01,Rajasthan,Hatchback,524
+2022-04-01,Rajasthan,Compact SUV,581
+2022-04-01,Rajasthan,Mid-size SUV,438
+2022-04-01,Rajasthan,Premium Hatchback,261
+2022-04-01,Rajasthan,Micro SUV,447
+2022-04-01,West Bengal,Hatchback,573
+2022-04-01,West Bengal,Compact SUV,576
+2022-04-01,West Bengal,Mid-size SUV,419
+2022-04-01,West Bengal,Premium Hatchback,394
+2022-04-01,West Bengal,Micro SUV,406
+2022-04-01,Delhi,Hatchback,420
+2022-04-01,Delhi,Compact SUV,439
+2022-04-01,Delhi,Mid-size SUV,239
+2022-04-01,Delhi,Premium Hatchback,247
+2022-04-01,Delhi,Micro SUV,288
+2022-04-01,Kerala,Hatchback,337
+2022-04-01,Kerala,Compact SUV,489
+2022-04-01,Kerala,Mid-size SUV,233
+2022-04-01,Kerala,Premium Hatchback,242
+2022-04-01,Kerala,Micro SUV,263
+2022-05-01,Maharashtra,Hatchback,791
+2022-05-01,Maharashtra,Compact SUV,1001
+2022-05-01,Maharashtra,Mid-size SUV,663
+2022-05-01,Maharashtra,Premium Hatchback,646
+2022-05-01,Maharashtra,Micro SUV,662
+2022-05-01,Uttar Pradesh,Hatchback,853
+2022-05-01,Uttar Pradesh,Compact SUV,1005
+2022-05-01,Uttar Pradesh,Mid-size SUV,749
+2022-05-01,Uttar Pradesh,Premium Hatchback,597
+2022-05-01,Uttar Pradesh,Micro SUV,738
+2022-05-01,Karnataka,Hatchback,615
+2022-05-01,Karnataka,Compact SUV,821
+2022-05-01,Karnataka,Mid-size SUV,541
+2022-05-01,Karnataka,Premium Hatchback,403
+2022-05-01,Karnataka,Micro SUV,464
+2022-05-01,Tamil Nadu,Hatchback,621
+2022-05-01,Tamil Nadu,Compact SUV,788
+2022-05-01,Tamil Nadu,Mid-size SUV,476
+2022-05-01,Tamil Nadu,Premium Hatchback,444
+2022-05-01,Tamil Nadu,Micro SUV,437
+2022-05-01,Gujarat,Hatchback,546
+2022-05-01,Gujarat,Compact SUV,835
+2022-05-01,Gujarat,Mid-size SUV,439
+2022-05-01,Gujarat,Premium Hatchback,366
+2022-05-01,Gujarat,Micro SUV,445
+2022-05-01,Telangana,Hatchback,520
+2022-05-01,Telangana,Compact SUV,619
+2022-05-01,Telangana,Mid-size SUV,397
+2022-05-01,Telangana,Premium Hatchback,332
+2022-05-01,Telangana,Micro SUV,389
+2022-05-01,Rajasthan,Hatchback,390
+2022-05-01,Rajasthan,Compact SUV,695
+2022-05-01,Rajasthan,Mid-size SUV,375
+2022-05-01,Rajasthan,Premium Hatchback,346
+2022-05-01,Rajasthan,Micro SUV,304
+2022-05-01,West Bengal,Hatchback,530
+2022-05-01,West Bengal,Compact SUV,648
+2022-05-01,West Bengal,Mid-size SUV,490
+2022-05-01,West Bengal,Premium Hatchback,330
+2022-05-01,West Bengal,Micro SUV,441
+2022-05-01,Delhi,Hatchback,349
+2022-05-01,Delhi,Compact SUV,446
+2022-05-01,Delhi,Mid-size SUV,280
+2022-05-01,Delhi,Premium Hatchback,302
+2022-05-01,Delhi,Micro SUV,195
+2022-05-01,Kerala,Hatchback,285
+2022-05-01,Kerala,Compact SUV,336
+2022-05-01,Kerala,Mid-size SUV,216
+2022-05-01,Kerala,Premium Hatchback,186
+2022-05-01,Kerala,Micro SUV,181
+2022-06-01,Maharashtra,Hatchback,798
+2022-06-01,Maharashtra,Compact SUV,933
+2022-06-01,Maharashtra,Mid-size SUV,594
+2022-06-01,Maharashtra,Premium Hatchback,591
+2022-06-01,Maharashtra,Micro SUV,632
+2022-06-01,Uttar Pradesh,Hatchback,906
+2022-06-01,Uttar Pradesh,Compact SUV,1060
+2022-06-01,Uttar Pradesh,Mid-size SUV,622
+2022-06-01,Uttar Pradesh,Premium Hatchback,529
+2022-06-01,Uttar Pradesh,Micro SUV,661
+2022-06-01,Karnataka,Hatchback,671
+2022-06-01,Karnataka,Compact SUV,818
+2022-06-01,Karnataka,Mid-size SUV,514
+2022-06-01,Karnataka,Premium Hatchback,375
+2022-06-01,Karnataka,Micro SUV,468
+2022-06-01,Tamil Nadu,Hatchback,584
+2022-06-01,Tamil Nadu,Compact SUV,728
+2022-06-01,Tamil Nadu,Mid-size SUV,552
+2022-06-01,Tamil Nadu,Premium Hatchback,307
+2022-06-01,Tamil Nadu,Micro SUV,431
+2022-06-01,Gujarat,Hatchback,640
+2022-06-01,Gujarat,Compact SUV,654
+2022-06-01,Gujarat,Mid-size SUV,421
+2022-06-01,Gujarat,Premium Hatchback,354
+2022-06-01,Gujarat,Micro SUV,422
+2022-06-01,Telangana,Hatchback,427
+2022-06-01,Telangana,Compact SUV,641
+2022-06-01,Telangana,Mid-size SUV,413
+2022-06-01,Telangana,Premium Hatchback,345
+2022-06-01,Telangana,Micro SUV,329
+2022-06-01,Rajasthan,Hatchback,483
+2022-06-01,Rajasthan,Compact SUV,549
+2022-06-01,Rajasthan,Mid-size SUV,353
+2022-06-01,Rajasthan,Premium Hatchback,406
+2022-06-01,Rajasthan,Micro SUV,358
+2022-06-01,West Bengal,Hatchback,479
+2022-06-01,West Bengal,Compact SUV,663
+2022-06-01,West Bengal,Mid-size SUV,348
+2022-06-01,West Bengal,Premium Hatchback,290
+2022-06-01,West Bengal,Micro SUV,346
+2022-06-01,Delhi,Hatchback,346
+2022-06-01,Delhi,Compact SUV,492
+2022-06-01,Delhi,Mid-size SUV,307
+2022-06-01,Delhi,Premium Hatchback,260
+2022-06-01,Delhi,Micro SUV,220
+2022-06-01,Kerala,Hatchback,308
+2022-06-01,Kerala,Compact SUV,421
+2022-06-01,Kerala,Mid-size SUV,227
+2022-06-01,Kerala,Premium Hatchback,202
+2022-06-01,Kerala,Micro SUV,265
+2022-07-01,Maharashtra,Hatchback,786
+2022-07-01,Maharashtra,Compact SUV,997
+2022-07-01,Maharashtra,Mid-size SUV,688
+2022-07-01,Maharashtra,Premium Hatchback,510
+2022-07-01,Maharashtra,Micro SUV,645
+2022-07-01,Uttar Pradesh,Hatchback,891
+2022-07-01,Uttar Pradesh,Compact SUV,999
+2022-07-01,Uttar Pradesh,Mid-size SUV,616
+2022-07-01,Uttar Pradesh,Premium Hatchback,522
+2022-07-01,Uttar Pradesh,Micro SUV,601
+2022-07-01,Karnataka,Hatchback,605
+2022-07-01,Karnataka,Compact SUV,777
+2022-07-01,Karnataka,Mid-size SUV,525
+2022-07-01,Karnataka,Premium Hatchback,407
+2022-07-01,Karnataka,Micro SUV,429
+2022-07-01,Tamil Nadu,Hatchback,483
+2022-07-01,Tamil Nadu,Compact SUV,713
+2022-07-01,Tamil Nadu,Mid-size SUV,445
+2022-07-01,Tamil Nadu,Premium Hatchback,381
+2022-07-01,Tamil Nadu,Micro SUV,521
+2022-07-01,Gujarat,Hatchback,620
+2022-07-01,Gujarat,Compact SUV,730
+2022-07-01,Gujarat,Mid-size SUV,390
+2022-07-01,Gujarat,Premium Hatchback,341
+2022-07-01,Gujarat,Micro SUV,412
+2022-07-01,Telangana,Hatchback,446
+2022-07-01,Telangana,Compact SUV,614
+2022-07-01,Telangana,Mid-size SUV,386
+2022-07-01,Telangana,Premium Hatchback,261
+2022-07-01,Telangana,Micro SUV,409
+2022-07-01,Rajasthan,Hatchback,466
+2022-07-01,Rajasthan,Compact SUV,490
+2022-07-01,Rajasthan,Mid-size SUV,352
+2022-07-01,Rajasthan,Premium Hatchback,311
+2022-07-01,Rajasthan,Micro SUV,384
+2022-07-01,West Bengal,Hatchback,497
+2022-07-01,West Bengal,Compact SUV,668
+2022-07-01,West Bengal,Mid-size SUV,403
+2022-07-01,West Bengal,Premium Hatchback,272
+2022-07-01,West Bengal,Micro SUV,315
+2022-07-01,Delhi,Hatchback,403
+2022-07-01,Delhi,Compact SUV,488
+2022-07-01,Delhi,Mid-size SUV,285
+2022-07-01,Delhi,Premium Hatchback,295
+2022-07-01,Delhi,Micro SUV,308
+2022-07-01,Kerala,Hatchback,351
+2022-07-01,Kerala,Compact SUV,353
+2022-07-01,Kerala,Mid-size SUV,324
+2022-07-01,Kerala,Premium Hatchback,231
+2022-07-01,Kerala,Micro SUV,219
+2022-08-01,Maharashtra,Hatchback,750
+2022-08-01,Maharashtra,Compact SUV,972
+2022-08-01,Maharashtra,Mid-size SUV,525
+2022-08-01,Maharashtra,Premium Hatchback,535
+2022-08-01,Maharashtra,Micro SUV,533
+2022-08-01,Uttar Pradesh,Hatchback,859
+2022-08-01,Uttar Pradesh,Compact SUV,1013
+2022-08-01,Uttar Pradesh,Mid-size SUV,636
+2022-08-01,Uttar Pradesh,Premium Hatchback,510
+2022-08-01,Uttar Pradesh,Micro SUV,615
+2022-08-01,Karnataka,Hatchback,678
+2022-08-01,Karnataka,Compact SUV,792
+2022-08-01,Karnataka,Mid-size SUV,472
+2022-08-01,Karnataka,Premium Hatchback,382
+2022-08-01,Karnataka,Micro SUV,475
+2022-08-01,Tamil Nadu,Hatchback,612
+2022-08-01,Tamil Nadu,Compact SUV,654
+2022-08-01,Tamil Nadu,Mid-size SUV,428
+2022-08-01,Tamil Nadu,Premium Hatchback,281
+2022-08-01,Tamil Nadu,Micro SUV,465
+2022-08-01,Gujarat,Hatchback,642
+2022-08-01,Gujarat,Compact SUV,679
+2022-08-01,Gujarat,Mid-size SUV,326
+2022-08-01,Gujarat,Premium Hatchback,382
+2022-08-01,Gujarat,Micro SUV,365
+2022-08-01,Telangana,Hatchback,438
+2022-08-01,Telangana,Compact SUV,604
+2022-08-01,Telangana,Mid-size SUV,371
+2022-08-01,Telangana,Premium Hatchback,280
+2022-08-01,Telangana,Micro SUV,316
+2022-08-01,Rajasthan,Hatchback,455
+2022-08-01,Rajasthan,Compact SUV,534
+2022-08-01,Rajasthan,Mid-size SUV,295
+2022-08-01,Rajasthan,Premium Hatchback,275
+2022-08-01,Rajasthan,Micro SUV,347
+2022-08-01,West Bengal,Hatchback,491
+2022-08-01,West Bengal,Compact SUV,551
+2022-08-01,West Bengal,Mid-size SUV,428
+2022-08-01,West Bengal,Premium Hatchback,199
+2022-08-01,West Bengal,Micro SUV,348
+2022-08-01,Delhi,Hatchback,315
+2022-08-01,Delhi,Compact SUV,429
+2022-08-01,Delhi,Mid-size SUV,289
+2022-08-01,Delhi,Premium Hatchback,272
+2022-08-01,Delhi,Micro SUV,221
+2022-08-01,Kerala,Hatchback,338
+2022-08-01,Kerala,Compact SUV,393
+2022-08-01,Kerala,Mid-size SUV,163
+2022-08-01,Kerala,Premium Hatchback,287
+2022-08-01,Kerala,Micro SUV,165
+2022-09-01,Maharashtra,Hatchback,793
+2022-09-01,Maharashtra,Compact SUV,970
+2022-09-01,Maharashtra,Mid-size SUV,608
+2022-09-01,Maharashtra,Premium Hatchback,478
+2022-09-01,Maharashtra,Micro SUV,609
+2022-09-01,Uttar Pradesh,Hatchback,766
+2022-09-01,Uttar Pradesh,Compact SUV,1026
+2022-09-01,Uttar Pradesh,Mid-size SUV,617
+2022-09-01,Uttar Pradesh,Premium Hatchback,509
+2022-09-01,Uttar Pradesh,Micro SUV,636
+2022-09-01,Karnataka,Hatchback,637
+2022-09-01,Karnataka,Compact SUV,708
+2022-09-01,Karnataka,Mid-size SUV,487
+2022-09-01,Karnataka,Premium Hatchback,382
+2022-09-01,Karnataka,Micro SUV,394
+2022-09-01,Tamil Nadu,Hatchback,545
+2022-09-01,Tamil Nadu,Compact SUV,672
+2022-09-01,Tamil Nadu,Mid-size SUV,397
+2022-09-01,Tamil Nadu,Premium Hatchback,379
+2022-09-01,Tamil Nadu,Micro SUV,422
+2022-09-01,Gujarat,Hatchback,473
+2022-09-01,Gujarat,Compact SUV,596
+2022-09-01,Gujarat,Mid-size SUV,438
+2022-09-01,Gujarat,Premium Hatchback,315
+2022-09-01,Gujarat,Micro SUV,416
+2022-09-01,Telangana,Hatchback,499
+2022-09-01,Telangana,Compact SUV,514
+2022-09-01,Telangana,Mid-size SUV,293
+2022-09-01,Telangana,Premium Hatchback,375
+2022-09-01,Telangana,Micro SUV,358
+2022-09-01,Rajasthan,Hatchback,427
+2022-09-01,Rajasthan,Compact SUV,506
+2022-09-01,Rajasthan,Mid-size SUV,320
+2022-09-01,Rajasthan,Premium Hatchback,234
+2022-09-01,Rajasthan,Micro SUV,369
+2022-09-01,West Bengal,Hatchback,460
+2022-09-01,West Bengal,Compact SUV,659
+2022-09-01,West Bengal,Mid-size SUV,363
+2022-09-01,West Bengal,Premium Hatchback,273
+2022-09-01,West Bengal,Micro SUV,346
+2022-09-01,Delhi,Hatchback,222
+2022-09-01,Delhi,Compact SUV,413
+2022-09-01,Delhi,Mid-size SUV,254
+2022-09-01,Delhi,Premium Hatchback,257
+2022-09-01,Delhi,Micro SUV,166
+2022-09-01,Kerala,Hatchback,362
+2022-09-01,Kerala,Compact SUV,418
+2022-09-01,Kerala,Mid-size SUV,294
+2022-09-01,Kerala,Premium Hatchback,197
+2022-09-01,Kerala,Micro SUV,274
+2022-10-01,Maharashtra,Hatchback,720
+2022-10-01,Maharashtra,Compact SUV,1000
+2022-10-01,Maharashtra,Mid-size SUV,570
+2022-10-01,Maharashtra,Premium Hatchback,433
+2022-10-01,Maharashtra,Micro SUV,530
+2022-10-01,Uttar Pradesh,Hatchback,849
+2022-10-01,Uttar Pradesh,Compact SUV,1008
+2022-10-01,Uttar Pradesh,Mid-size SUV,670
+2022-10-01,Uttar Pradesh,Premium Hatchback,467
+2022-10-01,Uttar Pradesh,Micro SUV,531
+2022-10-01,Karnataka,Hatchback,659
+2022-10-01,Karnataka,Compact SUV,776
+2022-10-01,Karnataka,Mid-size SUV,412
+2022-10-01,Karnataka,Premium Hatchback,386
+2022-10-01,Karnataka,Micro SUV,487
+2022-10-01,Tamil Nadu,Hatchback,585
+2022-10-01,Tamil Nadu,Compact SUV,703
+2022-10-01,Tamil Nadu,Mid-size SUV,484
+2022-10-01,Tamil Nadu,Premium Hatchback,333
+2022-10-01,Tamil Nadu,Micro SUV,419
+2022-10-01,Gujarat,Hatchback,552
+2022-10-01,Gujarat,Compact SUV,669
+2022-10-01,Gujarat,Mid-size SUV,408
+2022-10-01,Gujarat,Premium Hatchback,361
+2022-10-01,Gujarat,Micro SUV,410
+2022-10-01,Telangana,Hatchback,424
+2022-10-01,Telangana,Compact SUV,616
+2022-10-01,Telangana,Mid-size SUV,319
+2022-10-01,Telangana,Premium Hatchback,295
+2022-10-01,Telangana,Micro SUV,335
+2022-10-01,Rajasthan,Hatchback,469
+2022-10-01,Rajasthan,Compact SUV,462
+2022-10-01,Rajasthan,Mid-size SUV,388
+2022-10-01,Rajasthan,Premium Hatchback,262
+2022-10-01,Rajasthan,Micro SUV,389
+2022-10-01,West Bengal,Hatchback,481
+2022-10-01,West Bengal,Compact SUV,617
+2022-10-01,West Bengal,Mid-size SUV,473
+2022-10-01,West Bengal,Premium Hatchback,312
+2022-10-01,West Bengal,Micro SUV,427
+2022-10-01,Delhi,Hatchback,347
+2022-10-01,Delhi,Compact SUV,444
+2022-10-01,Delhi,Mid-size SUV,269
+2022-10-01,Delhi,Premium Hatchback,261
+2022-10-01,Delhi,Micro SUV,224
+2022-10-01,Kerala,Hatchback,270
+2022-10-01,Kerala,Compact SUV,358
+2022-10-01,Kerala,Mid-size SUV,246
+2022-10-01,Kerala,Premium Hatchback,193
+2022-10-01,Kerala,Micro SUV,264
+2022-11-01,Maharashtra,Hatchback,873
+2022-11-01,Maharashtra,Compact SUV,958
+2022-11-01,Maharashtra,Mid-size SUV,593
+2022-11-01,Maharashtra,Premium Hatchback,461
+2022-11-01,Maharashtra,Micro SUV,692
+2022-11-01,Uttar Pradesh,Hatchback,893
+2022-11-01,Uttar Pradesh,Compact SUV,1104
+2022-11-01,Uttar Pradesh,Mid-size SUV,616
+2022-11-01,Uttar Pradesh,Premium Hatchback,568
+2022-11-01,Uttar Pradesh,Micro SUV,672
+2022-11-01,Karnataka,Hatchback,607
+2022-11-01,Karnataka,Compact SUV,810
+2022-11-01,Karnataka,Mid-size SUV,580
+2022-11-01,Karnataka,Premium Hatchback,357
+2022-11-01,Karnataka,Micro SUV,411
+2022-11-01,Tamil Nadu,Hatchback,546
+2022-11-01,Tamil Nadu,Compact SUV,793
+2022-11-01,Tamil Nadu,Mid-size SUV,497
+2022-11-01,Tamil Nadu,Premium Hatchback,372
+2022-11-01,Tamil Nadu,Micro SUV,434
+2022-11-01,Gujarat,Hatchback,536
+2022-11-01,Gujarat,Compact SUV,745
+2022-11-01,Gujarat,Mid-size SUV,423
+2022-11-01,Gujarat,Premium Hatchback,358
+2022-11-01,Gujarat,Micro SUV,450
+2022-11-01,Telangana,Hatchback,480
+2022-11-01,Telangana,Compact SUV,590
+2022-11-01,Telangana,Mid-size SUV,376
+2022-11-01,Telangana,Premium Hatchback,351
+2022-11-01,Telangana,Micro SUV,434
+2022-11-01,Rajasthan,Hatchback,495
+2022-11-01,Rajasthan,Compact SUV,613
+2022-11-01,Rajasthan,Mid-size SUV,351
+2022-11-01,Rajasthan,Premium Hatchback,271
+2022-11-01,Rajasthan,Micro SUV,375
+2022-11-01,West Bengal,Hatchback,528
+2022-11-01,West Bengal,Compact SUV,577
+2022-11-01,West Bengal,Mid-size SUV,386
+2022-11-01,West Bengal,Premium Hatchback,333
+2022-11-01,West Bengal,Micro SUV,361
+2022-11-01,Delhi,Hatchback,424
+2022-11-01,Delhi,Compact SUV,462
+2022-11-01,Delhi,Mid-size SUV,337
+2022-11-01,Delhi,Premium Hatchback,243
+2022-11-01,Delhi,Micro SUV,268
+2022-11-01,Kerala,Hatchback,283
+2022-11-01,Kerala,Compact SUV,401
+2022-11-01,Kerala,Mid-size SUV,251
+2022-11-01,Kerala,Premium Hatchback,148
+2022-11-01,Kerala,Micro SUV,216
+2022-12-01,Maharashtra,Hatchback,836
+2022-12-01,Maharashtra,Compact SUV,1066
+2022-12-01,Maharashtra,Mid-size SUV,675
+2022-12-01,Maharashtra,Premium Hatchback,524
+2022-12-01,Maharashtra,Micro SUV,649
+2022-12-01,Uttar Pradesh,Hatchback,911
+2022-12-01,Uttar Pradesh,Compact SUV,1002
+2022-12-01,Uttar Pradesh,Mid-size SUV,685
+2022-12-01,Uttar Pradesh,Premium Hatchback,642
+2022-12-01,Uttar Pradesh,Micro SUV,603
+2022-12-01,Karnataka,Hatchback,652
+2022-12-01,Karnataka,Compact SUV,867
+2022-12-01,Karnataka,Mid-size SUV,463
+2022-12-01,Karnataka,Premium Hatchback,418
+2022-12-01,Karnataka,Micro SUV,419
+2022-12-01,Tamil Nadu,Hatchback,686
+2022-12-01,Tamil Nadu,Compact SUV,750
+2022-12-01,Tamil Nadu,Mid-size SUV,473
+2022-12-01,Tamil Nadu,Premium Hatchback,457
+2022-12-01,Tamil Nadu,Micro SUV,482
+2022-12-01,Gujarat,Hatchback,560
+2022-12-01,Gujarat,Compact SUV,708
+2022-12-01,Gujarat,Mid-size SUV,483
+2022-12-01,Gujarat,Premium Hatchback,359
+2022-12-01,Gujarat,Micro SUV,347
+2022-12-01,Telangana,Hatchback,508
+2022-12-01,Telangana,Compact SUV,562
+2022-12-01,Telangana,Mid-size SUV,465
+2022-12-01,Telangana,Premium Hatchback,338
+2022-12-01,Telangana,Micro SUV,336
+2022-12-01,Rajasthan,Hatchback,459
+2022-12-01,Rajasthan,Compact SUV,518
+2022-12-01,Rajasthan,Mid-size SUV,327
+2022-12-01,Rajasthan,Premium Hatchback,362
+2022-12-01,Rajasthan,Micro SUV,462
+2022-12-01,West Bengal,Hatchback,577
+2022-12-01,West Bengal,Compact SUV,666
+2022-12-01,West Bengal,Mid-size SUV,399
+2022-12-01,West Bengal,Premium Hatchback,309
+2022-12-01,West Bengal,Micro SUV,495
+2022-12-01,Delhi,Hatchback,366
+2022-12-01,Delhi,Compact SUV,556
+2022-12-01,Delhi,Mid-size SUV,350
+2022-12-01,Delhi,Premium Hatchback,163
+2022-12-01,Delhi,Micro SUV,246
+2022-12-01,Kerala,Hatchback,310
+2022-12-01,Kerala,Compact SUV,415
+2022-12-01,Kerala,Mid-size SUV,259
+2022-12-01,Kerala,Premium Hatchback,354
+2022-12-01,Kerala,Micro SUV,203
+2023-01-01,Maharashtra,Hatchback,899
+2023-01-01,Maharashtra,Compact SUV,1121
+2023-01-01,Maharashtra,Mid-size SUV,683
+2023-01-01,Maharashtra,Premium Hatchback,579
+2023-01-01,Maharashtra,Micro SUV,609
+2023-01-01,Uttar Pradesh,Hatchback,964
+2023-01-01,Uttar Pradesh,Compact SUV,1204
+2023-01-01,Uttar Pradesh,Mid-size SUV,753
+2023-01-01,Uttar Pradesh,Premium Hatchback,646
+2023-01-01,Uttar Pradesh,Micro SUV,772
+2023-01-01,Karnataka,Hatchback,717
+2023-01-01,Karnataka,Compact SUV,834
+2023-01-01,Karnataka,Mid-size SUV,466
+2023-01-01,Karnataka,Premium Hatchback,409
+2023-01-01,Karnataka,Micro SUV,489
+2023-01-01,Tamil Nadu,Hatchback,651
+2023-01-01,Tamil Nadu,Compact SUV,766
+2023-01-01,Tamil Nadu,Mid-size SUV,450
+2023-01-01,Tamil Nadu,Premium Hatchback,360
+2023-01-01,Tamil Nadu,Micro SUV,398
+2023-01-01,Gujarat,Hatchback,615
+2023-01-01,Gujarat,Compact SUV,704
+2023-01-01,Gujarat,Mid-size SUV,436
+2023-01-01,Gujarat,Premium Hatchback,386
+2023-01-01,Gujarat,Micro SUV,402
+2023-01-01,Telangana,Hatchback,550
+2023-01-01,Telangana,Compact SUV,689
+2023-01-01,Telangana,Mid-size SUV,385
+2023-01-01,Telangana,Premium Hatchback,324
+2023-01-01,Telangana,Micro SUV,418
+2023-01-01,Rajasthan,Hatchback,479
+2023-01-01,Rajasthan,Compact SUV,594
+2023-01-01,Rajasthan,Mid-size SUV,447
+2023-01-01,Rajasthan,Premium Hatchback,370
+2023-01-01,Rajasthan,Micro SUV,405
+2023-01-01,West Bengal,Hatchback,610
+2023-01-01,West Bengal,Compact SUV,611
+2023-01-01,West Bengal,Mid-size SUV,498
+2023-01-01,West Bengal,Premium Hatchback,385
+2023-01-01,West Bengal,Micro SUV,465
+2023-01-01,Delhi,Hatchback,408
+2023-01-01,Delhi,Compact SUV,483
+2023-01-01,Delhi,Mid-size SUV,288
+2023-01-01,Delhi,Premium Hatchback,269
+2023-01-01,Delhi,Micro SUV,274
+2023-01-01,Kerala,Hatchback,394
+2023-01-01,Kerala,Compact SUV,366
+2023-01-01,Kerala,Mid-size SUV,249
+2023-01-01,Kerala,Premium Hatchback,321
+2023-01-01,Kerala,Micro SUV,234
+2023-02-01,Maharashtra,Hatchback,906
+2023-02-01,Maharashtra,Compact SUV,1089
+2023-02-01,Maharashtra,Mid-size SUV,720
+2023-02-01,Maharashtra,Premium Hatchback,559
+2023-02-01,Maharashtra,Micro SUV,669
+2023-02-01,Uttar Pradesh,Hatchback,1029
+2023-02-01,Uttar Pradesh,Compact SUV,1188
+2023-02-01,Uttar Pradesh,Mid-size SUV,797
+2023-02-01,Uttar Pradesh,Premium Hatchback,677
+2023-02-01,Uttar Pradesh,Micro SUV,779
+2023-02-01,Karnataka,Hatchback,703
+2023-02-01,Karnataka,Compact SUV,1004
+2023-02-01,Karnataka,Mid-size SUV,583
+2023-02-01,Karnataka,Premium Hatchback,465
+2023-02-01,Karnataka,Micro SUV,475
+2023-02-01,Tamil Nadu,Hatchback,656
+2023-02-01,Tamil Nadu,Compact SUV,877
+2023-02-01,Tamil Nadu,Mid-size SUV,585
+2023-02-01,Tamil Nadu,Premium Hatchback,493
+2023-02-01,Tamil Nadu,Micro SUV,523
+2023-02-01,Gujarat,Hatchback,589
+2023-02-01,Gujarat,Compact SUV,816
+2023-02-01,Gujarat,Mid-size SUV,440
+2023-02-01,Gujarat,Premium Hatchback,350
+2023-02-01,Gujarat,Micro SUV,487
+2023-02-01,Telangana,Hatchback,574
+2023-02-01,Telangana,Compact SUV,718
+2023-02-01,Telangana,Mid-size SUV,445
+2023-02-01,Telangana,Premium Hatchback,379
+2023-02-01,Telangana,Micro SUV,362
+2023-02-01,Rajasthan,Hatchback,523
+2023-02-01,Rajasthan,Compact SUV,582
+2023-02-01,Rajasthan,Mid-size SUV,316
+2023-02-01,Rajasthan,Premium Hatchback,374
+2023-02-01,Rajasthan,Micro SUV,356
+2023-02-01,West Bengal,Hatchback,626
+2023-02-01,West Bengal,Compact SUV,772
+2023-02-01,West Bengal,Mid-size SUV,423
+2023-02-01,West Bengal,Premium Hatchback,405
+2023-02-01,West Bengal,Micro SUV,403
+2023-02-01,Delhi,Hatchback,320
+2023-02-01,Delhi,Compact SUV,502
+2023-02-01,Delhi,Mid-size SUV,289
+2023-02-01,Delhi,Premium Hatchback,241
+2023-02-01,Delhi,Micro SUV,386
+2023-02-01,Kerala,Hatchback,298
+2023-02-01,Kerala,Compact SUV,468
+2023-02-01,Kerala,Mid-size SUV,237
+2023-02-01,Kerala,Premium Hatchback,277
+2023-02-01,Kerala,Micro SUV,284
+2023-03-01,Maharashtra,Hatchback,947
+2023-03-01,Maharashtra,Compact SUV,1102
+2023-03-01,Maharashtra,Mid-size SUV,681
+2023-03-01,Maharashtra,Premium Hatchback,642
+2023-03-01,Maharashtra,Micro SUV,766
+2023-03-01,Uttar Pradesh,Hatchback,1026
+2023-03-01,Uttar Pradesh,Compact SUV,1196
+2023-03-01,Uttar Pradesh,Mid-size SUV,787
+2023-03-01,Uttar Pradesh,Premium Hatchback,758
+2023-03-01,Uttar Pradesh,Micro SUV,746
+2023-03-01,Karnataka,Hatchback,772
+2023-03-01,Karnataka,Compact SUV,836
+2023-03-01,Karnataka,Mid-size SUV,541
+2023-03-01,Karnataka,Premium Hatchback,484
+2023-03-01,Karnataka,Micro SUV,539
+2023-03-01,Tamil Nadu,Hatchback,635
+2023-03-01,Tamil Nadu,Compact SUV,787
+2023-03-01,Tamil Nadu,Mid-size SUV,559
+2023-03-01,Tamil Nadu,Premium Hatchback,486
+2023-03-01,Tamil Nadu,Micro SUV,562
+2023-03-01,Gujarat,Hatchback,736
+2023-03-01,Gujarat,Compact SUV,811
+2023-03-01,Gujarat,Mid-size SUV,489
+2023-03-01,Gujarat,Premium Hatchback,483
+2023-03-01,Gujarat,Micro SUV,515
+2023-03-01,Telangana,Hatchback,513
+2023-03-01,Telangana,Compact SUV,640
+2023-03-01,Telangana,Mid-size SUV,451
+2023-03-01,Telangana,Premium Hatchback,352
+2023-03-01,Telangana,Micro SUV,410
+2023-03-01,Rajasthan,Hatchback,584
+2023-03-01,Rajasthan,Compact SUV,693
+2023-03-01,Rajasthan,Mid-size SUV,471
+2023-03-01,Rajasthan,Premium Hatchback,259
+2023-03-01,Rajasthan,Micro SUV,407
+2023-03-01,West Bengal,Hatchback,626
+2023-03-01,West Bengal,Compact SUV,663
+2023-03-01,West Bengal,Mid-size SUV,428
+2023-03-01,West Bengal,Premium Hatchback,346
+2023-03-01,West Bengal,Micro SUV,440
+2023-03-01,Delhi,Hatchback,482
+2023-03-01,Delhi,Compact SUV,594
+2023-03-01,Delhi,Mid-size SUV,278
+2023-03-01,Delhi,Premium Hatchback,288
+2023-03-01,Delhi,Micro SUV,327
+2023-03-01,Kerala,Hatchback,389
+2023-03-01,Kerala,Compact SUV,475
+2023-03-01,Kerala,Mid-size SUV,299
+2023-03-01,Kerala,Premium Hatchback,316
+2023-03-01,Kerala,Micro SUV,324
+2023-04-01,Maharashtra,Hatchback,876
+2023-04-01,Maharashtra,Compact SUV,1173
+2023-04-01,Maharashtra,Mid-size SUV,751
+2023-04-01,Maharashtra,Premium Hatchback,611
+2023-04-01,Maharashtra,Micro SUV,733
+2023-04-01,Uttar Pradesh,Hatchback,1006
+2023-04-01,Uttar Pradesh,Compact SUV,1237
+2023-04-01,Uttar Pradesh,Mid-size SUV,773
+2023-04-01,Uttar Pradesh,Premium Hatchback,554
+2023-04-01,Uttar Pradesh,Micro SUV,733
+2023-04-01,Karnataka,Hatchback,672
+2023-04-01,Karnataka,Compact SUV,811
+2023-04-01,Karnataka,Mid-size SUV,604
+2023-04-01,Karnataka,Premium Hatchback,476
+2023-04-01,Karnataka,Micro SUV,517
+2023-04-01,Tamil Nadu,Hatchback,640
+2023-04-01,Tamil Nadu,Compact SUV,832
+2023-04-01,Tamil Nadu,Mid-size SUV,556
+2023-04-01,Tamil Nadu,Premium Hatchback,392
+2023-04-01,Tamil Nadu,Micro SUV,491
+2023-04-01,Gujarat,Hatchback,689
+2023-04-01,Gujarat,Compact SUV,713
+2023-04-01,Gujarat,Mid-size SUV,498
+2023-04-01,Gujarat,Premium Hatchback,401
+2023-04-01,Gujarat,Micro SUV,474
+2023-04-01,Telangana,Hatchback,532
+2023-04-01,Telangana,Compact SUV,688
+2023-04-01,Telangana,Mid-size SUV,513
+2023-04-01,Telangana,Premium Hatchback,343
+2023-04-01,Telangana,Micro SUV,422
+2023-04-01,Rajasthan,Hatchback,622
+2023-04-01,Rajasthan,Compact SUV,630
+2023-04-01,Rajasthan,Mid-size SUV,491
+2023-04-01,Rajasthan,Premium Hatchback,344
+2023-04-01,Rajasthan,Micro SUV,473
+2023-04-01,West Bengal,Hatchback,625
+2023-04-01,West Bengal,Compact SUV,741
+2023-04-01,West Bengal,Mid-size SUV,452
+2023-04-01,West Bengal,Premium Hatchback,354
+2023-04-01,West Bengal,Micro SUV,440
+2023-04-01,Delhi,Hatchback,447
+2023-04-01,Delhi,Compact SUV,500
+2023-04-01,Delhi,Mid-size SUV,298
+2023-04-01,Delhi,Premium Hatchback,251
+2023-04-01,Delhi,Micro SUV,345
+2023-04-01,Kerala,Hatchback,424
+2023-04-01,Kerala,Compact SUV,425
+2023-04-01,Kerala,Mid-size SUV,254
+2023-04-01,Kerala,Premium Hatchback,255
+2023-04-01,Kerala,Micro SUV,341
+2023-05-01,Maharashtra,Hatchback,954
+2023-05-01,Maharashtra,Compact SUV,1054
+2023-05-01,Maharashtra,Mid-size SUV,682
+2023-05-01,Maharashtra,Premium Hatchback,541
+2023-05-01,Maharashtra,Micro SUV,654
+2023-05-01,Uttar Pradesh,Hatchback,1046
+2023-05-01,Uttar Pradesh,Compact SUV,1135
+2023-05-01,Uttar Pradesh,Mid-size SUV,676
+2023-05-01,Uttar Pradesh,Premium Hatchback,592
+2023-05-01,Uttar Pradesh,Micro SUV,732
+2023-05-01,Karnataka,Hatchback,713
+2023-05-01,Karnataka,Compact SUV,863
+2023-05-01,Karnataka,Mid-size SUV,580
+2023-05-01,Karnataka,Premium Hatchback,363
+2023-05-01,Karnataka,Micro SUV,559
+2023-05-01,Tamil Nadu,Hatchback,635
+2023-05-01,Tamil Nadu,Compact SUV,832
+2023-05-01,Tamil Nadu,Mid-size SUV,440
+2023-05-01,Tamil Nadu,Premium Hatchback,420
+2023-05-01,Tamil Nadu,Micro SUV,490
+2023-05-01,Gujarat,Hatchback,687
+2023-05-01,Gujarat,Compact SUV,710
+2023-05-01,Gujarat,Mid-size SUV,490
+2023-05-01,Gujarat,Premium Hatchback,361
+2023-05-01,Gujarat,Micro SUV,491
+2023-05-01,Telangana,Hatchback,576
+2023-05-01,Telangana,Compact SUV,724
+2023-05-01,Telangana,Mid-size SUV,392
+2023-05-01,Telangana,Premium Hatchback,391
+2023-05-01,Telangana,Micro SUV,461
+2023-05-01,Rajasthan,Hatchback,445
+2023-05-01,Rajasthan,Compact SUV,667
+2023-05-01,Rajasthan,Mid-size SUV,442
+2023-05-01,Rajasthan,Premium Hatchback,324
+2023-05-01,Rajasthan,Micro SUV,329
+2023-05-01,West Bengal,Hatchback,620
+2023-05-01,West Bengal,Compact SUV,656
+2023-05-01,West Bengal,Mid-size SUV,436
+2023-05-01,West Bengal,Premium Hatchback,371
+2023-05-01,West Bengal,Micro SUV,458
+2023-05-01,Delhi,Hatchback,368
+2023-05-01,Delhi,Compact SUV,457
+2023-05-01,Delhi,Mid-size SUV,309
+2023-05-01,Delhi,Premium Hatchback,301
+2023-05-01,Delhi,Micro SUV,396
+2023-05-01,Kerala,Hatchback,293
+2023-05-01,Kerala,Compact SUV,458
+2023-05-01,Kerala,Mid-size SUV,228
+2023-05-01,Kerala,Premium Hatchback,279
+2023-05-01,Kerala,Micro SUV,224
+2023-06-01,Maharashtra,Hatchback,840
+2023-06-01,Maharashtra,Compact SUV,1045
+2023-06-01,Maharashtra,Mid-size SUV,666
+2023-06-01,Maharashtra,Premium Hatchback,577
+2023-06-01,Maharashtra,Micro SUV,664
+2023-06-01,Uttar Pradesh,Hatchback,940
+2023-06-01,Uttar Pradesh,Compact SUV,1097
+2023-06-01,Uttar Pradesh,Mid-size SUV,756
+2023-06-01,Uttar Pradesh,Premium Hatchback,605
+2023-06-01,Uttar Pradesh,Micro SUV,746
+2023-06-01,Karnataka,Hatchback,630
+2023-06-01,Karnataka,Compact SUV,742
+2023-06-01,Karnataka,Mid-size SUV,507
+2023-06-01,Karnataka,Premium Hatchback,486
+2023-06-01,Karnataka,Micro SUV,496
+2023-06-01,Tamil Nadu,Hatchback,618
+2023-06-01,Tamil Nadu,Compact SUV,732
+2023-06-01,Tamil Nadu,Mid-size SUV,561
+2023-06-01,Tamil Nadu,Premium Hatchback,358
+2023-06-01,Tamil Nadu,Micro SUV,430
+2023-06-01,Gujarat,Hatchback,638
+2023-06-01,Gujarat,Compact SUV,671
+2023-06-01,Gujarat,Mid-size SUV,529
+2023-06-01,Gujarat,Premium Hatchback,424
+2023-06-01,Gujarat,Micro SUV,493
+2023-06-01,Telangana,Hatchback,547
+2023-06-01,Telangana,Compact SUV,635
+2023-06-01,Telangana,Mid-size SUV,354
+2023-06-01,Telangana,Premium Hatchback,331
+2023-06-01,Telangana,Micro SUV,342
+2023-06-01,Rajasthan,Hatchback,523
+2023-06-01,Rajasthan,Compact SUV,653
+2023-06-01,Rajasthan,Mid-size SUV,452
+2023-06-01,Rajasthan,Premium Hatchback,340
+2023-06-01,Rajasthan,Micro SUV,412
+2023-06-01,West Bengal,Hatchback,544
+2023-06-01,West Bengal,Compact SUV,664
+2023-06-01,West Bengal,Mid-size SUV,450
+2023-06-01,West Bengal,Premium Hatchback,342
+2023-06-01,West Bengal,Micro SUV,423
+2023-06-01,Delhi,Hatchback,335
+2023-06-01,Delhi,Compact SUV,432
+2023-06-01,Delhi,Mid-size SUV,323
+2023-06-01,Delhi,Premium Hatchback,287
+2023-06-01,Delhi,Micro SUV,238
+2023-06-01,Kerala,Hatchback,378
+2023-06-01,Kerala,Compact SUV,404
+2023-06-01,Kerala,Mid-size SUV,268
+2023-06-01,Kerala,Premium Hatchback,288
+2023-06-01,Kerala,Micro SUV,293
+2023-07-01,Maharashtra,Hatchback,875
+2023-07-01,Maharashtra,Compact SUV,1118
+2023-07-01,Maharashtra,Mid-size SUV,613
+2023-07-01,Maharashtra,Premium Hatchback,497
+2023-07-01,Maharashtra,Micro SUV,587
+2023-07-01,Uttar Pradesh,Hatchback,894
+2023-07-01,Uttar Pradesh,Compact SUV,1009
+2023-07-01,Uttar Pradesh,Mid-size SUV,687
+2023-07-01,Uttar Pradesh,Premium Hatchback,561
+2023-07-01,Uttar Pradesh,Micro SUV,704
+2023-07-01,Karnataka,Hatchback,653
+2023-07-01,Karnataka,Compact SUV,758
+2023-07-01,Karnataka,Mid-size SUV,517
+2023-07-01,Karnataka,Premium Hatchback,444
+2023-07-01,Karnataka,Micro SUV,436
+2023-07-01,Tamil Nadu,Hatchback,582
+2023-07-01,Tamil Nadu,Compact SUV,643
+2023-07-01,Tamil Nadu,Mid-size SUV,415
+2023-07-01,Tamil Nadu,Premium Hatchback,357
+2023-07-01,Tamil Nadu,Micro SUV,449
+2023-07-01,Gujarat,Hatchback,548
+2023-07-01,Gujarat,Compact SUV,704
+2023-07-01,Gujarat,Mid-size SUV,399
+2023-07-01,Gujarat,Premium Hatchback,389
+2023-07-01,Gujarat,Micro SUV,455
+2023-07-01,Telangana,Hatchback,521
+2023-07-01,Telangana,Compact SUV,620
+2023-07-01,Telangana,Mid-size SUV,318
+2023-07-01,Telangana,Premium Hatchback,297
+2023-07-01,Telangana,Micro SUV,353
+2023-07-01,Rajasthan,Hatchback,465
+2023-07-01,Rajasthan,Compact SUV,598
+2023-07-01,Rajasthan,Mid-size SUV,436
+2023-07-01,Rajasthan,Premium Hatchback,348
+2023-07-01,Rajasthan,Micro SUV,312
+2023-07-01,West Bengal,Hatchback,567
+2023-07-01,West Bengal,Compact SUV,689
+2023-07-01,West Bengal,Mid-size SUV,376
+2023-07-01,West Bengal,Premium Hatchback,385
+2023-07-01,West Bengal,Micro SUV,389
+2023-07-01,Delhi,Hatchback,305
+2023-07-01,Delhi,Compact SUV,474
+2023-07-01,Delhi,Mid-size SUV,293
+2023-07-01,Delhi,Premium Hatchback,228
+2023-07-01,Delhi,Micro SUV,271
+2023-07-01,Kerala,Hatchback,303
+2023-07-01,Kerala,Compact SUV,440
+2023-07-01,Kerala,Mid-size SUV,256
+2023-07-01,Kerala,Premium Hatchback,224
+2023-07-01,Kerala,Micro SUV,263
+2023-08-01,Maharashtra,Hatchback,764
+2023-08-01,Maharashtra,Compact SUV,964
+2023-08-01,Maharashtra,Mid-size SUV,528
+2023-08-01,Maharashtra,Premium Hatchback,553
+2023-08-01,Maharashtra,Micro SUV,548
+2023-08-01,Uttar Pradesh,Hatchback,888
+2023-08-01,Uttar Pradesh,Compact SUV,1102
+2023-08-01,Uttar Pradesh,Mid-size SUV,705
+2023-08-01,Uttar Pradesh,Premium Hatchback,515
+2023-08-01,Uttar Pradesh,Micro SUV,648
+2023-08-01,Karnataka,Hatchback,695
+2023-08-01,Karnataka,Compact SUV,841
+2023-08-01,Karnataka,Mid-size SUV,521
+2023-08-01,Karnataka,Premium Hatchback,416
+2023-08-01,Karnataka,Micro SUV,413
+2023-08-01,Tamil Nadu,Hatchback,620
+2023-08-01,Tamil Nadu,Compact SUV,716
+2023-08-01,Tamil Nadu,Mid-size SUV,477
+2023-08-01,Tamil Nadu,Premium Hatchback,351
+2023-08-01,Tamil Nadu,Micro SUV,426
+2023-08-01,Gujarat,Hatchback,582
+2023-08-01,Gujarat,Compact SUV,718
+2023-08-01,Gujarat,Mid-size SUV,464
+2023-08-01,Gujarat,Premium Hatchback,345
+2023-08-01,Gujarat,Micro SUV,364
+2023-08-01,Telangana,Hatchback,563
+2023-08-01,Telangana,Compact SUV,715
+2023-08-01,Telangana,Mid-size SUV,397
+2023-08-01,Telangana,Premium Hatchback,257
+2023-08-01,Telangana,Micro SUV,327
+2023-08-01,Rajasthan,Hatchback,493
+2023-08-01,Rajasthan,Compact SUV,639
+2023-08-01,Rajasthan,Mid-size SUV,307
+2023-08-01,Rajasthan,Premium Hatchback,298
+2023-08-01,Rajasthan,Micro SUV,356
+2023-08-01,West Bengal,Hatchback,561
+2023-08-01,West Bengal,Compact SUV,627
+2023-08-01,West Bengal,Mid-size SUV,331
+2023-08-01,West Bengal,Premium Hatchback,365
+2023-08-01,West Bengal,Micro SUV,436
+2023-08-01,Delhi,Hatchback,355
+2023-08-01,Delhi,Compact SUV,460
+2023-08-01,Delhi,Mid-size SUV,255
+2023-08-01,Delhi,Premium Hatchback,194
+2023-08-01,Delhi,Micro SUV,311
+2023-08-01,Kerala,Hatchback,344
+2023-08-01,Kerala,Compact SUV,424
+2023-08-01,Kerala,Mid-size SUV,318
+2023-08-01,Kerala,Premium Hatchback,163
+2023-08-01,Kerala,Micro SUV,216
+2023-09-01,Maharashtra,Hatchback,817
+2023-09-01,Maharashtra,Compact SUV,971
+2023-09-01,Maharashtra,Mid-size SUV,658
+2023-09-01,Maharashtra,Premium Hatchback,515
+2023-09-01,Maharashtra,Micro SUV,553
+2023-09-01,Uttar Pradesh,Hatchback,878
+2023-09-01,Uttar Pradesh,Compact SUV,1084
+2023-09-01,Uttar Pradesh,Mid-size SUV,715
+2023-09-01,Uttar Pradesh,Premium Hatchback,583
+2023-09-01,Uttar Pradesh,Micro SUV,666
+2023-09-01,Karnataka,Hatchback,630
+2023-09-01,Karnataka,Compact SUV,749
+2023-09-01,Karnataka,Mid-size SUV,441
+2023-09-01,Karnataka,Premium Hatchback,410
+2023-09-01,Karnataka,Micro SUV,439
+2023-09-01,Tamil Nadu,Hatchback,659
+2023-09-01,Tamil Nadu,Compact SUV,778
+2023-09-01,Tamil Nadu,Mid-size SUV,477
+2023-09-01,Tamil Nadu,Premium Hatchback,394
+2023-09-01,Tamil Nadu,Micro SUV,426
+2023-09-01,Gujarat,Hatchback,513
+2023-09-01,Gujarat,Compact SUV,692
+2023-09-01,Gujarat,Mid-size SUV,443
+2023-09-01,Gujarat,Premium Hatchback,378
+2023-09-01,Gujarat,Micro SUV,442
+2023-09-01,Telangana,Hatchback,527
+2023-09-01,Telangana,Compact SUV,567
+2023-09-01,Telangana,Mid-size SUV,343
+2023-09-01,Telangana,Premium Hatchback,379
+2023-09-01,Telangana,Micro SUV,393
+2023-09-01,Rajasthan,Hatchback,449
+2023-09-01,Rajasthan,Compact SUV,569
+2023-09-01,Rajasthan,Mid-size SUV,354
+2023-09-01,Rajasthan,Premium Hatchback,302
+2023-09-01,Rajasthan,Micro SUV,365
+2023-09-01,West Bengal,Hatchback,632
+2023-09-01,West Bengal,Compact SUV,646
+2023-09-01,West Bengal,Mid-size SUV,428
+2023-09-01,West Bengal,Premium Hatchback,259
+2023-09-01,West Bengal,Micro SUV,361
+2023-09-01,Delhi,Hatchback,411
+2023-09-01,Delhi,Compact SUV,456
+2023-09-01,Delhi,Mid-size SUV,76
+2023-09-01,Delhi,Premium Hatchback,260
+2023-09-01,Delhi,Micro SUV,349
+2023-09-01,Kerala,Hatchback,234
+2023-09-01,Kerala,Compact SUV,467
+2023-09-01,Kerala,Mid-size SUV,124
+2023-09-01,Kerala,Premium Hatchback,251
+2023-09-01,Kerala,Micro SUV,238
+2023-10-01,Maharashtra,Hatchback,717
+2023-10-01,Maharashtra,Compact SUV,1032
+2023-10-01,Maharashtra,Mid-size SUV,684
+2023-10-01,Maharashtra,Premium Hatchback,548
+2023-10-01,Maharashtra,Micro SUV,633
+2023-10-01,Uttar Pradesh,Hatchback,870
+2023-10-01,Uttar Pradesh,Compact SUV,1009
+2023-10-01,Uttar Pradesh,Mid-size SUV,714
+2023-10-01,Uttar Pradesh,Premium Hatchback,652
+2023-10-01,Uttar Pradesh,Micro SUV,707
+2023-10-01,Karnataka,Hatchback,535
+2023-10-01,Karnataka,Compact SUV,701
+2023-10-01,Karnataka,Mid-size SUV,442
+2023-10-01,Karnataka,Premium Hatchback,332
+2023-10-01,Karnataka,Micro SUV,463
+2023-10-01,Tamil Nadu,Hatchback,610
+2023-10-01,Tamil Nadu,Compact SUV,664
+2023-10-01,Tamil Nadu,Mid-size SUV,490
+2023-10-01,Tamil Nadu,Premium Hatchback,409
+2023-10-01,Tamil Nadu,Micro SUV,412
+2023-10-01,Gujarat,Hatchback,571
+2023-10-01,Gujarat,Compact SUV,625
+2023-10-01,Gujarat,Mid-size SUV,430
+2023-10-01,Gujarat,Premium Hatchback,374
+2023-10-01,Gujarat,Micro SUV,435
+2023-10-01,Telangana,Hatchback,510
+2023-10-01,Telangana,Compact SUV,618
+2023-10-01,Telangana,Mid-size SUV,367
+2023-10-01,Telangana,Premium Hatchback,331
+2023-10-01,Telangana,Micro SUV,409
+2023-10-01,Rajasthan,Hatchback,469
+2023-10-01,Rajasthan,Compact SUV,597
+2023-10-01,Rajasthan,Mid-size SUV,356
+2023-10-01,Rajasthan,Premium Hatchback,277
+2023-10-01,Rajasthan,Micro SUV,373
+2023-10-01,West Bengal,Hatchback,501
+2023-10-01,West Bengal,Compact SUV,665
+2023-10-01,West Bengal,Mid-size SUV,406
+2023-10-01,West Bengal,Premium Hatchback,326
+2023-10-01,West Bengal,Micro SUV,374
+2023-10-01,Delhi,Hatchback,339
+2023-10-01,Delhi,Compact SUV,371
+2023-10-01,Delhi,Mid-size SUV,295
+2023-10-01,Delhi,Premium Hatchback,244
+2023-10-01,Delhi,Micro SUV,305
+2023-10-01,Kerala,Hatchback,305
+2023-10-01,Kerala,Compact SUV,490
+2023-10-01,Kerala,Mid-size SUV,236
+2023-10-01,Kerala,Premium Hatchback,173
+2023-10-01,Kerala,Micro SUV,198
+2023-11-01,Maharashtra,Hatchback,773
+2023-11-01,Maharashtra,Compact SUV,1117
+2023-11-01,Maharashtra,Mid-size SUV,716
+2023-11-01,Maharashtra,Premium Hatchback,577
+2023-11-01,Maharashtra,Micro SUV,588
+2023-11-01,Uttar Pradesh,Hatchback,1001
+2023-11-01,Uttar Pradesh,Compact SUV,1116
+2023-11-01,Uttar Pradesh,Mid-size SUV,695
+2023-11-01,Uttar Pradesh,Premium Hatchback,659
+2023-11-01,Uttar Pradesh,Micro SUV,708
+2023-11-01,Karnataka,Hatchback,746
+2023-11-01,Karnataka,Compact SUV,807
+2023-11-01,Karnataka,Mid-size SUV,480
+2023-11-01,Karnataka,Premium Hatchback,390
+2023-11-01,Karnataka,Micro SUV,394
+2023-11-01,Tamil Nadu,Hatchback,600
+2023-11-01,Tamil Nadu,Compact SUV,806
+2023-11-01,Tamil Nadu,Mid-size SUV,498
+2023-11-01,Tamil Nadu,Premium Hatchback,397
+2023-11-01,Tamil Nadu,Micro SUV,408
+2023-11-01,Gujarat,Hatchback,609
+2023-11-01,Gujarat,Compact SUV,783
+2023-11-01,Gujarat,Mid-size SUV,480
+2023-11-01,Gujarat,Premium Hatchback,394
+2023-11-01,Gujarat,Micro SUV,406
+2023-11-01,Telangana,Hatchback,550
+2023-11-01,Telangana,Compact SUV,488
+2023-11-01,Telangana,Mid-size SUV,410
+2023-11-01,Telangana,Premium Hatchback,445
+2023-11-01,Telangana,Micro SUV,309
+2023-11-01,Rajasthan,Hatchback,479
+2023-11-01,Rajasthan,Compact SUV,603
+2023-11-01,Rajasthan,Mid-size SUV,356
+2023-11-01,Rajasthan,Premium Hatchback,363
+2023-11-01,Rajasthan,Micro SUV,383
+2023-11-01,West Bengal,Hatchback,551
+2023-11-01,West Bengal,Compact SUV,706
+2023-11-01,West Bengal,Mid-size SUV,420
+2023-11-01,West Bengal,Premium Hatchback,495
+2023-11-01,West Bengal,Micro SUV,409
+2023-11-01,Delhi,Hatchback,383
+2023-11-01,Delhi,Compact SUV,384
+2023-11-01,Delhi,Mid-size SUV,263
+2023-11-01,Delhi,Premium Hatchback,293
+2023-11-01,Delhi,Micro SUV,216
+2023-11-01,Kerala,Hatchback,243
+2023-11-01,Kerala,Compact SUV,420
+2023-11-01,Kerala,Mid-size SUV,323
+2023-11-01,Kerala,Premium Hatchback,222
+2023-11-01,Kerala,Micro SUV,236
+2023-12-01,Maharashtra,Hatchback,806
+2023-12-01,Maharashtra,Compact SUV,1116
+2023-12-01,Maharashtra,Mid-size SUV,714
+2023-12-01,Maharashtra,Premium Hatchback,495
+2023-12-01,Maharashtra,Micro SUV,708
+2023-12-01,Uttar Pradesh,Hatchback,996
+2023-12-01,Uttar Pradesh,Compact SUV,1234
+2023-12-01,Uttar Pradesh,Mid-size SUV,766
+2023-12-01,Uttar Pradesh,Premium Hatchback,650
+2023-12-01,Uttar Pradesh,Micro SUV,733
+2023-12-01,Karnataka,Hatchback,715
+2023-12-01,Karnataka,Compact SUV,751
+2023-12-01,Karnataka,Mid-size SUV,453
+2023-12-01,Karnataka,Premium Hatchback,404
+2023-12-01,Karnataka,Micro SUV,493
+2023-12-01,Tamil Nadu,Hatchback,658
+2023-12-01,Tamil Nadu,Compact SUV,803
+2023-12-01,Tamil Nadu,Mid-size SUV,543
+2023-12-01,Tamil Nadu,Premium Hatchback,465
+2023-12-01,Tamil Nadu,Micro SUV,434
+2023-12-01,Gujarat,Hatchback,637
+2023-12-01,Gujarat,Compact SUV,733
+2023-12-01,Gujarat,Mid-size SUV,473
+2023-12-01,Gujarat,Premium Hatchback,419
+2023-12-01,Gujarat,Micro SUV,309
+2023-12-01,Telangana,Hatchback,642
+2023-12-01,Telangana,Compact SUV,683
+2023-12-01,Telangana,Mid-size SUV,384
+2023-12-01,Telangana,Premium Hatchback,431
+2023-12-01,Telangana,Micro SUV,378
+2023-12-01,Rajasthan,Hatchback,518
+2023-12-01,Rajasthan,Compact SUV,609
+2023-12-01,Rajasthan,Mid-size SUV,468
+2023-12-01,Rajasthan,Premium Hatchback,326
+2023-12-01,Rajasthan,Micro SUV,385
+2023-12-01,West Bengal,Hatchback,624
+2023-12-01,West Bengal,Compact SUV,727
+2023-12-01,West Bengal,Mid-size SUV,435
+2023-12-01,West Bengal,Premium Hatchback,418
+2023-12-01,West Bengal,Micro SUV,535
+2023-12-01,Delhi,Hatchback,406
+2023-12-01,Delhi,Compact SUV,487
+2023-12-01,Delhi,Mid-size SUV,309
+2023-12-01,Delhi,Premium Hatchback,312
+2023-12-01,Delhi,Micro SUV,262
+2023-12-01,Kerala,Hatchback,343
+2023-12-01,Kerala,Compact SUV,369
+2023-12-01,Kerala,Mid-size SUV,220
+2023-12-01,Kerala,Premium Hatchback,206
+2023-12-01,Kerala,Micro SUV,260
+2024-01-01,Maharashtra,Hatchback,1009
+2024-01-01,Maharashtra,Compact SUV,1168
+2024-01-01,Maharashtra,Mid-size SUV,673
+2024-01-01,Maharashtra,Premium Hatchback,567
+2024-01-01,Maharashtra,Micro SUV,748
+2024-01-01,Uttar Pradesh,Hatchback,1054
+2024-01-01,Uttar Pradesh,Compact SUV,1236
+2024-01-01,Uttar Pradesh,Mid-size SUV,752
+2024-01-01,Uttar Pradesh,Premium Hatchback,699
+2024-01-01,Uttar Pradesh,Micro SUV,696
+2024-01-01,Karnataka,Hatchback,724
+2024-01-01,Karnataka,Compact SUV,971
+2024-01-01,Karnataka,Mid-size SUV,552
+2024-01-01,Karnataka,Premium Hatchback,421
+2024-01-01,Karnataka,Micro SUV,540
+2024-01-01,Tamil Nadu,Hatchback,648
+2024-01-01,Tamil Nadu,Compact SUV,760
+2024-01-01,Tamil Nadu,Mid-size SUV,546
+2024-01-01,Tamil Nadu,Premium Hatchback,482
+2024-01-01,Tamil Nadu,Micro SUV,480
+2024-01-01,Gujarat,Hatchback,637
+2024-01-01,Gujarat,Compact SUV,762
+2024-01-01,Gujarat,Mid-size SUV,496
+2024-01-01,Gujarat,Premium Hatchback,397
+2024-01-01,Gujarat,Micro SUV,437
+2024-01-01,Telangana,Hatchback,642
+2024-01-01,Telangana,Compact SUV,707
+2024-01-01,Telangana,Mid-size SUV,454
+2024-01-01,Telangana,Premium Hatchback,400
+2024-01-01,Telangana,Micro SUV,446
+2024-01-01,Rajasthan,Hatchback,516
+2024-01-01,Rajasthan,Compact SUV,671
+2024-01-01,Rajasthan,Mid-size SUV,399
+2024-01-01,Rajasthan,Premium Hatchback,365
+2024-01-01,Rajasthan,Micro SUV,410
+2024-01-01,West Bengal,Hatchback,577
+2024-01-01,West Bengal,Compact SUV,672
+2024-01-01,West Bengal,Mid-size SUV,464
+2024-01-01,West Bengal,Premium Hatchback,375
+2024-01-01,West Bengal,Micro SUV,354
+2024-01-01,Delhi,Hatchback,431
+2024-01-01,Delhi,Compact SUV,546
+2024-01-01,Delhi,Mid-size SUV,428
+2024-01-01,Delhi,Premium Hatchback,246
+2024-01-01,Delhi,Micro SUV,277
+2024-01-01,Kerala,Hatchback,321
+2024-01-01,Kerala,Compact SUV,466
+2024-01-01,Kerala,Mid-size SUV,295
+2024-01-01,Kerala,Premium Hatchback,203
+2024-01-01,Kerala,Micro SUV,266
+2024-02-01,Maharashtra,Hatchback,870
+2024-02-01,Maharashtra,Compact SUV,1222
+2024-02-01,Maharashtra,Mid-size SUV,703
+2024-02-01,Maharashtra,Premium Hatchback,618
+2024-02-01,Maharashtra,Micro SUV,644
+2024-02-01,Uttar Pradesh,Hatchback,1009
+2024-02-01,Uttar Pradesh,Compact SUV,1262
+2024-02-01,Uttar Pradesh,Mid-size SUV,796
+2024-02-01,Uttar Pradesh,Premium Hatchback,690
+2024-02-01,Uttar Pradesh,Micro SUV,829
+2024-02-01,Karnataka,Hatchback,761
+2024-02-01,Karnataka,Compact SUV,940
+2024-02-01,Karnataka,Mid-size SUV,625
+2024-02-01,Karnataka,Premium Hatchback,496
+2024-02-01,Karnataka,Micro SUV,536
+2024-02-01,Tamil Nadu,Hatchback,735
+2024-02-01,Tamil Nadu,Compact SUV,898
+2024-02-01,Tamil Nadu,Mid-size SUV,560
+2024-02-01,Tamil Nadu,Premium Hatchback,380
+2024-02-01,Tamil Nadu,Micro SUV,472
+2024-02-01,Gujarat,Hatchback,662
+2024-02-01,Gujarat,Compact SUV,866
+2024-02-01,Gujarat,Mid-size SUV,518
+2024-02-01,Gujarat,Premium Hatchback,487
+2024-02-01,Gujarat,Micro SUV,557
+2024-02-01,Telangana,Hatchback,629
+2024-02-01,Telangana,Compact SUV,762
+2024-02-01,Telangana,Mid-size SUV,396
+2024-02-01,Telangana,Premium Hatchback,393
+2024-02-01,Telangana,Micro SUV,397
+2024-02-01,Rajasthan,Hatchback,478
+2024-02-01,Rajasthan,Compact SUV,667
+2024-02-01,Rajasthan,Mid-size SUV,484
+2024-02-01,Rajasthan,Premium Hatchback,377
+2024-02-01,Rajasthan,Micro SUV,498
+2024-02-01,West Bengal,Hatchback,621
+2024-02-01,West Bengal,Compact SUV,865
+2024-02-01,West Bengal,Mid-size SUV,480
+2024-02-01,West Bengal,Premium Hatchback,397
+2024-02-01,West Bengal,Micro SUV,395
+2024-02-01,Delhi,Hatchback,471
+2024-02-01,Delhi,Compact SUV,496
+2024-02-01,Delhi,Mid-size SUV,295
+2024-02-01,Delhi,Premium Hatchback,330
+2024-02-01,Delhi,Micro SUV,363
+2024-02-01,Kerala,Hatchback,434
+2024-02-01,Kerala,Compact SUV,455
+2024-02-01,Kerala,Mid-size SUV,292
+2024-02-01,Kerala,Premium Hatchback,245
+2024-02-01,Kerala,Micro SUV,318
+2024-03-01,Maharashtra,Hatchback,1042
+2024-03-01,Maharashtra,Compact SUV,1213
+2024-03-01,Maharashtra,Mid-size SUV,836
+2024-03-01,Maharashtra,Premium Hatchback,668
+2024-03-01,Maharashtra,Micro SUV,707
+2024-03-01,Uttar Pradesh,Hatchback,1087
+2024-03-01,Uttar Pradesh,Compact SUV,1369
+2024-03-01,Uttar Pradesh,Mid-size SUV,897
+2024-03-01,Uttar Pradesh,Premium Hatchback,731
+2024-03-01,Uttar Pradesh,Micro SUV,776
+2024-03-01,Karnataka,Hatchback,729
+2024-03-01,Karnataka,Compact SUV,935
+2024-03-01,Karnataka,Mid-size SUV,643
+2024-03-01,Karnataka,Premium Hatchback,496
+2024-03-01,Karnataka,Micro SUV,566
+2024-03-01,Tamil Nadu,Hatchback,702
+2024-03-01,Tamil Nadu,Compact SUV,846
+2024-03-01,Tamil Nadu,Mid-size SUV,531
+2024-03-01,Tamil Nadu,Premium Hatchback,458
+2024-03-01,Tamil Nadu,Micro SUV,594
+2024-03-01,Gujarat,Hatchback,673
+2024-03-01,Gujarat,Compact SUV,844
+2024-03-01,Gujarat,Mid-size SUV,487
+2024-03-01,Gujarat,Premium Hatchback,474
+2024-03-01,Gujarat,Micro SUV,566
+2024-03-01,Telangana,Hatchback,656
+2024-03-01,Telangana,Compact SUV,727
+2024-03-01,Telangana,Mid-size SUV,474
+2024-03-01,Telangana,Premium Hatchback,370
+2024-03-01,Telangana,Micro SUV,454
+2024-03-01,Rajasthan,Hatchback,574
+2024-03-01,Rajasthan,Compact SUV,691
+2024-03-01,Rajasthan,Mid-size SUV,436
+2024-03-01,Rajasthan,Premium Hatchback,382
+2024-03-01,Rajasthan,Micro SUV,400
+2024-03-01,West Bengal,Hatchback,611
+2024-03-01,West Bengal,Compact SUV,842
+2024-03-01,West Bengal,Mid-size SUV,600
+2024-03-01,West Bengal,Premium Hatchback,347
+2024-03-01,West Bengal,Micro SUV,402
+2024-03-01,Delhi,Hatchback,384
+2024-03-01,Delhi,Compact SUV,521
+2024-03-01,Delhi,Mid-size SUV,369
+2024-03-01,Delhi,Premium Hatchback,303
+2024-03-01,Delhi,Micro SUV,323
+2024-03-01,Kerala,Hatchback,412
+2024-03-01,Kerala,Compact SUV,447
+2024-03-01,Kerala,Mid-size SUV,288
+2024-03-01,Kerala,Premium Hatchback,250
+2024-03-01,Kerala,Micro SUV,215
+2024-04-01,Maharashtra,Hatchback,913
+2024-04-01,Maharashtra,Compact SUV,1138
+2024-04-01,Maharashtra,Mid-size SUV,777
+2024-04-01,Maharashtra,Premium Hatchback,635
+2024-04-01,Maharashtra,Micro SUV,740
+2024-04-01,Uttar Pradesh,Hatchback,960
+2024-04-01,Uttar Pradesh,Compact SUV,1217
+2024-04-01,Uttar Pradesh,Mid-size SUV,832
+2024-04-01,Uttar Pradesh,Premium Hatchback,549
+2024-04-01,Uttar Pradesh,Micro SUV,825
+2024-04-01,Karnataka,Hatchback,652
+2024-04-01,Karnataka,Compact SUV,941
+2024-04-01,Karnataka,Mid-size SUV,524
+2024-04-01,Karnataka,Premium Hatchback,521
+2024-04-01,Karnataka,Micro SUV,686
+2024-04-01,Tamil Nadu,Hatchback,593
+2024-04-01,Tamil Nadu,Compact SUV,887
+2024-04-01,Tamil Nadu,Mid-size SUV,453
+2024-04-01,Tamil Nadu,Premium Hatchback,468
+2024-04-01,Tamil Nadu,Micro SUV,504
+2024-04-01,Gujarat,Hatchback,685
+2024-04-01,Gujarat,Compact SUV,796
+2024-04-01,Gujarat,Mid-size SUV,558
+2024-04-01,Gujarat,Premium Hatchback,374
+2024-04-01,Gujarat,Micro SUV,558
+2024-04-01,Telangana,Hatchback,561
+2024-04-01,Telangana,Compact SUV,650
+2024-04-01,Telangana,Mid-size SUV,517
+2024-04-01,Telangana,Premium Hatchback,371
+2024-04-01,Telangana,Micro SUV,513
+2024-04-01,Rajasthan,Hatchback,611
+2024-04-01,Rajasthan,Compact SUV,648
+2024-04-01,Rajasthan,Mid-size SUV,424
+2024-04-01,Rajasthan,Premium Hatchback,365
+2024-04-01,Rajasthan,Micro SUV,479
+2024-04-01,West Bengal,Hatchback,637
+2024-04-01,West Bengal,Compact SUV,768
+2024-04-01,West Bengal,Mid-size SUV,466
+2024-04-01,West Bengal,Premium Hatchback,397
+2024-04-01,West Bengal,Micro SUV,515
+2024-04-01,Delhi,Hatchback,425
+2024-04-01,Delhi,Compact SUV,505
+2024-04-01,Delhi,Mid-size SUV,301
+2024-04-01,Delhi,Premium Hatchback,249
+2024-04-01,Delhi,Micro SUV,250
+2024-04-01,Kerala,Hatchback,352
+2024-04-01,Kerala,Compact SUV,543
+2024-04-01,Kerala,Mid-size SUV,287
+2024-04-01,Kerala,Premium Hatchback,281
+2024-04-01,Kerala,Micro SUV,173
+2024-05-01,Maharashtra,Hatchback,968
+2024-05-01,Maharashtra,Compact SUV,1153
+2024-05-01,Maharashtra,Mid-size SUV,703
+2024-05-01,Maharashtra,Premium Hatchback,617
+2024-05-01,Maharashtra,Micro SUV,674
+2024-05-01,Uttar Pradesh,Hatchback,922
+2024-05-01,Uttar Pradesh,Compact SUV,1294
+2024-05-01,Uttar Pradesh,Mid-size SUV,794
+2024-05-01,Uttar Pradesh,Premium Hatchback,643
+2024-05-01,Uttar Pradesh,Micro SUV,708
+2024-05-01,Karnataka,Hatchback,650
+2024-05-01,Karnataka,Compact SUV,892
+2024-05-01,Karnataka,Mid-size SUV,623
+2024-05-01,Karnataka,Premium Hatchback,472
+2024-05-01,Karnataka,Micro SUV,467
+2024-05-01,Tamil Nadu,Hatchback,689
+2024-05-01,Tamil Nadu,Compact SUV,833
+2024-05-01,Tamil Nadu,Mid-size SUV,561
+2024-05-01,Tamil Nadu,Premium Hatchback,466
+2024-05-01,Tamil Nadu,Micro SUV,367
+2024-05-01,Gujarat,Hatchback,688
+2024-05-01,Gujarat,Compact SUV,771
+2024-05-01,Gujarat,Mid-size SUV,446
+2024-05-01,Gujarat,Premium Hatchback,420
+2024-05-01,Gujarat,Micro SUV,508
+2024-05-01,Telangana,Hatchback,491
+2024-05-01,Telangana,Compact SUV,728
+2024-05-01,Telangana,Mid-size SUV,469
+2024-05-01,Telangana,Premium Hatchback,367
+2024-05-01,Telangana,Micro SUV,378
+2024-05-01,Rajasthan,Hatchback,499
+2024-05-01,Rajasthan,Compact SUV,714
+2024-05-01,Rajasthan,Mid-size SUV,349
+2024-05-01,Rajasthan,Premium Hatchback,398
+2024-05-01,Rajasthan,Micro SUV,393
+2024-05-01,West Bengal,Hatchback,599
+2024-05-01,West Bengal,Compact SUV,665
+2024-05-01,West Bengal,Mid-size SUV,457
+2024-05-01,West Bengal,Premium Hatchback,417
+2024-05-01,West Bengal,Micro SUV,385
+2024-05-01,Delhi,Hatchback,437
+2024-05-01,Delhi,Compact SUV,514
+2024-05-01,Delhi,Mid-size SUV,290
+2024-05-01,Delhi,Premium Hatchback,306
+2024-05-01,Delhi,Micro SUV,207
+2024-05-01,Kerala,Hatchback,392
+2024-05-01,Kerala,Compact SUV,537
+2024-05-01,Kerala,Mid-size SUV,354
+2024-05-01,Kerala,Premium Hatchback,261
+2024-05-01,Kerala,Micro SUV,264
+2024-06-01,Maharashtra,Hatchback,881
+2024-06-01,Maharashtra,Compact SUV,1106
+2024-06-01,Maharashtra,Mid-size SUV,724
+2024-06-01,Maharashtra,Premium Hatchback,551
+2024-06-01,Maharashtra,Micro SUV,706
+2024-06-01,Uttar Pradesh,Hatchback,1078
+2024-06-01,Uttar Pradesh,Compact SUV,1206
+2024-06-01,Uttar Pradesh,Mid-size SUV,695
+2024-06-01,Uttar Pradesh,Premium Hatchback,574
+2024-06-01,Uttar Pradesh,Micro SUV,760
+2024-06-01,Karnataka,Hatchback,688
+2024-06-01,Karnataka,Compact SUV,890
+2024-06-01,Karnataka,Mid-size SUV,507
+2024-06-01,Karnataka,Premium Hatchback,484
+2024-06-01,Karnataka,Micro SUV,503
+2024-06-01,Tamil Nadu,Hatchback,622
+2024-06-01,Tamil Nadu,Compact SUV,788
+2024-06-01,Tamil Nadu,Mid-size SUV,450
+2024-06-01,Tamil Nadu,Premium Hatchback,512
+2024-06-01,Tamil Nadu,Micro SUV,479
+2024-06-01,Gujarat,Hatchback,669
+2024-06-01,Gujarat,Compact SUV,764
+2024-06-01,Gujarat,Mid-size SUV,445
+2024-06-01,Gujarat,Premium Hatchback,403
+2024-06-01,Gujarat,Micro SUV,522
+2024-06-01,Telangana,Hatchback,522
+2024-06-01,Telangana,Compact SUV,632
+2024-06-01,Telangana,Mid-size SUV,426
+2024-06-01,Telangana,Premium Hatchback,375
+2024-06-01,Telangana,Micro SUV,477
+2024-06-01,Rajasthan,Hatchback,540
+2024-06-01,Rajasthan,Compact SUV,674
+2024-06-01,Rajasthan,Mid-size SUV,435
+2024-06-01,Rajasthan,Premium Hatchback,286
+2024-06-01,Rajasthan,Micro SUV,343
+2024-06-01,West Bengal,Hatchback,533
+2024-06-01,West Bengal,Compact SUV,656
+2024-06-01,West Bengal,Mid-size SUV,483
+2024-06-01,West Bengal,Premium Hatchback,389
+2024-06-01,West Bengal,Micro SUV,433
+2024-06-01,Delhi,Hatchback,283
+2024-06-01,Delhi,Compact SUV,585
+2024-06-01,Delhi,Mid-size SUV,267
+2024-06-01,Delhi,Premium Hatchback,351
+2024-06-01,Delhi,Micro SUV,230
+2024-06-01,Kerala,Hatchback,327
+2024-06-01,Kerala,Compact SUV,348
+2024-06-01,Kerala,Mid-size SUV,296
+2024-06-01,Kerala,Premium Hatchback,185
+2024-06-01,Kerala,Micro SUV,220
+2024-07-01,Maharashtra,Hatchback,814
+2024-07-01,Maharashtra,Compact SUV,1114
+2024-07-01,Maharashtra,Mid-size SUV,706
+2024-07-01,Maharashtra,Premium Hatchback,648
+2024-07-01,Maharashtra,Micro SUV,616
+2024-07-01,Uttar Pradesh,Hatchback,956
+2024-07-01,Uttar Pradesh,Compact SUV,1107
+2024-07-01,Uttar Pradesh,Mid-size SUV,713
+2024-07-01,Uttar Pradesh,Premium Hatchback,588
+2024-07-01,Uttar Pradesh,Micro SUV,720
+2024-07-01,Karnataka,Hatchback,712
+2024-07-01,Karnataka,Compact SUV,864
+2024-07-01,Karnataka,Mid-size SUV,474
+2024-07-01,Karnataka,Premium Hatchback,475
+2024-07-01,Karnataka,Micro SUV,490
+2024-07-01,Tamil Nadu,Hatchback,616
+2024-07-01,Tamil Nadu,Compact SUV,745
+2024-07-01,Tamil Nadu,Mid-size SUV,460
+2024-07-01,Tamil Nadu,Premium Hatchback,486
+2024-07-01,Tamil Nadu,Micro SUV,479
+2024-07-01,Gujarat,Hatchback,625
+2024-07-01,Gujarat,Compact SUV,747
+2024-07-01,Gujarat,Mid-size SUV,584
+2024-07-01,Gujarat,Premium Hatchback,457
+2024-07-01,Gujarat,Micro SUV,423
+2024-07-01,Telangana,Hatchback,513
+2024-07-01,Telangana,Compact SUV,637
+2024-07-01,Telangana,Mid-size SUV,411
+2024-07-01,Telangana,Premium Hatchback,308
+2024-07-01,Telangana,Micro SUV,408
+2024-07-01,Rajasthan,Hatchback,570
+2024-07-01,Rajasthan,Compact SUV,562
+2024-07-01,Rajasthan,Mid-size SUV,337
+2024-07-01,Rajasthan,Premium Hatchback,304
+2024-07-01,Rajasthan,Micro SUV,353
+2024-07-01,West Bengal,Hatchback,651
+2024-07-01,West Bengal,Compact SUV,735
+2024-07-01,West Bengal,Mid-size SUV,474
+2024-07-01,West Bengal,Premium Hatchback,350
+2024-07-01,West Bengal,Micro SUV,401
+2024-07-01,Delhi,Hatchback,320
+2024-07-01,Delhi,Compact SUV,509
+2024-07-01,Delhi,Mid-size SUV,318
+2024-07-01,Delhi,Premium Hatchback,307
+2024-07-01,Delhi,Micro SUV,275
+2024-07-01,Kerala,Hatchback,344
+2024-07-01,Kerala,Compact SUV,439
+2024-07-01,Kerala,Mid-size SUV,309
+2024-07-01,Kerala,Premium Hatchback,160
+2024-07-01,Kerala,Micro SUV,292
+2024-08-01,Maharashtra,Hatchback,852
+2024-08-01,Maharashtra,Compact SUV,1002
+2024-08-01,Maharashtra,Mid-size SUV,562
+2024-08-01,Maharashtra,Premium Hatchback,545
+2024-08-01,Maharashtra,Micro SUV,695
+2024-08-01,Uttar Pradesh,Hatchback,996
+2024-08-01,Uttar Pradesh,Compact SUV,1149
+2024-08-01,Uttar Pradesh,Mid-size SUV,796
+2024-08-01,Uttar Pradesh,Premium Hatchback,593
+2024-08-01,Uttar Pradesh,Micro SUV,723
+2024-08-01,Karnataka,Hatchback,627
+2024-08-01,Karnataka,Compact SUV,774
+2024-08-01,Karnataka,Mid-size SUV,468
+2024-08-01,Karnataka,Premium Hatchback,326
+2024-08-01,Karnataka,Micro SUV,536
+2024-08-01,Tamil Nadu,Hatchback,585
+2024-08-01,Tamil Nadu,Compact SUV,719
+2024-08-01,Tamil Nadu,Mid-size SUV,419
+2024-08-01,Tamil Nadu,Premium Hatchback,387
+2024-08-01,Tamil Nadu,Micro SUV,532
+2024-08-01,Gujarat,Hatchback,694
+2024-08-01,Gujarat,Compact SUV,664
+2024-08-01,Gujarat,Mid-size SUV,445
+2024-08-01,Gujarat,Premium Hatchback,341
+2024-08-01,Gujarat,Micro SUV,487
+2024-08-01,Telangana,Hatchback,524
+2024-08-01,Telangana,Compact SUV,601
+2024-08-01,Telangana,Mid-size SUV,396
+2024-08-01,Telangana,Premium Hatchback,309
+2024-08-01,Telangana,Micro SUV,450
+2024-08-01,Rajasthan,Hatchback,515
+2024-08-01,Rajasthan,Compact SUV,634
+2024-08-01,Rajasthan,Mid-size SUV,257
+2024-08-01,Rajasthan,Premium Hatchback,314
+2024-08-01,Rajasthan,Micro SUV,456
+2024-08-01,West Bengal,Hatchback,605
+2024-08-01,West Bengal,Compact SUV,588
+2024-08-01,West Bengal,Mid-size SUV,405
+2024-08-01,West Bengal,Premium Hatchback,298
+2024-08-01,West Bengal,Micro SUV,480
+2024-08-01,Delhi,Hatchback,386
+2024-08-01,Delhi,Compact SUV,427
+2024-08-01,Delhi,Mid-size SUV,290
+2024-08-01,Delhi,Premium Hatchback,125
+2024-08-01,Delhi,Micro SUV,228
+2024-08-01,Kerala,Hatchback,342
+2024-08-01,Kerala,Compact SUV,457
+2024-08-01,Kerala,Mid-size SUV,175
+2024-08-01,Kerala,Premium Hatchback,203
+2024-08-01,Kerala,Micro SUV,297
+2024-09-01,Maharashtra,Hatchback,780
+2024-09-01,Maharashtra,Compact SUV,1051
+2024-09-01,Maharashtra,Mid-size SUV,653
+2024-09-01,Maharashtra,Premium Hatchback,623
+2024-09-01,Maharashtra,Micro SUV,614
+2024-09-01,Uttar Pradesh,Hatchback,906
+2024-09-01,Uttar Pradesh,Compact SUV,1163
+2024-09-01,Uttar Pradesh,Mid-size SUV,643
+2024-09-01,Uttar Pradesh,Premium Hatchback,580
+2024-09-01,Uttar Pradesh,Micro SUV,654
+2024-09-01,Karnataka,Hatchback,636
+2024-09-01,Karnataka,Compact SUV,829
+2024-09-01,Karnataka,Mid-size SUV,519
+2024-09-01,Karnataka,Premium Hatchback,381
+2024-09-01,Karnataka,Micro SUV,481
+2024-09-01,Tamil Nadu,Hatchback,676
+2024-09-01,Tamil Nadu,Compact SUV,712
+2024-09-01,Tamil Nadu,Mid-size SUV,475
+2024-09-01,Tamil Nadu,Premium Hatchback,384
+2024-09-01,Tamil Nadu,Micro SUV,447
+2024-09-01,Gujarat,Hatchback,522
+2024-09-01,Gujarat,Compact SUV,796
+2024-09-01,Gujarat,Mid-size SUV,423
+2024-09-01,Gujarat,Premium Hatchback,431
+2024-09-01,Gujarat,Micro SUV,411
+2024-09-01,Telangana,Hatchback,479
+2024-09-01,Telangana,Compact SUV,679
+2024-09-01,Telangana,Mid-size SUV,435
+2024-09-01,Telangana,Premium Hatchback,337
+2024-09-01,Telangana,Micro SUV,409
+2024-09-01,Rajasthan,Hatchback,474
+2024-09-01,Rajasthan,Compact SUV,599
+2024-09-01,Rajasthan,Mid-size SUV,345
+2024-09-01,Rajasthan,Premium Hatchback,355
+2024-09-01,Rajasthan,Micro SUV,328
+2024-09-01,West Bengal,Hatchback,608
+2024-09-01,West Bengal,Compact SUV,652
+2024-09-01,West Bengal,Mid-size SUV,417
+2024-09-01,West Bengal,Premium Hatchback,384
+2024-09-01,West Bengal,Micro SUV,400
+2024-09-01,Delhi,Hatchback,358
+2024-09-01,Delhi,Compact SUV,456
+2024-09-01,Delhi,Mid-size SUV,326
+2024-09-01,Delhi,Premium Hatchback,210
+2024-09-01,Delhi,Micro SUV,269
+2024-09-01,Kerala,Hatchback,338
+2024-09-01,Kerala,Compact SUV,455
+2024-09-01,Kerala,Mid-size SUV,255
+2024-09-01,Kerala,Premium Hatchback,300
+2024-09-01,Kerala,Micro SUV,242
+2024-10-01,Maharashtra,Hatchback,848
+2024-10-01,Maharashtra,Compact SUV,1049
+2024-10-01,Maharashtra,Mid-size SUV,601
+2024-10-01,Maharashtra,Premium Hatchback,508
+2024-10-01,Maharashtra,Micro SUV,610
+2024-10-01,Uttar Pradesh,Hatchback,978
+2024-10-01,Uttar Pradesh,Compact SUV,1140
+2024-10-01,Uttar Pradesh,Mid-size SUV,691
+2024-10-01,Uttar Pradesh,Premium Hatchback,654
+2024-10-01,Uttar Pradesh,Micro SUV,754
+2024-10-01,Karnataka,Hatchback,709
+2024-10-01,Karnataka,Compact SUV,765
+2024-10-01,Karnataka,Mid-size SUV,479
+2024-10-01,Karnataka,Premium Hatchback,503
+2024-10-01,Karnataka,Micro SUV,492
+2024-10-01,Tamil Nadu,Hatchback,606
+2024-10-01,Tamil Nadu,Compact SUV,793
+2024-10-01,Tamil Nadu,Mid-size SUV,521
+2024-10-01,Tamil Nadu,Premium Hatchback,373
+2024-10-01,Tamil Nadu,Micro SUV,466
+2024-10-01,Gujarat,Hatchback,646
+2024-10-01,Gujarat,Compact SUV,692
+2024-10-01,Gujarat,Mid-size SUV,465
+2024-10-01,Gujarat,Premium Hatchback,340
+2024-10-01,Gujarat,Micro SUV,402
+2024-10-01,Telangana,Hatchback,490
+2024-10-01,Telangana,Compact SUV,655
+2024-10-01,Telangana,Mid-size SUV,381
+2024-10-01,Telangana,Premium Hatchback,303
+2024-10-01,Telangana,Micro SUV,382
+2024-10-01,Rajasthan,Hatchback,443
+2024-10-01,Rajasthan,Compact SUV,628
+2024-10-01,Rajasthan,Mid-size SUV,431
+2024-10-01,Rajasthan,Premium Hatchback,316
+2024-10-01,Rajasthan,Micro SUV,356
+2024-10-01,West Bengal,Hatchback,566
+2024-10-01,West Bengal,Compact SUV,585
+2024-10-01,West Bengal,Mid-size SUV,447
+2024-10-01,West Bengal,Premium Hatchback,494
+2024-10-01,West Bengal,Micro SUV,400
+2024-10-01,Delhi,Hatchback,372
+2024-10-01,Delhi,Compact SUV,498
+2024-10-01,Delhi,Mid-size SUV,364
+2024-10-01,Delhi,Premium Hatchback,288
+2024-10-01,Delhi,Micro SUV,182
+2024-10-01,Kerala,Hatchback,368
+2024-10-01,Kerala,Compact SUV,538
+2024-10-01,Kerala,Mid-size SUV,292
+2024-10-01,Kerala,Premium Hatchback,170
+2024-10-01,Kerala,Micro SUV,266
+2024-11-01,Maharashtra,Hatchback,831
+2024-11-01,Maharashtra,Compact SUV,1149
+2024-11-01,Maharashtra,Mid-size SUV,640
+2024-11-01,Maharashtra,Premium Hatchback,577
+2024-11-01,Maharashtra,Micro SUV,618
+2024-11-01,Uttar Pradesh,Hatchback,935
+2024-11-01,Uttar Pradesh,Compact SUV,1248
+2024-11-01,Uttar Pradesh,Mid-size SUV,743
+2024-11-01,Uttar Pradesh,Premium Hatchback,595
+2024-11-01,Uttar Pradesh,Micro SUV,657
+2024-11-01,Karnataka,Hatchback,591
+2024-11-01,Karnataka,Compact SUV,775
+2024-11-01,Karnataka,Mid-size SUV,524
+2024-11-01,Karnataka,Premium Hatchback,480
+2024-11-01,Karnataka,Micro SUV,473
+2024-11-01,Tamil Nadu,Hatchback,710
+2024-11-01,Tamil Nadu,Compact SUV,755
+2024-11-01,Tamil Nadu,Mid-size SUV,481
+2024-11-01,Tamil Nadu,Premium Hatchback,365
+2024-11-01,Tamil Nadu,Micro SUV,517
+2024-11-01,Gujarat,Hatchback,720
+2024-11-01,Gujarat,Compact SUV,691
+2024-11-01,Gujarat,Mid-size SUV,465
+2024-11-01,Gujarat,Premium Hatchback,461
+2024-11-01,Gujarat,Micro SUV,397
+2024-11-01,Telangana,Hatchback,559
+2024-11-01,Telangana,Compact SUV,711
+2024-11-01,Telangana,Mid-size SUV,413
+2024-11-01,Telangana,Premium Hatchback,369
+2024-11-01,Telangana,Micro SUV,473
+2024-11-01,Rajasthan,Hatchback,599
+2024-11-01,Rajasthan,Compact SUV,627
+2024-11-01,Rajasthan,Mid-size SUV,370
+2024-11-01,Rajasthan,Premium Hatchback,289
+2024-11-01,Rajasthan,Micro SUV,422
+2024-11-01,West Bengal,Hatchback,507
+2024-11-01,West Bengal,Compact SUV,689
+2024-11-01,West Bengal,Mid-size SUV,442
+2024-11-01,West Bengal,Premium Hatchback,345
+2024-11-01,West Bengal,Micro SUV,432
+2024-11-01,Delhi,Hatchback,506
+2024-11-01,Delhi,Compact SUV,476
+2024-11-01,Delhi,Mid-size SUV,281
+2024-11-01,Delhi,Premium Hatchback,298
+2024-11-01,Delhi,Micro SUV,299
+2024-11-01,Kerala,Hatchback,420
+2024-11-01,Kerala,Compact SUV,445
+2024-11-01,Kerala,Mid-size SUV,262
+2024-11-01,Kerala,Premium Hatchback,149
+2024-11-01,Kerala,Micro SUV,189
+2024-12-01,Maharashtra,Hatchback,846
+2024-12-01,Maharashtra,Compact SUV,1161
+2024-12-01,Maharashtra,Mid-size SUV,653
+2024-12-01,Maharashtra,Premium Hatchback,657
+2024-12-01,Maharashtra,Micro SUV,687
+2024-12-01,Uttar Pradesh,Hatchback,992
+2024-12-01,Uttar Pradesh,Compact SUV,1197
+2024-12-01,Uttar Pradesh,Mid-size SUV,800
+2024-12-01,Uttar Pradesh,Premium Hatchback,612
+2024-12-01,Uttar Pradesh,Micro SUV,696
+2024-12-01,Karnataka,Hatchback,759
+2024-12-01,Karnataka,Compact SUV,885
+2024-12-01,Karnataka,Mid-size SUV,532
+2024-12-01,Karnataka,Premium Hatchback,485
+2024-12-01,Karnataka,Micro SUV,522
+2024-12-01,Tamil Nadu,Hatchback,686
+2024-12-01,Tamil Nadu,Compact SUV,786
+2024-12-01,Tamil Nadu,Mid-size SUV,607
+2024-12-01,Tamil Nadu,Premium Hatchback,406
+2024-12-01,Tamil Nadu,Micro SUV,564
+2024-12-01,Gujarat,Hatchback,645
+2024-12-01,Gujarat,Compact SUV,841
+2024-12-01,Gujarat,Mid-size SUV,536
+2024-12-01,Gujarat,Premium Hatchback,474
+2024-12-01,Gujarat,Micro SUV,445
+2024-12-01,Telangana,Hatchback,606
+2024-12-01,Telangana,Compact SUV,769
+2024-12-01,Telangana,Mid-size SUV,417
+2024-12-01,Telangana,Premium Hatchback,361
+2024-12-01,Telangana,Micro SUV,388
+2024-12-01,Rajasthan,Hatchback,519
+2024-12-01,Rajasthan,Compact SUV,735
+2024-12-01,Rajasthan,Mid-size SUV,366
+2024-12-01,Rajasthan,Premium Hatchback,303
+2024-12-01,Rajasthan,Micro SUV,467
+2024-12-01,West Bengal,Hatchback,622
+2024-12-01,West Bengal,Compact SUV,827
+2024-12-01,West Bengal,Mid-size SUV,437
+2024-12-01,West Bengal,Premium Hatchback,390
+2024-12-01,West Bengal,Micro SUV,409
+2024-12-01,Delhi,Hatchback,415
+2024-12-01,Delhi,Compact SUV,423
+2024-12-01,Delhi,Mid-size SUV,345
+2024-12-01,Delhi,Premium Hatchback,278
+2024-12-01,Delhi,Micro SUV,299
+2024-12-01,Kerala,Hatchback,354
+2024-12-01,Kerala,Compact SUV,417
+2024-12-01,Kerala,Mid-size SUV,318
+2024-12-01,Kerala,Premium Hatchback,187
+2024-12-01,Kerala,Micro SUV,297
+2025-01-01,Maharashtra,Hatchback,1063
+2025-01-01,Maharashtra,Compact SUV,1260
+2025-01-01,Maharashtra,Mid-size SUV,678
+2025-01-01,Maharashtra,Premium Hatchback,602
+2025-01-01,Maharashtra,Micro SUV,735
+2025-01-01,Uttar Pradesh,Hatchback,1044
+2025-01-01,Uttar Pradesh,Compact SUV,1226
+2025-01-01,Uttar Pradesh,Mid-size SUV,823
+2025-01-01,Uttar Pradesh,Premium Hatchback,676
+2025-01-01,Uttar Pradesh,Micro SUV,859
+2025-01-01,Karnataka,Hatchback,725
+2025-01-01,Karnataka,Compact SUV,959
+2025-01-01,Karnataka,Mid-size SUV,510
+2025-01-01,Karnataka,Premium Hatchback,430
+2025-01-01,Karnataka,Micro SUV,576
+2025-01-01,Tamil Nadu,Hatchback,747
+2025-01-01,Tamil Nadu,Compact SUV,816
+2025-01-01,Tamil Nadu,Mid-size SUV,538
+2025-01-01,Tamil Nadu,Premium Hatchback,389
+2025-01-01,Tamil Nadu,Micro SUV,507
+2025-01-01,Gujarat,Hatchback,720
+2025-01-01,Gujarat,Compact SUV,820
+2025-01-01,Gujarat,Mid-size SUV,514
+2025-01-01,Gujarat,Premium Hatchback,390
+2025-01-01,Gujarat,Micro SUV,475
+2025-01-01,Telangana,Hatchback,661
+2025-01-01,Telangana,Compact SUV,719
+2025-01-01,Telangana,Mid-size SUV,402
+2025-01-01,Telangana,Premium Hatchback,361
+2025-01-01,Telangana,Micro SUV,357
+2025-01-01,Rajasthan,Hatchback,513
+2025-01-01,Rajasthan,Compact SUV,748
+2025-01-01,Rajasthan,Mid-size SUV,423
+2025-01-01,Rajasthan,Premium Hatchback,446
+2025-01-01,Rajasthan,Micro SUV,408
+2025-01-01,West Bengal,Hatchback,619
+2025-01-01,West Bengal,Compact SUV,792
+2025-01-01,West Bengal,Mid-size SUV,357
+2025-01-01,West Bengal,Premium Hatchback,410
+2025-01-01,West Bengal,Micro SUV,456
+2025-01-01,Delhi,Hatchback,493
+2025-01-01,Delhi,Compact SUV,568
+2025-01-01,Delhi,Mid-size SUV,277
+2025-01-01,Delhi,Premium Hatchback,331
+2025-01-01,Delhi,Micro SUV,303
+2025-01-01,Kerala,Hatchback,347
+2025-01-01,Kerala,Compact SUV,486
+2025-01-01,Kerala,Mid-size SUV,289
+2025-01-01,Kerala,Premium Hatchback,319
+2025-01-01,Kerala,Micro SUV,301
+2025-02-01,Maharashtra,Hatchback,1010
+2025-02-01,Maharashtra,Compact SUV,1272
+2025-02-01,Maharashtra,Mid-size SUV,819
+2025-02-01,Maharashtra,Premium Hatchback,681
+2025-02-01,Maharashtra,Micro SUV,802
+2025-02-01,Uttar Pradesh,Hatchback,1108
+2025-02-01,Uttar Pradesh,Compact SUV,1337
+2025-02-01,Uttar Pradesh,Mid-size SUV,887
+2025-02-01,Uttar Pradesh,Premium Hatchback,694
+2025-02-01,Uttar Pradesh,Micro SUV,799
+2025-02-01,Karnataka,Hatchback,838
+2025-02-01,Karnataka,Compact SUV,1009
+2025-02-01,Karnataka,Mid-size SUV,584
+2025-02-01,Karnataka,Premium Hatchback,471
+2025-02-01,Karnataka,Micro SUV,627
+2025-02-01,Tamil Nadu,Hatchback,756
+2025-02-01,Tamil Nadu,Compact SUV,901
+2025-02-01,Tamil Nadu,Mid-size SUV,539
+2025-02-01,Tamil Nadu,Premium Hatchback,480
+2025-02-01,Tamil Nadu,Micro SUV,531
+2025-02-01,Gujarat,Hatchback,674
+2025-02-01,Gujarat,Compact SUV,873
+2025-02-01,Gujarat,Mid-size SUV,553
+2025-02-01,Gujarat,Premium Hatchback,438
+2025-02-01,Gujarat,Micro SUV,560
+2025-02-01,Telangana,Hatchback,658
+2025-02-01,Telangana,Compact SUV,782
+2025-02-01,Telangana,Mid-size SUV,449
+2025-02-01,Telangana,Premium Hatchback,422
+2025-02-01,Telangana,Micro SUV,446
+2025-02-01,Rajasthan,Hatchback,520
+2025-02-01,Rajasthan,Compact SUV,739
+2025-02-01,Rajasthan,Mid-size SUV,450
+2025-02-01,Rajasthan,Premium Hatchback,489
+2025-02-01,Rajasthan,Micro SUV,491
+2025-02-01,West Bengal,Hatchback,672
+2025-02-01,West Bengal,Compact SUV,799
+2025-02-01,West Bengal,Mid-size SUV,500
+2025-02-01,West Bengal,Premium Hatchback,368
+2025-02-01,West Bengal,Micro SUV,394
+2025-02-01,Delhi,Hatchback,401
+2025-02-01,Delhi,Compact SUV,539
+2025-02-01,Delhi,Mid-size SUV,243
+2025-02-01,Delhi,Premium Hatchback,260
+2025-02-01,Delhi,Micro SUV,314
+2025-02-01,Kerala,Hatchback,390
+2025-02-01,Kerala,Compact SUV,462
+2025-02-01,Kerala,Mid-size SUV,292
+2025-02-01,Kerala,Premium Hatchback,336
+2025-02-01,Kerala,Micro SUV,325
+2025-03-01,Maharashtra,Hatchback,989
+2025-03-01,Maharashtra,Compact SUV,1245
+2025-03-01,Maharashtra,Mid-size SUV,779
+2025-03-01,Maharashtra,Premium Hatchback,620
+2025-03-01,Maharashtra,Micro SUV,714
+2025-03-01,Uttar Pradesh,Hatchback,1141
+2025-03-01,Uttar Pradesh,Compact SUV,1329
+2025-03-01,Uttar Pradesh,Mid-size SUV,793
+2025-03-01,Uttar Pradesh,Premium Hatchback,705
+2025-03-01,Uttar Pradesh,Micro SUV,814
+2025-03-01,Karnataka,Hatchback,682
+2025-03-01,Karnataka,Compact SUV,947
+2025-03-01,Karnataka,Mid-size SUV,632
+2025-03-01,Karnataka,Premium Hatchback,518
+2025-03-01,Karnataka,Micro SUV,669
+2025-03-01,Tamil Nadu,Hatchback,786
+2025-03-01,Tamil Nadu,Compact SUV,964
+2025-03-01,Tamil Nadu,Mid-size SUV,687
+2025-03-01,Tamil Nadu,Premium Hatchback,506
+2025-03-01,Tamil Nadu,Micro SUV,546
+2025-03-01,Gujarat,Hatchback,757
+2025-03-01,Gujarat,Compact SUV,853
+2025-03-01,Gujarat,Mid-size SUV,554
+2025-03-01,Gujarat,Premium Hatchback,432
+2025-03-01,Gujarat,Micro SUV,545
+2025-03-01,Telangana,Hatchback,579
+2025-03-01,Telangana,Compact SUV,718
+2025-03-01,Telangana,Mid-size SUV,486
+2025-03-01,Telangana,Premium Hatchback,387
+2025-03-01,Telangana,Micro SUV,362
+2025-03-01,Rajasthan,Hatchback,518
+2025-03-01,Rajasthan,Compact SUV,667
+2025-03-01,Rajasthan,Mid-size SUV,409
+2025-03-01,Rajasthan,Premium Hatchback,396
+2025-03-01,Rajasthan,Micro SUV,441
+2025-03-01,West Bengal,Hatchback,697
+2025-03-01,West Bengal,Compact SUV,832
+2025-03-01,West Bengal,Mid-size SUV,547
+2025-03-01,West Bengal,Premium Hatchback,446
+2025-03-01,West Bengal,Micro SUV,488
+2025-03-01,Delhi,Hatchback,495
+2025-03-01,Delhi,Compact SUV,590
+2025-03-01,Delhi,Mid-size SUV,360
+2025-03-01,Delhi,Premium Hatchback,345
+2025-03-01,Delhi,Micro SUV,224
+2025-03-01,Kerala,Hatchback,392
+2025-03-01,Kerala,Compact SUV,485
+2025-03-01,Kerala,Mid-size SUV,363
+2025-03-01,Kerala,Premium Hatchback,332
+2025-03-01,Kerala,Micro SUV,234
+2025-04-01,Maharashtra,Hatchback,1071
+2025-04-01,Maharashtra,Compact SUV,1187
+2025-04-01,Maharashtra,Mid-size SUV,723
+2025-04-01,Maharashtra,Premium Hatchback,640
+2025-04-01,Maharashtra,Micro SUV,729
+2025-04-01,Uttar Pradesh,Hatchback,1018
+2025-04-01,Uttar Pradesh,Compact SUV,1368
+2025-04-01,Uttar Pradesh,Mid-size SUV,867
+2025-04-01,Uttar Pradesh,Premium Hatchback,750
+2025-04-01,Uttar Pradesh,Micro SUV,784
+2025-04-01,Karnataka,Hatchback,764
+2025-04-01,Karnataka,Compact SUV,941
+2025-04-01,Karnataka,Mid-size SUV,665
+2025-04-01,Karnataka,Premium Hatchback,367
+2025-04-01,Karnataka,Micro SUV,522
+2025-04-01,Tamil Nadu,Hatchback,725
+2025-04-01,Tamil Nadu,Compact SUV,844
+2025-04-01,Tamil Nadu,Mid-size SUV,546
+2025-04-01,Tamil Nadu,Premium Hatchback,463
+2025-04-01,Tamil Nadu,Micro SUV,506
+2025-04-01,Gujarat,Hatchback,712
+2025-04-01,Gujarat,Compact SUV,901
+2025-04-01,Gujarat,Mid-size SUV,535
+2025-04-01,Gujarat,Premium Hatchback,438
+2025-04-01,Gujarat,Micro SUV,516
+2025-04-01,Telangana,Hatchback,604
+2025-04-01,Telangana,Compact SUV,665
+2025-04-01,Telangana,Mid-size SUV,485
+2025-04-01,Telangana,Premium Hatchback,370
+2025-04-01,Telangana,Micro SUV,503
+2025-04-01,Rajasthan,Hatchback,607
+2025-04-01,Rajasthan,Compact SUV,767
+2025-04-01,Rajasthan,Mid-size SUV,401
+2025-04-01,Rajasthan,Premium Hatchback,358
+2025-04-01,Rajasthan,Micro SUV,372
+2025-04-01,West Bengal,Hatchback,613
+2025-04-01,West Bengal,Compact SUV,850
+2025-04-01,West Bengal,Mid-size SUV,563
+2025-04-01,West Bengal,Premium Hatchback,365
+2025-04-01,West Bengal,Micro SUV,455
+2025-04-01,Delhi,Hatchback,440
+2025-04-01,Delhi,Compact SUV,572
+2025-04-01,Delhi,Mid-size SUV,261
+2025-04-01,Delhi,Premium Hatchback,214
+2025-04-01,Delhi,Micro SUV,349
+2025-04-01,Kerala,Hatchback,315
+2025-04-01,Kerala,Compact SUV,476
+2025-04-01,Kerala,Mid-size SUV,317
+2025-04-01,Kerala,Premium Hatchback,279
+2025-04-01,Kerala,Micro SUV,291
+2025-05-01,Maharashtra,Hatchback,967
+2025-05-01,Maharashtra,Compact SUV,1248
+2025-05-01,Maharashtra,Mid-size SUV,769
+2025-05-01,Maharashtra,Premium Hatchback,606
+2025-05-01,Maharashtra,Micro SUV,728
+2025-05-01,Uttar Pradesh,Hatchback,1079
+2025-05-01,Uttar Pradesh,Compact SUV,1384
+2025-05-01,Uttar Pradesh,Mid-size SUV,852
+2025-05-01,Uttar Pradesh,Premium Hatchback,741
+2025-05-01,Uttar Pradesh,Micro SUV,756
+2025-05-01,Karnataka,Hatchback,723
+2025-05-01,Karnataka,Compact SUV,909
+2025-05-01,Karnataka,Mid-size SUV,568
+2025-05-01,Karnataka,Premium Hatchback,437
+2025-05-01,Karnataka,Micro SUV,608
+2025-05-01,Tamil Nadu,Hatchback,747
+2025-05-01,Tamil Nadu,Compact SUV,857
+2025-05-01,Tamil Nadu,Mid-size SUV,573
+2025-05-01,Tamil Nadu,Premium Hatchback,467
+2025-05-01,Tamil Nadu,Micro SUV,555
+2025-05-01,Gujarat,Hatchback,631
+2025-05-01,Gujarat,Compact SUV,845
+2025-05-01,Gujarat,Mid-size SUV,530
+2025-05-01,Gujarat,Premium Hatchback,475
+2025-05-01,Gujarat,Micro SUV,483
+2025-05-01,Telangana,Hatchback,477
+2025-05-01,Telangana,Compact SUV,677
+2025-05-01,Telangana,Mid-size SUV,451
+2025-05-01,Telangana,Premium Hatchback,384
+2025-05-01,Telangana,Micro SUV,511
+2025-05-01,Rajasthan,Hatchback,592
+2025-05-01,Rajasthan,Compact SUV,700
+2025-05-01,Rajasthan,Mid-size SUV,434
+2025-05-01,Rajasthan,Premium Hatchback,415
+2025-05-01,Rajasthan,Micro SUV,391
+2025-05-01,West Bengal,Hatchback,623
+2025-05-01,West Bengal,Compact SUV,725
+2025-05-01,West Bengal,Mid-size SUV,548
+2025-05-01,West Bengal,Premium Hatchback,424
+2025-05-01,West Bengal,Micro SUV,433
+2025-05-01,Delhi,Hatchback,427
+2025-05-01,Delhi,Compact SUV,555
+2025-05-01,Delhi,Mid-size SUV,321
+2025-05-01,Delhi,Premium Hatchback,255
+2025-05-01,Delhi,Micro SUV,290
+2025-05-01,Kerala,Hatchback,408
+2025-05-01,Kerala,Compact SUV,468
+2025-05-01,Kerala,Mid-size SUV,282
+2025-05-01,Kerala,Premium Hatchback,194
+2025-05-01,Kerala,Micro SUV,294
+2025-06-01,Maharashtra,Hatchback,940
+2025-06-01,Maharashtra,Compact SUV,1153
+2025-06-01,Maharashtra,Mid-size SUV,738
+2025-06-01,Maharashtra,Premium Hatchback,646
+2025-06-01,Maharashtra,Micro SUV,732
+2025-06-01,Uttar Pradesh,Hatchback,1049
+2025-06-01,Uttar Pradesh,Compact SUV,1250
+2025-06-01,Uttar Pradesh,Mid-size SUV,762
+2025-06-01,Uttar Pradesh,Premium Hatchback,615
+2025-06-01,Uttar Pradesh,Micro SUV,730
+2025-06-01,Karnataka,Hatchback,722
+2025-06-01,Karnataka,Compact SUV,852
+2025-06-01,Karnataka,Mid-size SUV,559
+2025-06-01,Karnataka,Premium Hatchback,422
+2025-06-01,Karnataka,Micro SUV,457
+2025-06-01,Tamil Nadu,Hatchback,720
+2025-06-01,Tamil Nadu,Compact SUV,819
+2025-06-01,Tamil Nadu,Mid-size SUV,487
+2025-06-01,Tamil Nadu,Premium Hatchback,392
+2025-06-01,Tamil Nadu,Micro SUV,523
+2025-06-01,Gujarat,Hatchback,729
+2025-06-01,Gujarat,Compact SUV,804
+2025-06-01,Gujarat,Mid-size SUV,504
+2025-06-01,Gujarat,Premium Hatchback,479
+2025-06-01,Gujarat,Micro SUV,411
+2025-06-01,Telangana,Hatchback,657
+2025-06-01,Telangana,Compact SUV,810
+2025-06-01,Telangana,Mid-size SUV,316
+2025-06-01,Telangana,Premium Hatchback,363
+2025-06-01,Telangana,Micro SUV,388
+2025-06-01,Rajasthan,Hatchback,534
+2025-06-01,Rajasthan,Compact SUV,653
+2025-06-01,Rajasthan,Mid-size SUV,457
+2025-06-01,Rajasthan,Premium Hatchback,348
+2025-06-01,Rajasthan,Micro SUV,362
+2025-06-01,West Bengal,Hatchback,599
+2025-06-01,West Bengal,Compact SUV,770
+2025-06-01,West Bengal,Mid-size SUV,413
+2025-06-01,West Bengal,Premium Hatchback,318
+2025-06-01,West Bengal,Micro SUV,538
+2025-06-01,Delhi,Hatchback,388
+2025-06-01,Delhi,Compact SUV,507
+2025-06-01,Delhi,Mid-size SUV,303
+2025-06-01,Delhi,Premium Hatchback,294
+2025-06-01,Delhi,Micro SUV,388
+2025-06-01,Kerala,Hatchback,405
+2025-06-01,Kerala,Compact SUV,398
+2025-06-01,Kerala,Mid-size SUV,229
+2025-06-01,Kerala,Premium Hatchback,227
+2025-06-01,Kerala,Micro SUV,268
+2025-07-01,Maharashtra,Hatchback,836
+2025-07-01,Maharashtra,Compact SUV,1161
+2025-07-01,Maharashtra,Mid-size SUV,654
+2025-07-01,Maharashtra,Premium Hatchback,657
+2025-07-01,Maharashtra,Micro SUV,757
+2025-07-01,Uttar Pradesh,Hatchback,976
+2025-07-01,Uttar Pradesh,Compact SUV,1234
+2025-07-01,Uttar Pradesh,Mid-size SUV,704
+2025-07-01,Uttar Pradesh,Premium Hatchback,666
+2025-07-01,Uttar Pradesh,Micro SUV,706
+2025-07-01,Karnataka,Hatchback,645
+2025-07-01,Karnataka,Compact SUV,842
+2025-07-01,Karnataka,Mid-size SUV,513
+2025-07-01,Karnataka,Premium Hatchback,434
+2025-07-01,Karnataka,Micro SUV,555
+2025-07-01,Tamil Nadu,Hatchback,622
+2025-07-01,Tamil Nadu,Compact SUV,888
+2025-07-01,Tamil Nadu,Mid-size SUV,446
+2025-07-01,Tamil Nadu,Premium Hatchback,497
+2025-07-01,Tamil Nadu,Micro SUV,440
+2025-07-01,Gujarat,Hatchback,643
+2025-07-01,Gujarat,Compact SUV,770
+2025-07-01,Gujarat,Mid-size SUV,479
+2025-07-01,Gujarat,Premium Hatchback,451
+2025-07-01,Gujarat,Micro SUV,542
+2025-07-01,Telangana,Hatchback,602
+2025-07-01,Telangana,Compact SUV,656
+2025-07-01,Telangana,Mid-size SUV,430
+2025-07-01,Telangana,Premium Hatchback,319
+2025-07-01,Telangana,Micro SUV,360
+2025-07-01,Rajasthan,Hatchback,474
+2025-07-01,Rajasthan,Compact SUV,628
+2025-07-01,Rajasthan,Mid-size SUV,416
+2025-07-01,Rajasthan,Premium Hatchback,254
+2025-07-01,Rajasthan,Micro SUV,386
+2025-07-01,West Bengal,Hatchback,653
+2025-07-01,West Bengal,Compact SUV,770
+2025-07-01,West Bengal,Mid-size SUV,423
+2025-07-01,West Bengal,Premium Hatchback,315
+2025-07-01,West Bengal,Micro SUV,452
+2025-07-01,Delhi,Hatchback,297
+2025-07-01,Delhi,Compact SUV,545
+2025-07-01,Delhi,Mid-size SUV,299
+2025-07-01,Delhi,Premium Hatchback,342
+2025-07-01,Delhi,Micro SUV,219
+2025-07-01,Kerala,Hatchback,406
+2025-07-01,Kerala,Compact SUV,445
+2025-07-01,Kerala,Mid-size SUV,266
+2025-07-01,Kerala,Premium Hatchback,174
+2025-07-01,Kerala,Micro SUV,296
+2025-08-01,Maharashtra,Hatchback,919
+2025-08-01,Maharashtra,Compact SUV,1174
+2025-08-01,Maharashtra,Mid-size SUV,729
+2025-08-01,Maharashtra,Premium Hatchback,547
+2025-08-01,Maharashtra,Micro SUV,611
+2025-08-01,Uttar Pradesh,Hatchback,898
+2025-08-01,Uttar Pradesh,Compact SUV,1248
+2025-08-01,Uttar Pradesh,Mid-size SUV,703
+2025-08-01,Uttar Pradesh,Premium Hatchback,687
+2025-08-01,Uttar Pradesh,Micro SUV,732
+2025-08-01,Karnataka,Hatchback,690
+2025-08-01,Karnataka,Compact SUV,818
+2025-08-01,Karnataka,Mid-size SUV,549
+2025-08-01,Karnataka,Premium Hatchback,436
+2025-08-01,Karnataka,Micro SUV,482
+2025-08-01,Tamil Nadu,Hatchback,671
+2025-08-01,Tamil Nadu,Compact SUV,781
+2025-08-01,Tamil Nadu,Mid-size SUV,456
+2025-08-01,Tamil Nadu,Premium Hatchback,440
+2025-08-01,Tamil Nadu,Micro SUV,469
+2025-08-01,Gujarat,Hatchback,648
+2025-08-01,Gujarat,Compact SUV,750
+2025-08-01,Gujarat,Mid-size SUV,427
+2025-08-01,Gujarat,Premium Hatchback,482
+2025-08-01,Gujarat,Micro SUV,531
+2025-08-01,Telangana,Hatchback,573
+2025-08-01,Telangana,Compact SUV,639
+2025-08-01,Telangana,Mid-size SUV,396
+2025-08-01,Telangana,Premium Hatchback,406
+2025-08-01,Telangana,Micro SUV,378
+2025-08-01,Rajasthan,Hatchback,483
+2025-08-01,Rajasthan,Compact SUV,714
+2025-08-01,Rajasthan,Mid-size SUV,391
+2025-08-01,Rajasthan,Premium Hatchback,410
+2025-08-01,Rajasthan,Micro SUV,315
+2025-08-01,West Bengal,Hatchback,592
+2025-08-01,West Bengal,Compact SUV,793
+2025-08-01,West Bengal,Mid-size SUV,439
+2025-08-01,West Bengal,Premium Hatchback,355
+2025-08-01,West Bengal,Micro SUV,367
+2025-08-01,Delhi,Hatchback,439
+2025-08-01,Delhi,Compact SUV,446
+2025-08-01,Delhi,Mid-size SUV,296
+2025-08-01,Delhi,Premium Hatchback,197
+2025-08-01,Delhi,Micro SUV,359
+2025-08-01,Kerala,Hatchback,407
+2025-08-01,Kerala,Compact SUV,436
+2025-08-01,Kerala,Mid-size SUV,221
+2025-08-01,Kerala,Premium Hatchback,298
+2025-08-01,Kerala,Micro SUV,246
+2025-09-01,Maharashtra,Hatchback,832
+2025-09-01,Maharashtra,Compact SUV,1006
+2025-09-01,Maharashtra,Mid-size SUV,649
+2025-09-01,Maharashtra,Premium Hatchback,504
+2025-09-01,Maharashtra,Micro SUV,623
+2025-09-01,Uttar Pradesh,Hatchback,986
+2025-09-01,Uttar Pradesh,Compact SUV,1155
+2025-09-01,Uttar Pradesh,Mid-size SUV,748
+2025-09-01,Uttar Pradesh,Premium Hatchback,582
+2025-09-01,Uttar Pradesh,Micro SUV,706
+2025-09-01,Karnataka,Hatchback,756
+2025-09-01,Karnataka,Compact SUV,809
+2025-09-01,Karnataka,Mid-size SUV,532
+2025-09-01,Karnataka,Premium Hatchback,362
+2025-09-01,Karnataka,Micro SUV,563
+2025-09-01,Tamil Nadu,Hatchback,613
+2025-09-01,Tamil Nadu,Compact SUV,828
+2025-09-01,Tamil Nadu,Mid-size SUV,482
+2025-09-01,Tamil Nadu,Premium Hatchback,437
+2025-09-01,Tamil Nadu,Micro SUV,499
+2025-09-01,Gujarat,Hatchback,600
+2025-09-01,Gujarat,Compact SUV,813
+2025-09-01,Gujarat,Mid-size SUV,443
+2025-09-01,Gujarat,Premium Hatchback,436
+2025-09-01,Gujarat,Micro SUV,440
+2025-09-01,Telangana,Hatchback,544
+2025-09-01,Telangana,Compact SUV,630
+2025-09-01,Telangana,Mid-size SUV,409
+2025-09-01,Telangana,Premium Hatchback,293
+2025-09-01,Telangana,Micro SUV,401
+2025-09-01,Rajasthan,Hatchback,510
+2025-09-01,Rajasthan,Compact SUV,600
+2025-09-01,Rajasthan,Mid-size SUV,388
+2025-09-01,Rajasthan,Premium Hatchback,334
+2025-09-01,Rajasthan,Micro SUV,347
+2025-09-01,West Bengal,Hatchback,558
+2025-09-01,West Bengal,Compact SUV,649
+2025-09-01,West Bengal,Mid-size SUV,539
+2025-09-01,West Bengal,Premium Hatchback,412
+2025-09-01,West Bengal,Micro SUV,429
+2025-09-01,Delhi,Hatchback,440
+2025-09-01,Delhi,Compact SUV,388
+2025-09-01,Delhi,Mid-size SUV,183
+2025-09-01,Delhi,Premium Hatchback,232
+2025-09-01,Delhi,Micro SUV,224
+2025-09-01,Kerala,Hatchback,342
+2025-09-01,Kerala,Compact SUV,443
+2025-09-01,Kerala,Mid-size SUV,312
+2025-09-01,Kerala,Premium Hatchback,176
+2025-09-01,Kerala,Micro SUV,278
+2025-10-01,Maharashtra,Hatchback,895
+2025-10-01,Maharashtra,Compact SUV,1117
+2025-10-01,Maharashtra,Mid-size SUV,665
+2025-10-01,Maharashtra,Premium Hatchback,640
+2025-10-01,Maharashtra,Micro SUV,656
+2025-10-01,Uttar Pradesh,Hatchback,1046
+2025-10-01,Uttar Pradesh,Compact SUV,1154
+2025-10-01,Uttar Pradesh,Mid-size SUV,777
+2025-10-01,Uttar Pradesh,Premium Hatchback,622
+2025-10-01,Uttar Pradesh,Micro SUV,699
+2025-10-01,Karnataka,Hatchback,708
+2025-10-01,Karnataka,Compact SUV,824
+2025-10-01,Karnataka,Mid-size SUV,403
+2025-10-01,Karnataka,Premium Hatchback,301
+2025-10-01,Karnataka,Micro SUV,559
+2025-10-01,Tamil Nadu,Hatchback,700
+2025-10-01,Tamil Nadu,Compact SUV,878
+2025-10-01,Tamil Nadu,Mid-size SUV,495
+2025-10-01,Tamil Nadu,Premium Hatchback,358
+2025-10-01,Tamil Nadu,Micro SUV,457
+2025-10-01,Gujarat,Hatchback,630
+2025-10-01,Gujarat,Compact SUV,730
+2025-10-01,Gujarat,Mid-size SUV,559
+2025-10-01,Gujarat,Premium Hatchback,508
+2025-10-01,Gujarat,Micro SUV,486
+2025-10-01,Telangana,Hatchback,536
+2025-10-01,Telangana,Compact SUV,602
+2025-10-01,Telangana,Mid-size SUV,482
+2025-10-01,Telangana,Premium Hatchback,350
+2025-10-01,Telangana,Micro SUV,383
+2025-10-01,Rajasthan,Hatchback,537
+2025-10-01,Rajasthan,Compact SUV,608
+2025-10-01,Rajasthan,Mid-size SUV,403
+2025-10-01,Rajasthan,Premium Hatchback,268
+2025-10-01,Rajasthan,Micro SUV,429
+2025-10-01,West Bengal,Hatchback,568
+2025-10-01,West Bengal,Compact SUV,757
+2025-10-01,West Bengal,Mid-size SUV,431
+2025-10-01,West Bengal,Premium Hatchback,364
+2025-10-01,West Bengal,Micro SUV,368
+2025-10-01,Delhi,Hatchback,428
+2025-10-01,Delhi,Compact SUV,445
+2025-10-01,Delhi,Mid-size SUV,281
+2025-10-01,Delhi,Premium Hatchback,254
+2025-10-01,Delhi,Micro SUV,296
+2025-10-01,Kerala,Hatchback,281
+2025-10-01,Kerala,Compact SUV,430
+2025-10-01,Kerala,Mid-size SUV,311
+2025-10-01,Kerala,Premium Hatchback,214
+2025-10-01,Kerala,Micro SUV,254
+2025-11-01,Maharashtra,Hatchback,933
+2025-11-01,Maharashtra,Compact SUV,1134
+2025-11-01,Maharashtra,Mid-size SUV,666
+2025-11-01,Maharashtra,Premium Hatchback,597
+2025-11-01,Maharashtra,Micro SUV,729
+2025-11-01,Uttar Pradesh,Hatchback,953
+2025-11-01,Uttar Pradesh,Compact SUV,1214
+2025-11-01,Uttar Pradesh,Mid-size SUV,707
+2025-11-01,Uttar Pradesh,Premium Hatchback,689
+2025-11-01,Uttar Pradesh,Micro SUV,734
+2025-11-01,Karnataka,Hatchback,665
+2025-11-01,Karnataka,Compact SUV,870
+2025-11-01,Karnataka,Mid-size SUV,487
+2025-11-01,Karnataka,Premium Hatchback,408
+2025-11-01,Karnataka,Micro SUV,454
+2025-11-01,Tamil Nadu,Hatchback,619
+2025-11-01,Tamil Nadu,Compact SUV,882
+2025-11-01,Tamil Nadu,Mid-size SUV,480
+2025-11-01,Tamil Nadu,Premium Hatchback,452
+2025-11-01,Tamil Nadu,Micro SUV,455
+2025-11-01,Gujarat,Hatchback,686
+2025-11-01,Gujarat,Compact SUV,756
+2025-11-01,Gujarat,Mid-size SUV,503
+2025-11-01,Gujarat,Premium Hatchback,423
+2025-11-01,Gujarat,Micro SUV,586
+2025-11-01,Telangana,Hatchback,584
+2025-11-01,Telangana,Compact SUV,657
+2025-11-01,Telangana,Mid-size SUV,458
+2025-11-01,Telangana,Premium Hatchback,455
+2025-11-01,Telangana,Micro SUV,337
+2025-11-01,Rajasthan,Hatchback,495
+2025-11-01,Rajasthan,Compact SUV,646
+2025-11-01,Rajasthan,Mid-size SUV,391
+2025-11-01,Rajasthan,Premium Hatchback,329
+2025-11-01,Rajasthan,Micro SUV,335
+2025-11-01,West Bengal,Hatchback,656
+2025-11-01,West Bengal,Compact SUV,665
+2025-11-01,West Bengal,Mid-size SUV,447
+2025-11-01,West Bengal,Premium Hatchback,430
+2025-11-01,West Bengal,Micro SUV,436
+2025-11-01,Delhi,Hatchback,363
+2025-11-01,Delhi,Compact SUV,441
+2025-11-01,Delhi,Mid-size SUV,303
+2025-11-01,Delhi,Premium Hatchback,229
+2025-11-01,Delhi,Micro SUV,310
+2025-11-01,Kerala,Hatchback,307
+2025-11-01,Kerala,Compact SUV,492
+2025-11-01,Kerala,Mid-size SUV,290
+2025-11-01,Kerala,Premium Hatchback,248
+2025-11-01,Kerala,Micro SUV,338
+2025-12-01,Maharashtra,Hatchback,948
+2025-12-01,Maharashtra,Compact SUV,1159
+2025-12-01,Maharashtra,Mid-size SUV,720
+2025-12-01,Maharashtra,Premium Hatchback,617
+2025-12-01,Maharashtra,Micro SUV,711
+2025-12-01,Uttar Pradesh,Hatchback,1008
+2025-12-01,Uttar Pradesh,Compact SUV,1196
+2025-12-01,Uttar Pradesh,Mid-size SUV,779
+2025-12-01,Uttar Pradesh,Premium Hatchback,692
+2025-12-01,Uttar Pradesh,Micro SUV,778
+2025-12-01,Karnataka,Hatchback,790
+2025-12-01,Karnataka,Compact SUV,993
+2025-12-01,Karnataka,Mid-size SUV,600
+2025-12-01,Karnataka,Premium Hatchback,537
+2025-12-01,Karnataka,Micro SUV,578
+2025-12-01,Tamil Nadu,Hatchback,774
+2025-12-01,Tamil Nadu,Compact SUV,941
+2025-12-01,Tamil Nadu,Mid-size SUV,579
+2025-12-01,Tamil Nadu,Premium Hatchback,482
+2025-12-01,Tamil Nadu,Micro SUV,505
+2025-12-01,Gujarat,Hatchback,679
+2025-12-01,Gujarat,Compact SUV,823
+2025-12-01,Gujarat,Mid-size SUV,552
+2025-12-01,Gujarat,Premium Hatchback,408
+2025-12-01,Gujarat,Micro SUV,494
+2025-12-01,Telangana,Hatchback,475
+2025-12-01,Telangana,Compact SUV,792
+2025-12-01,Telangana,Mid-size SUV,437
+2025-12-01,Telangana,Premium Hatchback,395
+2025-12-01,Telangana,Micro SUV,494
+2025-12-01,Rajasthan,Hatchback,571
+2025-12-01,Rajasthan,Compact SUV,751
+2025-12-01,Rajasthan,Mid-size SUV,373
+2025-12-01,Rajasthan,Premium Hatchback,468
+2025-12-01,Rajasthan,Micro SUV,460
+2025-12-01,West Bengal,Hatchback,629
+2025-12-01,West Bengal,Compact SUV,827
+2025-12-01,West Bengal,Mid-size SUV,424
+2025-12-01,West Bengal,Premium Hatchback,387
+2025-12-01,West Bengal,Micro SUV,522
+2025-12-01,Delhi,Hatchback,342
+2025-12-01,Delhi,Compact SUV,549
+2025-12-01,Delhi,Mid-size SUV,351
+2025-12-01,Delhi,Premium Hatchback,363
+2025-12-01,Delhi,Micro SUV,243
+2025-12-01,Kerala,Hatchback,459
+2025-12-01,Kerala,Compact SUV,451
+2025-12-01,Kerala,Mid-size SUV,277
+2025-12-01,Kerala,Premium Hatchback,195
+2025-12-01,Kerala,Micro SUV,237
+2026-01-01,Maharashtra,Hatchback,1028
+2026-01-01,Maharashtra,Compact SUV,1193
+2026-01-01,Maharashtra,Mid-size SUV,810
+2026-01-01,Maharashtra,Premium Hatchback,623
+2026-01-01,Maharashtra,Micro SUV,691
+2026-01-01,Uttar Pradesh,Hatchback,1067
+2026-01-01,Uttar Pradesh,Compact SUV,1358
+2026-01-01,Uttar Pradesh,Mid-size SUV,827
+2026-01-01,Uttar Pradesh,Premium Hatchback,706
+2026-01-01,Uttar Pradesh,Micro SUV,837
+2026-01-01,Karnataka,Hatchback,816
+2026-01-01,Karnataka,Compact SUV,931
+2026-01-01,Karnataka,Mid-size SUV,543
+2026-01-01,Karnataka,Premium Hatchback,499
+2026-01-01,Karnataka,Micro SUV,588
+2026-01-01,Tamil Nadu,Hatchback,661
+2026-01-01,Tamil Nadu,Compact SUV,855
+2026-01-01,Tamil Nadu,Mid-size SUV,527
+2026-01-01,Tamil Nadu,Premium Hatchback,460
+2026-01-01,Tamil Nadu,Micro SUV,503
+2026-01-01,Gujarat,Hatchback,743
+2026-01-01,Gujarat,Compact SUV,803
+2026-01-01,Gujarat,Mid-size SUV,476
+2026-01-01,Gujarat,Premium Hatchback,444
+2026-01-01,Gujarat,Micro SUV,517
+2026-01-01,Telangana,Hatchback,540
+2026-01-01,Telangana,Compact SUV,719
+2026-01-01,Telangana,Mid-size SUV,448
+2026-01-01,Telangana,Premium Hatchback,374
+2026-01-01,Telangana,Micro SUV,454
+2026-01-01,Rajasthan,Hatchback,552
+2026-01-01,Rajasthan,Compact SUV,782
+2026-01-01,Rajasthan,Mid-size SUV,469
+2026-01-01,Rajasthan,Premium Hatchback,339
+2026-01-01,Rajasthan,Micro SUV,434
+2026-01-01,West Bengal,Hatchback,652
+2026-01-01,West Bengal,Compact SUV,850
+2026-01-01,West Bengal,Mid-size SUV,470
+2026-01-01,West Bengal,Premium Hatchback,452
+2026-01-01,West Bengal,Micro SUV,479
+2026-01-01,Delhi,Hatchback,511
+2026-01-01,Delhi,Compact SUV,605
+2026-01-01,Delhi,Mid-size SUV,350
+2026-01-01,Delhi,Premium Hatchback,275
+2026-01-01,Delhi,Micro SUV,351
+2026-01-01,Kerala,Hatchback,396
+2026-01-01,Kerala,Compact SUV,573
+2026-01-01,Kerala,Mid-size SUV,314
+2026-01-01,Kerala,Premium Hatchback,242
+2026-01-01,Kerala,Micro SUV,277
+2026-02-01,Maharashtra,Hatchback,987
+2026-02-01,Maharashtra,Compact SUV,1308
+2026-02-01,Maharashtra,Mid-size SUV,765
+2026-02-01,Maharashtra,Premium Hatchback,723
+2026-02-01,Maharashtra,Micro SUV,711
+2026-02-01,Uttar Pradesh,Hatchback,1131
+2026-02-01,Uttar Pradesh,Compact SUV,1437
+2026-02-01,Uttar Pradesh,Mid-size SUV,769
+2026-02-01,Uttar Pradesh,Premium Hatchback,818
+2026-02-01,Uttar Pradesh,Micro SUV,812
+2026-02-01,Karnataka,Hatchback,798
+2026-02-01,Karnataka,Compact SUV,1000
+2026-02-01,Karnataka,Mid-size SUV,642
+2026-02-01,Karnataka,Premium Hatchback,524
+2026-02-01,Karnataka,Micro SUV,629
+2026-02-01,Tamil Nadu,Hatchback,773
+2026-02-01,Tamil Nadu,Compact SUV,1003
+2026-02-01,Tamil Nadu,Mid-size SUV,600
+2026-02-01,Tamil Nadu,Premium Hatchback,573
+2026-02-01,Tamil Nadu,Micro SUV,594
+2026-02-01,Gujarat,Hatchback,652
+2026-02-01,Gujarat,Compact SUV,1020
+2026-02-01,Gujarat,Mid-size SUV,538
+2026-02-01,Gujarat,Premium Hatchback,541
+2026-02-01,Gujarat,Micro SUV,543
+2026-02-01,Telangana,Hatchback,673
+2026-02-01,Telangana,Compact SUV,738
+2026-02-01,Telangana,Mid-size SUV,509
+2026-02-01,Telangana,Premium Hatchback,392
+2026-02-01,Telangana,Micro SUV,532
+2026-02-01,Rajasthan,Hatchback,620
+2026-02-01,Rajasthan,Compact SUV,781
+2026-02-01,Rajasthan,Mid-size SUV,364
+2026-02-01,Rajasthan,Premium Hatchback,384
+2026-02-01,Rajasthan,Micro SUV,461
+2026-02-01,West Bengal,Hatchback,677
+2026-02-01,West Bengal,Compact SUV,864
+2026-02-01,West Bengal,Mid-size SUV,496
+2026-02-01,West Bengal,Premium Hatchback,433
+2026-02-01,West Bengal,Micro SUV,545
+2026-02-01,Delhi,Hatchback,356
+2026-02-01,Delhi,Compact SUV,591
+2026-02-01,Delhi,Mid-size SUV,337
+2026-02-01,Delhi,Premium Hatchback,255
+2026-02-01,Delhi,Micro SUV,353
+2026-02-01,Kerala,Hatchback,472
+2026-02-01,Kerala,Compact SUV,560
+2026-02-01,Kerala,Mid-size SUV,314
+2026-02-01,Kerala,Premium Hatchback,308
+2026-02-01,Kerala,Micro SUV,347
+2026-03-01,Maharashtra,Hatchback,1052
+2026-03-01,Maharashtra,Compact SUV,1269
+2026-03-01,Maharashtra,Mid-size SUV,784
+2026-03-01,Maharashtra,Premium Hatchback,720
+2026-03-01,Maharashtra,Micro SUV,778
+2026-03-01,Uttar Pradesh,Hatchback,1093
+2026-03-01,Uttar Pradesh,Compact SUV,1328
+2026-03-01,Uttar Pradesh,Mid-size SUV,915
+2026-03-01,Uttar Pradesh,Premium Hatchback,712
+2026-03-01,Uttar Pradesh,Micro SUV,857
+2026-03-01,Karnataka,Hatchback,858
+2026-03-01,Karnataka,Compact SUV,929
+2026-03-01,Karnataka,Mid-size SUV,615
+2026-03-01,Karnataka,Premium Hatchback,511
+2026-03-01,Karnataka,Micro SUV,610
+2026-03-01,Tamil Nadu,Hatchback,816
+2026-03-01,Tamil Nadu,Compact SUV,876
+2026-03-01,Tamil Nadu,Mid-size SUV,610
+2026-03-01,Tamil Nadu,Premium Hatchback,537
+2026-03-01,Tamil Nadu,Micro SUV,553
+2026-03-01,Gujarat,Hatchback,737
+2026-03-01,Gujarat,Compact SUV,934
+2026-03-01,Gujarat,Mid-size SUV,587
+2026-03-01,Gujarat,Premium Hatchback,506
+2026-03-01,Gujarat,Micro SUV,574
+2026-03-01,Telangana,Hatchback,589
+2026-03-01,Telangana,Compact SUV,824
+2026-03-01,Telangana,Mid-size SUV,540
+2026-03-01,Telangana,Premium Hatchback,417
+2026-03-01,Telangana,Micro SUV,400
+2026-03-01,Rajasthan,Hatchback,603
+2026-03-01,Rajasthan,Compact SUV,757
+2026-03-01,Rajasthan,Mid-size SUV,416
+2026-03-01,Rajasthan,Premium Hatchback,377
+2026-03-01,Rajasthan,Micro SUV,385
+2026-03-01,West Bengal,Hatchback,703
+2026-03-01,West Bengal,Compact SUV,839
+2026-03-01,West Bengal,Mid-size SUV,446
+2026-03-01,West Bengal,Premium Hatchback,452
+2026-03-01,West Bengal,Micro SUV,496
+2026-03-01,Delhi,Hatchback,488
+2026-03-01,Delhi,Compact SUV,554
+2026-03-01,Delhi,Mid-size SUV,321
+2026-03-01,Delhi,Premium Hatchback,265
+2026-03-01,Delhi,Micro SUV,319
+2026-03-01,Kerala,Hatchback,423
+2026-03-01,Kerala,Compact SUV,526
+2026-03-01,Kerala,Mid-size SUV,316
+2026-03-01,Kerala,Premium Hatchback,254
+2026-03-01,Kerala,Micro SUV,296
+2026-04-01,Maharashtra,Hatchback,1162
+2026-04-01,Maharashtra,Compact SUV,1257
+2026-04-01,Maharashtra,Mid-size SUV,782
+2026-04-01,Maharashtra,Premium Hatchback,826
+2026-04-01,Maharashtra,Micro SUV,793
+2026-04-01,Uttar Pradesh,Hatchback,1071
+2026-04-01,Uttar Pradesh,Compact SUV,1432
+2026-04-01,Uttar Pradesh,Mid-size SUV,830
+2026-04-01,Uttar Pradesh,Premium Hatchback,773
+2026-04-01,Uttar Pradesh,Micro SUV,827
+2026-04-01,Karnataka,Hatchback,777
+2026-04-01,Karnataka,Compact SUV,1054
+2026-04-01,Karnataka,Mid-size SUV,639
+2026-04-01,Karnataka,Premium Hatchback,559
+2026-04-01,Karnataka,Micro SUV,608
+2026-04-01,Tamil Nadu,Hatchback,735
+2026-04-01,Tamil Nadu,Compact SUV,957
+2026-04-01,Tamil Nadu,Mid-size SUV,635
+2026-04-01,Tamil Nadu,Premium Hatchback,494
+2026-04-01,Tamil Nadu,Micro SUV,639
+2026-04-01,Gujarat,Hatchback,777
+2026-04-01,Gujarat,Compact SUV,918
+2026-04-01,Gujarat,Mid-size SUV,579
+2026-04-01,Gujarat,Premium Hatchback,483
+2026-04-01,Gujarat,Micro SUV,489
+2026-04-01,Telangana,Hatchback,625
+2026-04-01,Telangana,Compact SUV,784
+2026-04-01,Telangana,Mid-size SUV,465
+2026-04-01,Telangana,Premium Hatchback,422
+2026-04-01,Telangana,Micro SUV,465
+2026-04-01,Rajasthan,Hatchback,639
+2026-04-01,Rajasthan,Compact SUV,773
+2026-04-01,Rajasthan,Mid-size SUV,472
+2026-04-01,Rajasthan,Premium Hatchback,329
+2026-04-01,Rajasthan,Micro SUV,526
+2026-04-01,West Bengal,Hatchback,665
+2026-04-01,West Bengal,Compact SUV,823
+2026-04-01,West Bengal,Mid-size SUV,501
+2026-04-01,West Bengal,Premium Hatchback,412
+2026-04-01,West Bengal,Micro SUV,565
+2026-04-01,Delhi,Hatchback,524
+2026-04-01,Delhi,Compact SUV,588
+2026-04-01,Delhi,Mid-size SUV,350
+2026-04-01,Delhi,Premium Hatchback,326
+2026-04-01,Delhi,Micro SUV,344
+2026-04-01,Kerala,Hatchback,411
+2026-04-01,Kerala,Compact SUV,531
+2026-04-01,Kerala,Mid-size SUV,303
+2026-04-01,Kerala,Premium Hatchback,282
+2026-04-01,Kerala,Micro SUV,319
+2026-05-01,Maharashtra,Hatchback,1051
+2026-05-01,Maharashtra,Compact SUV,1232
+2026-05-01,Maharashtra,Mid-size SUV,819
+2026-05-01,Maharashtra,Premium Hatchback,620
+2026-05-01,Maharashtra,Micro SUV,730
+2026-05-01,Uttar Pradesh,Hatchback,1082
+2026-05-01,Uttar Pradesh,Compact SUV,1313
+2026-05-01,Uttar Pradesh,Mid-size SUV,896
+2026-05-01,Uttar Pradesh,Premium Hatchback,671
+2026-05-01,Uttar Pradesh,Micro SUV,785
+2026-05-01,Karnataka,Hatchback,834
+2026-05-01,Karnataka,Compact SUV,932
+2026-05-01,Karnataka,Mid-size SUV,590
+2026-05-01,Karnataka,Premium Hatchback,457
+2026-05-01,Karnataka,Micro SUV,612
+2026-05-01,Tamil Nadu,Hatchback,775
+2026-05-01,Tamil Nadu,Compact SUV,940
+2026-05-01,Tamil Nadu,Mid-size SUV,591
+2026-05-01,Tamil Nadu,Premium Hatchback,479
+2026-05-01,Tamil Nadu,Micro SUV,520
+2026-05-01,Gujarat,Hatchback,684
+2026-05-01,Gujarat,Compact SUV,945
+2026-05-01,Gujarat,Mid-size SUV,589
+2026-05-01,Gujarat,Premium Hatchback,434
+2026-05-01,Gujarat,Micro SUV,534
+2026-05-01,Telangana,Hatchback,600
+2026-05-01,Telangana,Compact SUV,705
+2026-05-01,Telangana,Mid-size SUV,480
+2026-05-01,Telangana,Premium Hatchback,378
+2026-05-01,Telangana,Micro SUV,410
+2026-05-01,Rajasthan,Hatchback,523
+2026-05-01,Rajasthan,Compact SUV,655
+2026-05-01,Rajasthan,Mid-size SUV,437
+2026-05-01,Rajasthan,Premium Hatchback,377
+2026-05-01,Rajasthan,Micro SUV,396
+2026-05-01,West Bengal,Hatchback,684
+2026-05-01,West Bengal,Compact SUV,803
+2026-05-01,West Bengal,Mid-size SUV,530
+2026-05-01,West Bengal,Premium Hatchback,415
+2026-05-01,West Bengal,Micro SUV,448
+2026-05-01,Delhi,Hatchback,455
+2026-05-01,Delhi,Compact SUV,497
+2026-05-01,Delhi,Mid-size SUV,370
+2026-05-01,Delhi,Premium Hatchback,248
+2026-05-01,Delhi,Micro SUV,374
+2026-05-01,Kerala,Hatchback,394
+2026-05-01,Kerala,Compact SUV,552
+2026-05-01,Kerala,Mid-size SUV,264
+2026-05-01,Kerala,Premium Hatchback,234
+2026-05-01,Kerala,Micro SUV,319
+2026-06-01,Maharashtra,Hatchback,1040
+2026-06-01,Maharashtra,Compact SUV,1290
+2026-06-01,Maharashtra,Mid-size SUV,761
+2026-06-01,Maharashtra,Premium Hatchback,721
+2026-06-01,Maharashtra,Micro SUV,716
+2026-06-01,Uttar Pradesh,Hatchback,1116
+2026-06-01,Uttar Pradesh,Compact SUV,1270
+2026-06-01,Uttar Pradesh,Mid-size SUV,839
+2026-06-01,Uttar Pradesh,Premium Hatchback,584
+2026-06-01,Uttar Pradesh,Micro SUV,737
+2026-06-01,Karnataka,Hatchback,771
+2026-06-01,Karnataka,Compact SUV,865
+2026-06-01,Karnataka,Mid-size SUV,596
+2026-06-01,Karnataka,Premium Hatchback,525
+2026-06-01,Karnataka,Micro SUV,531
+2026-06-01,Tamil Nadu,Hatchback,667
+2026-06-01,Tamil Nadu,Compact SUV,854
+2026-06-01,Tamil Nadu,Mid-size SUV,503
+2026-06-01,Tamil Nadu,Premium Hatchback,455
+2026-06-01,Tamil Nadu,Micro SUV,529
+2026-06-01,Gujarat,Hatchback,681
+2026-06-01,Gujarat,Compact SUV,931
+2026-06-01,Gujarat,Mid-size SUV,502
+2026-06-01,Gujarat,Premium Hatchback,512
+2026-06-01,Gujarat,Micro SUV,466
+2026-06-01,Telangana,Hatchback,596
+2026-06-01,Telangana,Compact SUV,782
+2026-06-01,Telangana,Mid-size SUV,506
+2026-06-01,Telangana,Premium Hatchback,364
+2026-06-01,Telangana,Micro SUV,462
+2026-06-01,Rajasthan,Hatchback,588
+2026-06-01,Rajasthan,Compact SUV,676
+2026-06-01,Rajasthan,Mid-size SUV,465
+2026-06-01,Rajasthan,Premium Hatchback,451
+2026-06-01,Rajasthan,Micro SUV,441
+2026-06-01,West Bengal,Hatchback,657
+2026-06-01,West Bengal,Compact SUV,808
+2026-06-01,West Bengal,Mid-size SUV,420
+2026-06-01,West Bengal,Premium Hatchback,429
+2026-06-01,West Bengal,Micro SUV,421
+2026-06-01,Delhi,Hatchback,408
+2026-06-01,Delhi,Compact SUV,632
+2026-06-01,Delhi,Mid-size SUV,323
+2026-06-01,Delhi,Premium Hatchback,247
+2026-06-01,Delhi,Micro SUV,372
+2026-06-01,Kerala,Hatchback,352
+2026-06-01,Kerala,Compact SUV,466
+2026-06-01,Kerala,Mid-size SUV,360
+2026-06-01,Kerala,Premium Hatchback,257
+2026-06-01,Kerala,Micro SUV,221
+2026-07-01,Maharashtra,Hatchback,976
+2026-07-01,Maharashtra,Compact SUV,1153
+2026-07-01,Maharashtra,Mid-size SUV,801
+2026-07-01,Maharashtra,Premium Hatchback,587
+2026-07-01,Maharashtra,Micro SUV,750
+2026-07-01,Uttar Pradesh,Hatchback,1107
+2026-07-01,Uttar Pradesh,Compact SUV,1226
+2026-07-01,Uttar Pradesh,Mid-size SUV,781
+2026-07-01,Uttar Pradesh,Premium Hatchback,681
+2026-07-01,Uttar Pradesh,Micro SUV,720
+2026-07-01,Karnataka,Hatchback,735
+2026-07-01,Karnataka,Compact SUV,879
+2026-07-01,Karnataka,Mid-size SUV,545
+2026-07-01,Karnataka,Premium Hatchback,469
+2026-07-01,Karnataka,Micro SUV,537
+2026-07-01,Tamil Nadu,Hatchback,692
+2026-07-01,Tamil Nadu,Compact SUV,816
+2026-07-01,Tamil Nadu,Mid-size SUV,502
+2026-07-01,Tamil Nadu,Premium Hatchback,437
+2026-07-01,Tamil Nadu,Micro SUV,503
+2026-07-01,Gujarat,Hatchback,650
+2026-07-01,Gujarat,Compact SUV,839
+2026-07-01,Gujarat,Mid-size SUV,433
+2026-07-01,Gujarat,Premium Hatchback,400
+2026-07-01,Gujarat,Micro SUV,482
+2026-07-01,Telangana,Hatchback,532
+2026-07-01,Telangana,Compact SUV,776
+2026-07-01,Telangana,Mid-size SUV,440
+2026-07-01,Telangana,Premium Hatchback,376
+2026-07-01,Telangana,Micro SUV,399
+2026-07-01,Rajasthan,Hatchback,547
+2026-07-01,Rajasthan,Compact SUV,619
+2026-07-01,Rajasthan,Mid-size SUV,413
+2026-07-01,Rajasthan,Premium Hatchback,312
+2026-07-01,Rajasthan,Micro SUV,392
+2026-07-01,West Bengal,Hatchback,493
+2026-07-01,West Bengal,Compact SUV,698
+2026-07-01,West Bengal,Mid-size SUV,534
+2026-07-01,West Bengal,Premium Hatchback,430
+2026-07-01,West Bengal,Micro SUV,509
+2026-07-01,Delhi,Hatchback,481
+2026-07-01,Delhi,Compact SUV,545
+2026-07-01,Delhi,Mid-size SUV,301
+2026-07-01,Delhi,Premium Hatchback,223
+2026-07-01,Delhi,Micro SUV,360
+2026-07-01,Kerala,Hatchback,383
+2026-07-01,Kerala,Compact SUV,580
+2026-07-01,Kerala,Mid-size SUV,276
+2026-07-01,Kerala,Premium Hatchback,334
+2026-07-01,Kerala,Micro SUV,274
+2026-08-01,Maharashtra,Hatchback,985
+2026-08-01,Maharashtra,Compact SUV,1215
+2026-08-01,Maharashtra,Mid-size SUV,665
+2026-08-01,Maharashtra,Premium Hatchback,576
+2026-08-01,Maharashtra,Micro SUV,637
+2026-08-01,Uttar Pradesh,Hatchback,944
+2026-08-01,Uttar Pradesh,Compact SUV,1260
+2026-08-01,Uttar Pradesh,Mid-size SUV,760
+2026-08-01,Uttar Pradesh,Premium Hatchback,648
+2026-08-01,Uttar Pradesh,Micro SUV,763
+2026-08-01,Karnataka,Hatchback,619
+2026-08-01,Karnataka,Compact SUV,923
+2026-08-01,Karnataka,Mid-size SUV,525
+2026-08-01,Karnataka,Premium Hatchback,478
+2026-08-01,Karnataka,Micro SUV,547
+2026-08-01,Tamil Nadu,Hatchback,728
+2026-08-01,Tamil Nadu,Compact SUV,815
+2026-08-01,Tamil Nadu,Mid-size SUV,417
+2026-08-01,Tamil Nadu,Premium Hatchback,433
+2026-08-01,Tamil Nadu,Micro SUV,501
+2026-08-01,Gujarat,Hatchback,605
+2026-08-01,Gujarat,Compact SUV,808
+2026-08-01,Gujarat,Mid-size SUV,485
+2026-08-01,Gujarat,Premium Hatchback,360
+2026-08-01,Gujarat,Micro SUV,511
+2026-08-01,Telangana,Hatchback,529
+2026-08-01,Telangana,Compact SUV,665
+2026-08-01,Telangana,Mid-size SUV,406
+2026-08-01,Telangana,Premium Hatchback,414
+2026-08-01,Telangana,Micro SUV,408
+2026-08-01,Rajasthan,Hatchback,536
+2026-08-01,Rajasthan,Compact SUV,636
+2026-08-01,Rajasthan,Mid-size SUV,430
+2026-08-01,Rajasthan,Premium Hatchback,405
+2026-08-01,Rajasthan,Micro SUV,422
+2026-08-01,West Bengal,Hatchback,623
+2026-08-01,West Bengal,Compact SUV,756
+2026-08-01,West Bengal,Mid-size SUV,393
+2026-08-01,West Bengal,Premium Hatchback,343
+2026-08-01,West Bengal,Micro SUV,428
+2026-08-01,Delhi,Hatchback,374
+2026-08-01,Delhi,Compact SUV,453
+2026-08-01,Delhi,Mid-size SUV,229
+2026-08-01,Delhi,Premium Hatchback,202
+2026-08-01,Delhi,Micro SUV,289
+2026-08-01,Kerala,Hatchback,367
+2026-08-01,Kerala,Compact SUV,419
+2026-08-01,Kerala,Mid-size SUV,288
+2026-08-01,Kerala,Premium Hatchback,219
+2026-08-01,Kerala,Micro SUV,322
+2026-09-01,Maharashtra,Hatchback,910
+2026-09-01,Maharashtra,Compact SUV,1161
+2026-09-01,Maharashtra,Mid-size SUV,715
+2026-09-01,Maharashtra,Premium Hatchback,530
+2026-09-01,Maharashtra,Micro SUV,673
+2026-09-01,Uttar Pradesh,Hatchback,935
+2026-09-01,Uttar Pradesh,Compact SUV,1215
+2026-09-01,Uttar Pradesh,Mid-size SUV,729
+2026-09-01,Uttar Pradesh,Premium Hatchback,657
+2026-09-01,Uttar Pradesh,Micro SUV,671
+2026-09-01,Karnataka,Hatchback,698
+2026-09-01,Karnataka,Compact SUV,884
+2026-09-01,Karnataka,Mid-size SUV,577
+2026-09-01,Karnataka,Premium Hatchback,416
+2026-09-01,Karnataka,Micro SUV,515
+2026-09-01,Tamil Nadu,Hatchback,669
+2026-09-01,Tamil Nadu,Compact SUV,883
+2026-09-01,Tamil Nadu,Mid-size SUV,441
+2026-09-01,Tamil Nadu,Premium Hatchback,386
+2026-09-01,Tamil Nadu,Micro SUV,614
+2026-09-01,Gujarat,Hatchback,633
+2026-09-01,Gujarat,Compact SUV,710
+2026-09-01,Gujarat,Mid-size SUV,470
+2026-09-01,Gujarat,Premium Hatchback,292
+2026-09-01,Gujarat,Micro SUV,488
+2026-09-01,Telangana,Hatchback,587
+2026-09-01,Telangana,Compact SUV,636
+2026-09-01,Telangana,Mid-size SUV,402
+2026-09-01,Telangana,Premium Hatchback,397
+2026-09-01,Telangana,Micro SUV,327
+2026-09-01,Rajasthan,Hatchback,469
+2026-09-01,Rajasthan,Compact SUV,640
+2026-09-01,Rajasthan,Mid-size SUV,372
+2026-09-01,Rajasthan,Premium Hatchback,328
+2026-09-01,Rajasthan,Micro SUV,333
+2026-09-01,West Bengal,Hatchback,597
+2026-09-01,West Bengal,Compact SUV,716
+2026-09-01,West Bengal,Mid-size SUV,476
+2026-09-01,West Bengal,Premium Hatchback,388
+2026-09-01,West Bengal,Micro SUV,443
+2026-09-01,Delhi,Hatchback,338
+2026-09-01,Delhi,Compact SUV,519
+2026-09-01,Delhi,Mid-size SUV,295
+2026-09-01,Delhi,Premium Hatchback,253
+2026-09-01,Delhi,Micro SUV,345
+2026-09-01,Kerala,Hatchback,334
+2026-09-01,Kerala,Compact SUV,512
+2026-09-01,Kerala,Mid-size SUV,347
+2026-09-01,Kerala,Premium Hatchback,271
+2026-09-01,Kerala,Micro SUV,227
+2026-10-01,Maharashtra,Hatchback,833
+2026-10-01,Maharashtra,Compact SUV,1195
+2026-10-01,Maharashtra,Mid-size SUV,721
+2026-10-01,Maharashtra,Premium Hatchback,568
+2026-10-01,Maharashtra,Micro SUV,740
+2026-10-01,Uttar Pradesh,Hatchback,967
+2026-10-01,Uttar Pradesh,Compact SUV,1219
+2026-10-01,Uttar Pradesh,Mid-size SUV,797
+2026-10-01,Uttar Pradesh,Premium Hatchback,600
+2026-10-01,Uttar Pradesh,Micro SUV,738
+2026-10-01,Karnataka,Hatchback,757
+2026-10-01,Karnataka,Compact SUV,880
+2026-10-01,Karnataka,Mid-size SUV,600
+2026-10-01,Karnataka,Premium Hatchback,508
+2026-10-01,Karnataka,Micro SUV,523
+2026-10-01,Tamil Nadu,Hatchback,565
+2026-10-01,Tamil Nadu,Compact SUV,775
+2026-10-01,Tamil Nadu,Mid-size SUV,550
+2026-10-01,Tamil Nadu,Premium Hatchback,363
+2026-10-01,Tamil Nadu,Micro SUV,480
+2026-10-01,Gujarat,Hatchback,671
+2026-10-01,Gujarat,Compact SUV,873
+2026-10-01,Gujarat,Mid-size SUV,478
+2026-10-01,Gujarat,Premium Hatchback,394
+2026-10-01,Gujarat,Micro SUV,481
+2026-10-01,Telangana,Hatchback,574
+2026-10-01,Telangana,Compact SUV,681
+2026-10-01,Telangana,Mid-size SUV,477
+2026-10-01,Telangana,Premium Hatchback,325
+2026-10-01,Telangana,Micro SUV,418
+2026-10-01,Rajasthan,Hatchback,556
+2026-10-01,Rajasthan,Compact SUV,642
+2026-10-01,Rajasthan,Mid-size SUV,450
+2026-10-01,Rajasthan,Premium Hatchback,353
+2026-10-01,Rajasthan,Micro SUV,431
+2026-10-01,West Bengal,Hatchback,604
+2026-10-01,West Bengal,Compact SUV,750
+2026-10-01,West Bengal,Mid-size SUV,430
+2026-10-01,West Bengal,Premium Hatchback,356
+2026-10-01,West Bengal,Micro SUV,495
+2026-10-01,Delhi,Hatchback,438
+2026-10-01,Delhi,Compact SUV,458
+2026-10-01,Delhi,Mid-size SUV,323
+2026-10-01,Delhi,Premium Hatchback,158
+2026-10-01,Delhi,Micro SUV,276
+2026-10-01,Kerala,Hatchback,415
+2026-10-01,Kerala,Compact SUV,453
+2026-10-01,Kerala,Mid-size SUV,291
+2026-10-01,Kerala,Premium Hatchback,105
+2026-10-01,Kerala,Micro SUV,257

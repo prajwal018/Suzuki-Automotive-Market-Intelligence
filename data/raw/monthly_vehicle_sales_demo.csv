@@ -1,0 +1,1161 @@
+month,brand,model,segment,avg_ex_showroom_price_lakh,fuel_type,units_sold
+2022-01-01,Maruti Suzuki,Swift,Hatchback,8.235141179097804,Diesel,12136
+2022-02-01,Maruti Suzuki,Swift,Hatchback,7.920939351914105,Diesel,12708
+2022-03-01,Maruti Suzuki,Swift,Hatchback,8.194447983857238,Petrol,13365
+2022-04-01,Maruti Suzuki,Swift,Hatchback,7.78517688427919,Petrol,14268
+2022-05-01,Maruti Suzuki,Swift,Hatchback,7.987518522253437,Diesel,13409
+2022-06-01,Maruti Suzuki,Swift,Hatchback,7.961367629482799,EV,13083
+2022-07-01,Maruti Suzuki,Swift,Hatchback,8.09136101609102,Petrol,12601
+2022-08-01,Maruti Suzuki,Swift,Hatchback,7.898396245903846,CNG,12275
+2022-09-01,Maruti Suzuki,Swift,Hatchback,8.282243073180222,Petrol,11406
+2022-10-01,Maruti Suzuki,Swift,Hatchback,8.162648196956175,Petrol,13185
+2022-11-01,Maruti Suzuki,Swift,Hatchback,8.05804033076668,Diesel,13881
+2022-12-01,Maruti Suzuki,Swift,Hatchback,8.05589888719367,CNG,12343
+2023-01-01,Maruti Suzuki,Swift,Hatchback,8.157822056459635,Diesel,12973
+2023-02-01,Maruti Suzuki,Swift,Hatchback,7.840280537939164,Petrol,13524
+2023-03-01,Maruti Suzuki,Swift,Hatchback,8.24206958864787,CNG,14676
+2023-04-01,Maruti Suzuki,Swift,Hatchback,8.14655558283982,CNG,14251
+2023-05-01,Maruti Suzuki,Swift,Hatchback,7.884412051833858,Petrol,14512
+2023-06-01,Maruti Suzuki,Swift,Hatchback,7.71667819649913,Diesel,13727
+2023-07-01,Maruti Suzuki,Swift,Hatchback,8.172621338516942,Petrol,13349
+2023-08-01,Maruti Suzuki,Swift,Hatchback,7.9226633650699405,CNG,12607
+2023-09-01,Maruti Suzuki,Swift,Hatchback,7.904565526500417,Petrol,11870
+2023-10-01,Maruti Suzuki,Swift,Hatchback,8.003123529681922,Petrol,14122
+2023-11-01,Maruti Suzuki,Swift,Hatchback,7.975378628872644,Petrol,14326
+2023-12-01,Maruti Suzuki,Swift,Hatchback,7.6382218818942285,Petrol,12666
+2024-01-01,Maruti Suzuki,Swift,Hatchback,7.773630236159985,Hybrid,13050
+2024-02-01,Maruti Suzuki,Swift,Hatchback,8.184378892116772,Diesel,14564
+2024-03-01,Maruti Suzuki,Swift,Hatchback,7.915241731024859,Petrol,14570
+2024-04-01,Maruti Suzuki,Swift,Hatchback,8.05943390058307,Petrol,14259
+2024-05-01,Maruti Suzuki,Swift,Hatchback,7.867626822734049,CNG,14217
+2024-06-01,Maruti Suzuki,Swift,Hatchback,7.940161093131744,CNG,14274
+2024-07-01,Maruti Suzuki,Swift,Hatchback,8.339796893810108,Petrol,13687
+2024-08-01,Maruti Suzuki,Swift,Hatchback,7.702809236419287,Petrol,13104
+2024-09-01,Maruti Suzuki,Swift,Hatchback,7.655828463110923,CNG,12189
+2024-10-01,Maruti Suzuki,Swift,Hatchback,7.746105229698115,Hybrid,14346
+2024-11-01,Maruti Suzuki,Swift,Hatchback,8.728465616501833,Petrol,14941
+2024-12-01,Maruti Suzuki,Swift,Hatchback,8.066927865585958,Petrol,12775
+2025-01-01,Maruti Suzuki,Swift,Hatchback,7.964802278395903,Petrol,13704
+2025-02-01,Maruti Suzuki,Swift,Hatchback,7.741086561793547,Petrol,14636
+2025-03-01,Maruti Suzuki,Swift,Hatchback,8.070171691737857,Petrol,14960
+2025-04-01,Maruti Suzuki,Swift,Hatchback,7.875176100365212,Petrol,15404
+2025-05-01,Maruti Suzuki,Swift,Hatchback,8.532117433108791,Petrol,14874
+2025-06-01,Maruti Suzuki,Swift,Hatchback,8.232893253218561,Petrol,15032
+2025-07-01,Maruti Suzuki,Swift,Hatchback,7.836303076142652,Petrol,14020
+2025-08-01,Maruti Suzuki,Swift,Hatchback,7.680515606420095,Petrol,13247
+2025-09-01,Maruti Suzuki,Swift,Hatchback,7.97034041847253,Hybrid,13477
+2025-10-01,Maruti Suzuki,Swift,Hatchback,7.897268192291565,Diesel,15353
+2025-11-01,Maruti Suzuki,Swift,Hatchback,8.045808609305476,CNG,15276
+2025-12-01,Maruti Suzuki,Swift,Hatchback,8.430916430195824,Petrol,13070
+2026-01-01,Maruti Suzuki,Swift,Hatchback,7.723238579489128,CNG,14165
+2026-02-01,Maruti Suzuki,Swift,Hatchback,7.998719533319982,EV,15279
+2026-03-01,Maruti Suzuki,Swift,Hatchback,8.022646226725437,Petrol,15738
+2026-04-01,Maruti Suzuki,Swift,Hatchback,7.789192432426782,Petrol,15136
+2026-05-01,Maruti Suzuki,Swift,Hatchback,8.228975635589004,Diesel,15394
+2026-06-01,Maruti Suzuki,Swift,Hatchback,8.122128546862315,Petrol,15222
+2026-07-01,Maruti Suzuki,Swift,Hatchback,8.134528859250981,Petrol,14410
+2026-08-01,Maruti Suzuki,Swift,Hatchback,7.944035295779875,Hybrid,13780
+2026-09-01,Maruti Suzuki,Swift,Hatchback,8.022622445406968,Petrol,13397
+2026-10-01,Maruti Suzuki,Swift,Hatchback,7.786689162360295,CNG,16250
+2022-01-01,Maruti Suzuki,Baleno,Premium Hatchback,9.078901250897585,Diesel,10112
+2022-02-01,Maruti Suzuki,Baleno,Premium Hatchback,8.463177742565335,Diesel,10934
+2022-03-01,Maruti Suzuki,Baleno,Premium Hatchback,9.552760490148042,Diesel,11242
+2022-04-01,Maruti Suzuki,Baleno,Premium Hatchback,8.560567902160843,CNG,11485
+2022-05-01,Maruti Suzuki,Baleno,Premium Hatchback,8.72580360538634,Petrol,12428
+2022-06-01,Maruti Suzuki,Baleno,Premium Hatchback,8.907937760802993,Petrol,12340
+2022-07-01,Maruti Suzuki,Baleno,Premium Hatchback,8.938680538514472,Petrol,11421
+2022-08-01,Maruti Suzuki,Baleno,Premium Hatchback,8.96654425887099,Petrol,10457
+2022-09-01,Maruti Suzuki,Baleno,Premium Hatchback,9.058042472406564,Petrol,9854
+2022-10-01,Maruti Suzuki,Baleno,Premium Hatchback,9.038857331917116,CNG,11622
+2022-11-01,Maruti Suzuki,Baleno,Premium Hatchback,8.819610491614288,Diesel,11656
+2022-12-01,Maruti Suzuki,Baleno,Premium Hatchback,9.393338725618811,Petrol,10392
+2023-01-01,Maruti Suzuki,Baleno,Premium Hatchback,9.06528942922704,Petrol,10740
+2023-02-01,Maruti Suzuki,Baleno,Premium Hatchback,9.120035850847902,Petrol,12008
+2023-03-01,Maruti Suzuki,Baleno,Premium Hatchback,8.72239232889638,Hybrid,12354
+2023-04-01,Maruti Suzuki,Baleno,Premium Hatchback,8.926957203549112,CNG,12305
+2023-05-01,Maruti Suzuki,Baleno,Premium Hatchback,9.36787299324829,Petrol,12011
+2023-06-01,Maruti Suzuki,Baleno,Premium Hatchback,9.073998497421774,CNG,11642
+2023-07-01,Maruti Suzuki,Baleno,Premium Hatchback,9.431837553541046,Petrol,10583
+2023-08-01,Maruti Suzuki,Baleno,Premium Hatchback,8.984668913542787,Petrol,10971
+2023-09-01,Maruti Suzuki,Baleno,Premium Hatchback,9.145663810496927,Hybrid,10170
+2023-10-01,Maruti Suzuki,Baleno,Premium Hatchback,9.435983631541948,Petrol,12271
+2023-11-01,Maruti Suzuki,Baleno,Premium Hatchback,9.016636453964802,Petrol,12334
+2023-12-01,Maruti Suzuki,Baleno,Premium Hatchback,9.195587585604414,Petrol,11136
+2024-01-01,Maruti Suzuki,Baleno,Premium Hatchback,9.187717247182816,CNG,11414
+2024-02-01,Maruti Suzuki,Baleno,Premium Hatchback,8.98326170677545,Hybrid,12248
+2024-03-01,Maruti Suzuki,Baleno,Premium Hatchback,9.159383452724423,CNG,12264
+2024-04-01,Maruti Suzuki,Baleno,Premium Hatchback,8.695859962654717,Petrol,12279
+2024-05-01,Maruti Suzuki,Baleno,Premium Hatchback,9.15219036805611,Petrol,12624
+2024-06-01,Maruti Suzuki,Baleno,Premium Hatchback,9.103472571343174,Diesel,12233
+2024-07-01,Maruti Suzuki,Baleno,Premium Hatchback,9.147726580698338,Hybrid,10859
+2024-08-01,Maruti Suzuki,Baleno,Premium Hatchback,9.21164599646085,CNG,11549
+2024-09-01,Maruti Suzuki,Baleno,Premium Hatchback,9.058219505034293,Petrol,10921
+2024-10-01,Maruti Suzuki,Baleno,Premium Hatchback,8.963117829939911,Petrol,12355
+2024-11-01,Maruti Suzuki,Baleno,Premium Hatchback,8.735365979505398,Hybrid,12585
+2024-12-01,Maruti Suzuki,Baleno,Premium Hatchback,8.79443749567742,Petrol,11672
+2025-01-01,Maruti Suzuki,Baleno,Premium Hatchback,9.332240147609248,Petrol,12068
+2025-02-01,Maruti Suzuki,Baleno,Premium Hatchback,9.58191327508652,Petrol,12689
+2025-03-01,Maruti Suzuki,Baleno,Premium Hatchback,8.885575142260794,CNG,12160
+2025-04-01,Maruti Suzuki,Baleno,Premium Hatchback,8.687088196473464,Diesel,13513
+2025-05-01,Maruti Suzuki,Baleno,Premium Hatchback,9.131046960703193,Petrol,12652
+2025-06-01,Maruti Suzuki,Baleno,Premium Hatchback,9.013588396347595,EV,12034
+2025-07-01,Maruti Suzuki,Baleno,Premium Hatchback,9.034560358014671,Petrol,12124
+2025-08-01,Maruti Suzuki,Baleno,Premium Hatchback,8.82383168428253,Petrol,11476
+2025-09-01,Maruti Suzuki,Baleno,Premium Hatchback,8.901564706943857,Petrol,11054
+2025-10-01,Maruti Suzuki,Baleno,Premium Hatchback,9.207379760506019,Petrol,12569
+2025-11-01,Maruti Suzuki,Baleno,Premium Hatchback,8.416595970037925,Petrol,12404
+2025-12-01,Maruti Suzuki,Baleno,Premium Hatchback,9.049447520485463,Hybrid,11779
+2026-01-01,Maruti Suzuki,Baleno,Premium Hatchback,8.807636208298218,Petrol,12619
+2026-02-01,Maruti Suzuki,Baleno,Premium Hatchback,9.023031664608528,CNG,12761
+2026-03-01,Maruti Suzuki,Baleno,Premium Hatchback,8.777966536566588,CNG,13068
+2026-04-01,Maruti Suzuki,Baleno,Premium Hatchback,8.65445462115574,EV,13756
+2026-05-01,Maruti Suzuki,Baleno,Premium Hatchback,8.967228337328068,Petrol,12982
+2026-06-01,Maruti Suzuki,Baleno,Premium Hatchback,8.866524940406611,Petrol,13254
+2026-07-01,Maruti Suzuki,Baleno,Premium Hatchback,8.952688914765899,Diesel,12117
+2026-08-01,Maruti Suzuki,Baleno,Premium Hatchback,8.914303462283906,Hybrid,11885
+2026-09-01,Maruti Suzuki,Baleno,Premium Hatchback,9.278648111144344,CNG,11708
+2026-10-01,Maruti Suzuki,Baleno,Premium Hatchback,9.487753140031575,Petrol,13018
+2022-01-01,Maruti Suzuki,Brezza,Compact SUV,11.269060039366597,Petrol,11274
+2022-02-01,Maruti Suzuki,Brezza,Compact SUV,11.078477052864388,CNG,11964
+2022-03-01,Maruti Suzuki,Brezza,Compact SUV,10.720653971752599,CNG,11741
+2022-04-01,Maruti Suzuki,Brezza,Compact SUV,11.276498342476824,Petrol,12383
+2022-05-01,Maruti Suzuki,Brezza,Compact SUV,10.928909040489977,CNG,12492
+2022-06-01,Maruti Suzuki,Brezza,Compact SUV,11.26596288318359,Diesel,12206
+2022-07-01,Maruti Suzuki,Brezza,Compact SUV,11.055769935656318,Petrol,11454
+2022-08-01,Maruti Suzuki,Brezza,Compact SUV,10.985804201401827,Hybrid,10943
+2022-09-01,Maruti Suzuki,Brezza,Compact SUV,10.787115702703558,Petrol,10249
+2022-10-01,Maruti Suzuki,Brezza,Compact SUV,11.271321751111477,Petrol,12345
+2022-11-01,Maruti Suzuki,Brezza,Compact SUV,10.922831736113396,Petrol,12221
+2022-12-01,Maruti Suzuki,Brezza,Compact SUV,10.502297001219,Petrol,10399
+2023-01-01,Maruti Suzuki,Brezza,Compact SUV,10.820129941678802,Petrol,12132
+2023-02-01,Maruti Suzuki,Brezza,Compact SUV,11.60510375306185,Hybrid,11235
+2023-03-01,Maruti Suzuki,Brezza,Compact SUV,10.60976041175139,CNG,12541
+2023-04-01,Maruti Suzuki,Brezza,Compact SUV,11.19770153042252,Petrol,12966
+2023-05-01,Maruti Suzuki,Brezza,Compact SUV,11.224453852102638,Petrol,13044
+2023-06-01,Maruti Suzuki,Brezza,Compact SUV,11.333946084080058,Diesel,12075
+2023-07-01,Maruti Suzuki,Brezza,Compact SUV,11.363761394067678,Petrol,12348
+2023-08-01,Maruti Suzuki,Brezza,Compact SUV,10.909557380638958,Petrol,11387
+2023-09-01,Maruti Suzuki,Brezza,Compact SUV,10.608560231954872,Petrol,10735
+2023-10-01,Maruti Suzuki,Brezza,Compact SUV,10.401434923774882,CNG,12368
+2023-11-01,Maruti Suzuki,Brezza,Compact SUV,11.061916475277236,Diesel,12162
+2023-12-01,Maruti Suzuki,Brezza,Compact SUV,11.050847060154986,Diesel,11336
+2024-01-01,Maruti Suzuki,Brezza,Compact SUV,11.096259484414025,Petrol,12307
+2024-02-01,Maruti Suzuki,Brezza,Compact SUV,10.978226457236872,Diesel,12802
+2024-03-01,Maruti Suzuki,Brezza,Compact SUV,10.68888205309973,Diesel,12914
+2024-04-01,Maruti Suzuki,Brezza,Compact SUV,10.982329904586981,Petrol,13197
+2024-05-01,Maruti Suzuki,Brezza,Compact SUV,11.225046141004992,Petrol,13269
+2024-06-01,Maruti Suzuki,Brezza,Compact SUV,11.13710698020745,Hybrid,12784
+2024-07-01,Maruti Suzuki,Brezza,Compact SUV,11.065508953018595,Petrol,11755
+2024-08-01,Maruti Suzuki,Brezza,Compact SUV,11.334046525003043,EV,11747
+2024-09-01,Maruti Suzuki,Brezza,Compact SUV,10.397519508550031,Hybrid,11173
+2024-10-01,Maruti Suzuki,Brezza,Compact SUV,11.178599120657665,Diesel,12879
+2024-11-01,Maruti Suzuki,Brezza,Compact SUV,11.058862092077483,Petrol,12771
+2024-12-01,Maruti Suzuki,Brezza,Compact SUV,11.455324712703277,Petrol,11381
+2025-01-01,Maruti Suzuki,Brezza,Compact SUV,10.679732698288541,Petrol,12316
+2025-02-01,Maruti Suzuki,Brezza,Compact SUV,11.06041492995521,EV,12941
+2025-03-01,Maruti Suzuki,Brezza,Compact SUV,11.31861180423531,Diesel,13798
+2025-04-01,Maruti Suzuki,Brezza,Compact SUV,11.190731620584234,Hybrid,13600
+2025-05-01,Maruti Suzuki,Brezza,Compact SUV,10.7414229870814,Petrol,13101
+2025-06-01,Maruti Suzuki,Brezza,Compact SUV,10.798350273923157,Diesel,12767
+2025-07-01,Maruti Suzuki,Brezza,Compact SUV,10.846505799651776,Petrol,12917
+2025-08-01,Maruti Suzuki,Brezza,Compact SUV,11.06722836191965,Petrol,11911
+2025-09-01,Maruti Suzuki,Brezza,Compact SUV,10.897090419445949,Petrol,11797
+2025-10-01,Maruti Suzuki,Brezza,Compact SUV,11.402734248752974,Diesel,13042
+2025-11-01,Maruti Suzuki,Brezza,Compact SUV,10.922379005951013,CNG,13472
+2025-12-01,Maruti Suzuki,Brezza,Compact SUV,11.14489028561912,Petrol,12127
+2026-01-01,Maruti Suzuki,Brezza,Compact SUV,11.513171245486472,Diesel,12346
+2026-02-01,Maruti Suzuki,Brezza,Compact SUV,11.153814191742141,Petrol,13430
+2026-03-01,Maruti Suzuki,Brezza,Compact SUV,11.041097675744325,CNG,13613
+2026-04-01,Maruti Suzuki,Brezza,Compact SUV,11.41697190277988,Petrol,14915
+2026-05-01,Maruti Suzuki,Brezza,Compact SUV,10.782738188033804,Petrol,14336
+2026-06-01,Maruti Suzuki,Brezza,Compact SUV,10.57700933770756,Petrol,14115
+2026-07-01,Maruti Suzuki,Brezza,Compact SUV,10.97960305757872,Petrol,12756
+2026-08-01,Maruti Suzuki,Brezza,Compact SUV,10.86932032595758,Hybrid,11885
+2026-09-01,Maruti Suzuki,Brezza,Compact SUV,10.82153129399088,CNG,12276
+2026-10-01,Maruti Suzuki,Brezza,Compact SUV,11.595650570671019,Petrol,14124
+2022-01-01,Maruti Suzuki,Fronx,Crossover,9.704193966800197,Diesel,8885
+2022-02-01,Maruti Suzuki,Fronx,Crossover,9.391148131764009,CNG,9653
+2022-03-01,Maruti Suzuki,Fronx,Crossover,9.385289876712674,Petrol,9841
+2022-04-01,Maruti Suzuki,Fronx,Crossover,9.738013413284973,Petrol,9821
+2022-05-01,Maruti Suzuki,Fronx,Crossover,8.919910996903464,Petrol,9332
+2022-06-01,Maruti Suzuki,Fronx,Crossover,9.778241472915067,Petrol,9005
+2022-07-01,Maruti Suzuki,Fronx,Crossover,9.762293405360337,Petrol,8546
+2022-08-01,Maruti Suzuki,Fronx,Crossover,9.4446159710673,Petrol,8168
+2022-09-01,Maruti Suzuki,Fronx,Crossover,9.241230471489839,Petrol,8179
+2022-10-01,Maruti Suzuki,Fronx,Crossover,9.109130513032827,Petrol,9361
+2022-11-01,Maruti Suzuki,Fronx,Crossover,9.475955265769167,Diesel,9461
+2022-12-01,Maruti Suzuki,Fronx,Crossover,9.269278389526184,Petrol,7788
+2023-01-01,Maruti Suzuki,Fronx,Crossover,9.214959770218442,Hybrid,9163
+2023-02-01,Maruti Suzuki,Fronx,Crossover,9.63718470471603,Petrol,9702
+2023-03-01,Maruti Suzuki,Fronx,Crossover,9.694441847271232,Petrol,10004
+2023-04-01,Maruti Suzuki,Fronx,Crossover,9.750436349412876,CNG,9491
+2023-05-01,Maruti Suzuki,Fronx,Crossover,9.5247587052518,Diesel,9606
+2023-06-01,Maruti Suzuki,Fronx,Crossover,9.407070825853577,Petrol,10285
+2023-07-01,Maruti Suzuki,Fronx,Crossover,9.246233023567797,Hybrid,9226
+2023-08-01,Maruti Suzuki,Fronx,Crossover,9.269787400547719,Petrol,9411
+2023-09-01,Maruti Suzuki,Fronx,Crossover,9.812416316760944,CNG,8695
+2023-10-01,Maruti Suzuki,Fronx,Crossover,9.585197852000526,Petrol,10025
+2023-11-01,Maruti Suzuki,Fronx,Crossover,9.180039760589995,Petrol,9948
+2023-12-01,Maruti Suzuki,Fronx,Crossover,9.563803354213968,Petrol,9491
+2024-01-01,Maruti Suzuki,Fronx,Crossover,9.226632157384504,Petrol,9384
+2024-02-01,Maruti Suzuki,Fronx,Crossover,9.48720072204585,EV,9897
+2024-03-01,Maruti Suzuki,Fronx,Crossover,9.502861359772867,CNG,10878
+2024-04-01,Maruti Suzuki,Fronx,Crossover,9.229393200652929,Petrol,10420
+2024-05-01,Maruti Suzuki,Fronx,Crossover,9.627805453636883,CNG,10045
+2024-06-01,Maruti Suzuki,Fronx,Crossover,9.74892534647498,Petrol,9361
+2024-07-01,Maruti Suzuki,Fronx,Crossover,9.288738668007712,Petrol,9896
+2024-08-01,Maruti Suzuki,Fronx,Crossover,9.821832777901266,CNG,9206
+2024-09-01,Maruti Suzuki,Fronx,Crossover,9.420223350747275,EV,8713
+2024-10-01,Maruti Suzuki,Fronx,Crossover,9.563221203742474,Diesel,10026
+2024-11-01,Maruti Suzuki,Fronx,Crossover,9.3995018549677,Hybrid,10033
+2024-12-01,Maruti Suzuki,Fronx,Crossover,9.379689719033648,EV,9280
+2025-01-01,Maruti Suzuki,Fronx,Crossover,9.034538711689372,Petrol,9288
+2025-02-01,Maruti Suzuki,Fronx,Crossover,9.803547457232126,Petrol,10218
+2025-03-01,Maruti Suzuki,Fronx,Crossover,9.218054808777072,Petrol,10730
+2025-04-01,Maruti Suzuki,Fronx,Crossover,9.41843449874424,Diesel,10487
+2025-05-01,Maruti Suzuki,Fronx,Crossover,9.976265053516117,Petrol,11291
+2025-06-01,Maruti Suzuki,Fronx,Crossover,9.532764456511536,Hybrid,10931
+2025-07-01,Maruti Suzuki,Fronx,Crossover,9.323183867512133,CNG,10965
+2025-08-01,Maruti Suzuki,Fronx,Crossover,9.727150339973027,Petrol,9258
+2025-09-01,Maruti Suzuki,Fronx,Crossover,9.584145781651358,Petrol,9144
+2025-10-01,Maruti Suzuki,Fronx,Crossover,9.254495145042425,Hybrid,9749
+2025-11-01,Maruti Suzuki,Fronx,Crossover,9.326623458856929,Hybrid,10568
+2025-12-01,Maruti Suzuki,Fronx,Crossover,9.35378146626675,Petrol,9014
+2026-01-01,Maruti Suzuki,Fronx,Crossover,9.681070669364058,Petrol,10107
+2026-02-01,Maruti Suzuki,Fronx,Crossover,9.496920176767672,Petrol,9875
+2026-03-01,Maruti Suzuki,Fronx,Crossover,9.556389959877546,Diesel,10897
+2026-04-01,Maruti Suzuki,Fronx,Crossover,9.226669035528154,Hybrid,10708
+2026-05-01,Maruti Suzuki,Fronx,Crossover,8.874575038960087,Petrol,11426
+2026-06-01,Maruti Suzuki,Fronx,Crossover,9.39790284318632,Petrol,10356
+2026-07-01,Maruti Suzuki,Fronx,Crossover,9.330995673579658,Diesel,10058
+2026-08-01,Maruti Suzuki,Fronx,Crossover,9.597422926330001,Petrol,9851
+2026-09-01,Maruti Suzuki,Fronx,Crossover,9.34444813867632,Petrol,9283
+2026-10-01,Maruti Suzuki,Fronx,Crossover,9.517479895248707,Petrol,10679
+2022-01-01,Maruti Suzuki,WagonR,Hatchback,6.638895522162532,Petrol,11611
+2022-02-01,Maruti Suzuki,WagonR,Hatchback,6.859075439140823,Diesel,12851
+2022-03-01,Maruti Suzuki,WagonR,Hatchback,6.420523362842884,Petrol,13458
+2022-04-01,Maruti Suzuki,WagonR,Hatchback,6.458460539512567,Diesel,13221
+2022-05-01,Maruti Suzuki,WagonR,Hatchback,6.441932667518941,Petrol,12998
+2022-06-01,Maruti Suzuki,WagonR,Hatchback,6.791326883886795,Hybrid,12657
+2022-07-01,Maruti Suzuki,WagonR,Hatchback,6.212283872703608,Petrol,12197
+2022-08-01,Maruti Suzuki,WagonR,Hatchback,6.552902433198763,Petrol,11847
+2022-09-01,Maruti Suzuki,WagonR,Hatchback,6.572339789239278,Petrol,11278
+2022-10-01,Maruti Suzuki,WagonR,Hatchback,6.595721434096262,EV,12922
+2022-11-01,Maruti Suzuki,WagonR,Hatchback,6.619382334316699,Petrol,12403
+2022-12-01,Maruti Suzuki,WagonR,Hatchback,6.378992467106831,Petrol,11404
+2023-01-01,Maruti Suzuki,WagonR,Hatchback,6.904218599624652,Diesel,12301
+2023-02-01,Maruti Suzuki,WagonR,Hatchback,6.491097315952477,CNG,12604
+2023-03-01,Maruti Suzuki,WagonR,Hatchback,6.731089439296858,Petrol,13355
+2023-04-01,Maruti Suzuki,WagonR,Hatchback,6.555780504601541,CNG,13551
+2023-05-01,Maruti Suzuki,WagonR,Hatchback,6.776169803850633,CNG,13172
+2023-06-01,Maruti Suzuki,WagonR,Hatchback,6.615842451508172,Petrol,12608
+2023-07-01,Maruti Suzuki,WagonR,Hatchback,6.593596612926566,CNG,12596
+2023-08-01,Maruti Suzuki,WagonR,Hatchback,6.424345060132389,Hybrid,11432
+2023-09-01,Maruti Suzuki,WagonR,Hatchback,6.94859251365009,Hybrid,11802
+2023-10-01,Maruti Suzuki,WagonR,Hatchback,6.691705717946061,Petrol,13215
+2023-11-01,Maruti Suzuki,WagonR,Hatchback,6.485179338493517,Petrol,13507
+2023-12-01,Maruti Suzuki,WagonR,Hatchback,6.500748322799989,Petrol,11914
+2024-01-01,Maruti Suzuki,WagonR,Hatchback,6.6890620409074515,CNG,12964
+2024-02-01,Maruti Suzuki,WagonR,Hatchback,6.374813814060771,Petrol,12971
+2024-03-01,Maruti Suzuki,WagonR,Hatchback,6.5130433296643835,CNG,13544
+2024-04-01,Maruti Suzuki,WagonR,Hatchback,6.584968840298176,Petrol,14002
+2024-05-01,Maruti Suzuki,WagonR,Hatchback,5.9730116645556395,Petrol,14130
+2024-06-01,Maruti Suzuki,WagonR,Hatchback,6.498841756943913,Petrol,12790
+2024-07-01,Maruti Suzuki,WagonR,Hatchback,6.374909730650775,Petrol,13359
+2024-08-01,Maruti Suzuki,WagonR,Hatchback,6.746534079240192,Diesel,12145
+2024-09-01,Maruti Suzuki,WagonR,Hatchback,6.2613020457172945,Diesel,12169
+2024-10-01,Maruti Suzuki,WagonR,Hatchback,6.309419135493087,CNG,13947
+2024-11-01,Maruti Suzuki,WagonR,Hatchback,6.261093708149651,Hybrid,13727
+2024-12-01,Maruti Suzuki,WagonR,Hatchback,6.527411938643502,Diesel,12031
+2025-01-01,Maruti Suzuki,WagonR,Hatchback,6.53746060349682,Petrol,12675
+2025-02-01,Maruti Suzuki,WagonR,Hatchback,6.461578723909495,CNG,13894
+2025-03-01,Maruti Suzuki,WagonR,Hatchback,6.338908219946744,Diesel,14214
+2025-04-01,Maruti Suzuki,WagonR,Hatchback,6.861281489231634,Diesel,14215
+2025-05-01,Maruti Suzuki,WagonR,Hatchback,6.442676836611923,Petrol,14382
+2025-06-01,Maruti Suzuki,WagonR,Hatchback,6.829753299435349,Petrol,13682
+2025-07-01,Maruti Suzuki,WagonR,Hatchback,6.5609381201004116,EV,13165
+2025-08-01,Maruti Suzuki,WagonR,Hatchback,6.5275989314030545,Petrol,12887
+2025-09-01,Maruti Suzuki,WagonR,Hatchback,6.663311220820307,Diesel,11789
+2025-10-01,Maruti Suzuki,WagonR,Hatchback,6.698733063228907,Petrol,13943
+2025-11-01,Maruti Suzuki,WagonR,Hatchback,6.483230392612181,EV,14140
+2025-12-01,Maruti Suzuki,WagonR,Hatchback,6.810489999203453,EV,13045
+2026-01-01,Maruti Suzuki,WagonR,Hatchback,6.629915143336626,Petrol,13799
+2026-02-01,Maruti Suzuki,WagonR,Hatchback,6.301350136218736,Diesel,14546
+2026-03-01,Maruti Suzuki,WagonR,Hatchback,6.432081404078177,CNG,15132
+2026-04-01,Maruti Suzuki,WagonR,Hatchback,6.519747179085003,Petrol,14976
+2026-05-01,Maruti Suzuki,WagonR,Hatchback,6.2528432126413485,Petrol,14789
+2026-06-01,Maruti Suzuki,WagonR,Hatchback,6.441042659456286,Petrol,14452
+2026-07-01,Maruti Suzuki,WagonR,Hatchback,6.47538849942303,Diesel,13704
+2026-08-01,Maruti Suzuki,WagonR,Hatchback,6.434231643885912,Diesel,12408
+2026-09-01,Maruti Suzuki,WagonR,Hatchback,6.822111062329563,Petrol,13152
+2026-10-01,Maruti Suzuki,WagonR,Hatchback,6.500949062905365,Petrol,14613
+2022-01-01,Hyundai,i20,Premium Hatchback,8.864207292235971,Petrol,4214
+2022-02-01,Hyundai,i20,Premium Hatchback,8.903938521779857,Petrol,6913
+2022-03-01,Hyundai,i20,Premium Hatchback,9.24066439312171,Petrol,4411
+2022-04-01,Hyundai,i20,Premium Hatchback,9.02765328064467,Petrol,3722
+2022-05-01,Hyundai,i20,Premium Hatchback,8.645578957460108,Diesel,8102
+2022-06-01,Hyundai,i20,Premium Hatchback,8.623168588056739,Petrol,4043
+2022-07-01,Hyundai,i20,Premium Hatchback,9.450435486936787,Diesel,5288
+2022-08-01,Hyundai,i20,Premium Hatchback,8.522967396693684,CNG,2808
+2022-09-01,Hyundai,i20,Premium Hatchback,8.599948537739131,CNG,3478
+2022-10-01,Hyundai,i20,Premium Hatchback,9.104367989685503,Petrol,5947
+2022-11-01,Hyundai,i20,Premium Hatchback,9.158214478651827,CNG,5054
+2022-12-01,Hyundai,i20,Premium Hatchback,9.091340935515943,Hybrid,2373
+2023-01-01,Hyundai,i20,Premium Hatchback,9.251877692746639,Petrol,3773
+2023-02-01,Hyundai,i20,Premium Hatchback,9.490121150195757,Petrol,8090
+2023-03-01,Hyundai,i20,Premium Hatchback,8.735429737290591,Petrol,3975
+2023-04-01,Hyundai,i20,Premium Hatchback,8.974400823347226,Petrol,4255
+2023-05-01,Hyundai,i20,Premium Hatchback,8.780122592835264,Petrol,7544
+2023-06-01,Hyundai,i20,Premium Hatchback,8.87773063297027,CNG,5110
+2023-07-01,Hyundai,i20,Premium Hatchback,8.655497680788033,Petrol,7086
+2023-08-01,Hyundai,i20,Premium Hatchback,9.331238919845408,Petrol,2658
+2023-09-01,Hyundai,i20,Premium Hatchback,9.19563970642879,Petrol,6598
+2023-10-01,Hyundai,i20,Premium Hatchback,8.855838176941576,Petrol,3650
+2023-11-01,Hyundai,i20,Premium Hatchback,8.719307891932251,Petrol,6476
+2023-12-01,Hyundai,i20,Premium Hatchback,8.801868542385522,Petrol,5292
+2024-01-01,Hyundai,i20,Premium Hatchback,9.387970030030623,Petrol,3940
+2024-02-01,Hyundai,i20,Premium Hatchback,8.86725587386107,Petrol,7391
+2024-03-01,Hyundai,i20,Premium Hatchback,8.548075785056266,Hybrid,5734
+2024-04-01,Hyundai,i20,Premium Hatchback,9.379198164284812,Petrol,5033
+2024-05-01,Hyundai,i20,Premium Hatchback,8.842878817465802,Petrol,6010
+2024-06-01,Hyundai,i20,Premium Hatchback,8.87944188032427,Petrol,5103
+2024-07-01,Hyundai,i20,Premium Hatchback,8.888210585667514,Petrol,6798
+2024-08-01,Hyundai,i20,Premium Hatchback,9.165520383645438,Diesel,6557
+2024-09-01,Hyundai,i20,Premium Hatchback,9.362336200309075,Petrol,5845
+2024-10-01,Hyundai,i20,Premium Hatchback,9.005838829028638,Petrol,5550
+2024-11-01,Hyundai,i20,Premium Hatchback,8.945492717973895,Petrol,4177
+2024-12-01,Hyundai,i20,Premium Hatchback,9.198959663804944,Petrol,5852
+2025-01-01,Hyundai,i20,Premium Hatchback,8.99419157228741,Petrol,3334
+2025-02-01,Hyundai,i20,Premium Hatchback,8.890236522473765,Petrol,5663
+2025-03-01,Hyundai,i20,Premium Hatchback,9.211370777120463,Petrol,7053
+2025-04-01,Hyundai,i20,Premium Hatchback,8.75866220129781,Petrol,8742
+2025-05-01,Hyundai,i20,Premium Hatchback,9.188463767483421,Diesel,7684
+2025-06-01,Hyundai,i20,Premium Hatchback,9.308225483525675,CNG,5595
+2025-07-01,Hyundai,i20,Premium Hatchback,9.20114257539621,Petrol,5051
+2025-08-01,Hyundai,i20,Premium Hatchback,9.459056459932505,Petrol,7358
+2025-09-01,Hyundai,i20,Premium Hatchback,9.297603390823436,Petrol,3248
+2025-10-01,Hyundai,i20,Premium Hatchback,8.609278913665037,Petrol,4154
+2025-11-01,Hyundai,i20,Premium Hatchback,8.60277560895532,Petrol,4075
+2025-12-01,Hyundai,i20,Premium Hatchback,8.731308496545571,Petrol,4099
+2026-01-01,Hyundai,i20,Premium Hatchback,9.464873701905828,Diesel,8365
+2026-02-01,Hyundai,i20,Premium Hatchback,8.946548860477378,Diesel,4172
+2026-03-01,Hyundai,i20,Premium Hatchback,8.868321152013447,Petrol,6227
+2026-04-01,Hyundai,i20,Premium Hatchback,8.81692865464948,Petrol,10245
+2026-05-01,Hyundai,i20,Premium Hatchback,9.140568217978624,Petrol,5341
+2026-06-01,Hyundai,i20,Premium Hatchback,9.116544415549328,Diesel,8311
+2026-07-01,Hyundai,i20,Premium Hatchback,8.936509330488054,Petrol,6035
+2026-08-01,Hyundai,i20,Premium Hatchback,9.215500012603034,EV,5784
+2026-09-01,Hyundai,i20,Premium Hatchback,9.33215776671236,EV,4153
+2026-10-01,Hyundai,i20,Premium Hatchback,9.207280267766514,Diesel,8775
+2022-01-01,Hyundai,Venue,Compact SUV,10.591133622258315,Petrol,6187
+2022-02-01,Hyundai,Venue,Compact SUV,10.868402848063274,Hybrid,5744
+2022-03-01,Hyundai,Venue,Compact SUV,10.458837243114012,Petrol,5689
+2022-04-01,Hyundai,Venue,Compact SUV,10.228358035102353,Petrol,5089
+2022-05-01,Hyundai,Venue,Compact SUV,10.869348408542509,Hybrid,6788
+2022-06-01,Hyundai,Venue,Compact SUV,10.96557939034872,Petrol,3428
+2022-07-01,Hyundai,Venue,Compact SUV,10.147545142763047,Hybrid,3909
+2022-08-01,Hyundai,Venue,Compact SUV,10.37708609625863,Petrol,3750
+2022-09-01,Hyundai,Venue,Compact SUV,10.66293703535076,Hybrid,3793
+2022-10-01,Hyundai,Venue,Compact SUV,11.057432960352386,Diesel,6393
+2022-11-01,Hyundai,Venue,Compact SUV,10.286960298508601,Petrol,7943
+2022-12-01,Hyundai,Venue,Compact SUV,10.507005546756469,Hybrid,4211
+2023-01-01,Hyundai,Venue,Compact SUV,10.850296568758473,Petrol,6581
+2023-02-01,Hyundai,Venue,Compact SUV,10.730287686598698,Petrol,6103
+2023-03-01,Hyundai,Venue,Compact SUV,10.267752708217355,Hybrid,7281
+2023-04-01,Hyundai,Venue,Compact SUV,10.479137804193352,Petrol,3330
+2023-05-01,Hyundai,Venue,Compact SUV,10.780210162850791,Petrol,4543
+2023-06-01,Hyundai,Venue,Compact SUV,10.859676370589808,CNG,5456
+2023-07-01,Hyundai,Venue,Compact SUV,10.879110025147352,EV,6231
+2023-08-01,Hyundai,Venue,Compact SUV,10.627474562119135,Petrol,6820
+2023-09-01,Hyundai,Venue,Compact SUV,10.47144752705554,Petrol,5539
+2023-10-01,Hyundai,Venue,Compact SUV,10.589329855677656,Petrol,7636
+2023-11-01,Hyundai,Venue,Compact SUV,10.614926488753747,Petrol,6516
+2023-12-01,Hyundai,Venue,Compact SUV,10.159935408427668,CNG,6729
+2024-01-01,Hyundai,Venue,Compact SUV,10.781260980427007,Petrol,3550
+2024-02-01,Hyundai,Venue,Compact SUV,10.459300250841848,Hybrid,5717
+2024-03-01,Hyundai,Venue,Compact SUV,10.926463170136142,Petrol,3484
+2024-04-01,Hyundai,Venue,Compact SUV,10.582485884664315,Hybrid,5232
+2024-05-01,Hyundai,Venue,Compact SUV,10.156749245778615,Petrol,6946
+2024-06-01,Hyundai,Venue,Compact SUV,10.494328681168588,Petrol,4146
+2024-07-01,Hyundai,Venue,Compact SUV,10.224002841157084,Petrol,5529
+2024-08-01,Hyundai,Venue,Compact SUV,10.204630233017795,Diesel,6321
+2024-09-01,Hyundai,Venue,Compact SUV,10.582572486404148,Petrol,6439
+2024-10-01,Hyundai,Venue,Compact SUV,10.489216602589773,Petrol,5989
+2024-11-01,Hyundai,Venue,Compact SUV,10.637032094910548,Petrol,5129
+2024-12-01,Hyundai,Venue,Compact SUV,10.552572822771536,Petrol,3802
+2025-01-01,Hyundai,Venue,Compact SUV,10.01636731607172,CNG,8381
+2025-02-01,Hyundai,Venue,Compact SUV,10.452903968183904,Hybrid,7745
+2025-03-01,Hyundai,Venue,Compact SUV,10.457402894160973,Petrol,8267
+2025-04-01,Hyundai,Venue,Compact SUV,10.577347892539237,Petrol,6462
+2025-05-01,Hyundai,Venue,Compact SUV,10.260143061714533,Petrol,6195
+2025-06-01,Hyundai,Venue,Compact SUV,10.879092161681333,EV,7103
+2025-07-01,Hyundai,Venue,Compact SUV,10.473760460999957,Petrol,8139
+2025-08-01,Hyundai,Venue,Compact SUV,10.299189977012073,Petrol,6001
+2025-09-01,Hyundai,Venue,Compact SUV,10.318914370147949,Petrol,4540
+2025-10-01,Hyundai,Venue,Compact SUV,10.34290722297013,Diesel,8498
+2025-11-01,Hyundai,Venue,Compact SUV,10.463547385477796,Diesel,4845
+2025-12-01,Hyundai,Venue,Compact SUV,10.21329197945814,CNG,7716
+2026-01-01,Hyundai,Venue,Compact SUV,10.540514889765719,EV,4329
+2026-02-01,Hyundai,Venue,Compact SUV,10.445016051183416,Petrol,5306
+2026-03-01,Hyundai,Venue,Compact SUV,10.184402675285709,Diesel,8028
+2026-04-01,Hyundai,Venue,Compact SUV,10.586431644950395,EV,4069
+2026-05-01,Hyundai,Venue,Compact SUV,10.324232729775549,Diesel,4788
+2026-06-01,Hyundai,Venue,Compact SUV,10.73569145030632,Petrol,5163
+2026-07-01,Hyundai,Venue,Compact SUV,10.147507574229031,Petrol,4253
+2026-08-01,Hyundai,Venue,Compact SUV,10.613134604744898,EV,6204
+2026-09-01,Hyundai,Venue,Compact SUV,10.23310155773878,Petrol,5147
+2026-10-01,Hyundai,Venue,Compact SUV,10.144559087663858,Petrol,8203
+2022-01-01,Hyundai,Creta,Mid-size SUV,15.048815757869944,Petrol,4226
+2022-02-01,Hyundai,Creta,Mid-size SUV,14.936906468753879,Petrol,7288
+2022-03-01,Hyundai,Creta,Mid-size SUV,15.13303234347036,Hybrid,4474
+2022-04-01,Hyundai,Creta,Mid-size SUV,14.809952477845274,Petrol,3740
+2022-05-01,Hyundai,Creta,Mid-size SUV,15.293876644127195,Diesel,4023
+2022-06-01,Hyundai,Creta,Mid-size SUV,15.397613074479006,Diesel,7955
+2022-07-01,Hyundai,Creta,Mid-size SUV,14.792307529598666,Petrol,3569
+2022-08-01,Hyundai,Creta,Mid-size SUV,15.271128790232492,Diesel,6176
+2022-09-01,Hyundai,Creta,Mid-size SUV,14.949054534718863,Diesel,6167
+2022-10-01,Hyundai,Creta,Mid-size SUV,14.884784670558773,CNG,6974
+2022-11-01,Hyundai,Creta,Mid-size SUV,14.97020779066802,Petrol,3248
+2022-12-01,Hyundai,Creta,Mid-size SUV,14.8733493260072,Diesel,5398
+2023-01-01,Hyundai,Creta,Mid-size SUV,14.940888395008871,CNG,4364
+2023-02-01,Hyundai,Creta,Mid-size SUV,15.187949116458864,EV,4244
+2023-03-01,Hyundai,Creta,Mid-size SUV,14.974334477239841,Petrol,8868
+2023-04-01,Hyundai,Creta,Mid-size SUV,15.055991857093362,Petrol,6243
+2023-05-01,Hyundai,Creta,Mid-size SUV,14.977669899324816,Diesel,7958
+2023-06-01,Hyundai,Creta,Mid-size SUV,14.94314514683903,Petrol,8189
+2023-07-01,Hyundai,Creta,Mid-size SUV,14.818496225574755,CNG,5028
+2023-08-01,Hyundai,Creta,Mid-size SUV,14.865547163410715,CNG,2503
+2023-09-01,Hyundai,Creta,Mid-size SUV,14.865420949284605,Petrol,4779
+2023-10-01,Hyundai,Creta,Mid-size SUV,14.86629716544536,Hybrid,3350
+2023-11-01,Hyundai,Creta,Mid-size SUV,14.86703062651431,Diesel,7118
+2023-12-01,Hyundai,Creta,Mid-size SUV,15.593651637506607,Diesel,4094
+2024-01-01,Hyundai,Creta,Mid-size SUV,14.876649664904331,Hybrid,4314
+2024-02-01,Hyundai,Creta,Mid-size SUV,15.475726865568541,Petrol,5740
+2024-03-01,Hyundai,Creta,Mid-size SUV,14.95901162499325,Petrol,5897
+2024-04-01,Hyundai,Creta,Mid-size SUV,14.971707897567775,Petrol,7064
+2024-05-01,Hyundai,Creta,Mid-size SUV,14.86789346722112,Hybrid,8694
+2024-06-01,Hyundai,Creta,Mid-size SUV,14.6505784592204,Petrol,3728
+2024-07-01,Hyundai,Creta,Mid-size SUV,15.02440099812386,Petrol,4194
+2024-08-01,Hyundai,Creta,Mid-size SUV,15.009380808084899,Diesel,6752
+2024-09-01,Hyundai,Creta,Mid-size SUV,14.639505316089997,Petrol,6928
+2024-10-01,Hyundai,Creta,Mid-size SUV,14.952611122115181,Petrol,6029
+2024-11-01,Hyundai,Creta,Mid-size SUV,15.369348416243668,Petrol,7704
+2024-12-01,Hyundai,Creta,Mid-size SUV,14.806337035934485,CNG,6625
+2025-01-01,Hyundai,Creta,Mid-size SUV,15.22321395408074,Petrol,3721
+2025-02-01,Hyundai,Creta,Mid-size SUV,14.85859031291124,Petrol,6840
+2025-03-01,Hyundai,Creta,Mid-size SUV,15.566911050974813,CNG,5338
+2025-04-01,Hyundai,Creta,Mid-size SUV,14.805598518062933,CNG,7091
+2025-05-01,Hyundai,Creta,Mid-size SUV,14.963928905369936,Petrol,6957
+2025-06-01,Hyundai,Creta,Mid-size SUV,15.702392242524098,Petrol,4186
+2025-07-01,Hyundai,Creta,Mid-size SUV,15.018004410479262,Petrol,4380
+2025-08-01,Hyundai,Creta,Mid-size SUV,15.074228967684029,CNG,6026
+2025-09-01,Hyundai,Creta,Mid-size SUV,15.36558881586834,CNG,5398
+2025-10-01,Hyundai,Creta,Mid-size SUV,14.754146005335242,Petrol,3886
+2025-11-01,Hyundai,Creta,Mid-size SUV,14.601996749439635,EV,6666
+2025-12-01,Hyundai,Creta,Mid-size SUV,14.998023871156692,Petrol,4399
+2026-01-01,Hyundai,Creta,Mid-size SUV,14.918575472481567,CNG,5473
+2026-02-01,Hyundai,Creta,Mid-size SUV,14.889246961689633,Hybrid,6580
+2026-03-01,Hyundai,Creta,Mid-size SUV,14.897587767908,CNG,7359
+2026-04-01,Hyundai,Creta,Mid-size SUV,14.999859225719261,Hybrid,7410
+2026-05-01,Hyundai,Creta,Mid-size SUV,14.506541532535259,EV,8320
+2026-06-01,Hyundai,Creta,Mid-size SUV,14.884468231206888,Petrol,5126
+2026-07-01,Hyundai,Creta,Mid-size SUV,14.934792885398855,Petrol,8972
+2026-08-01,Hyundai,Creta,Mid-size SUV,15.161139602995995,Petrol,7829
+2026-09-01,Hyundai,Creta,Mid-size SUV,15.389704061949772,Petrol,7391
+2026-10-01,Hyundai,Creta,Mid-size SUV,15.014352517859539,Diesel,9021
+2022-01-01,Hyundai,Exter,Micro SUV,7.521990724082751,Petrol,4514
+2022-02-01,Hyundai,Exter,Micro SUV,7.27482695407183,CNG,6029
+2022-03-01,Hyundai,Exter,Micro SUV,7.125656707476366,Petrol,4829
+2022-04-01,Hyundai,Exter,Micro SUV,7.220423545698364,CNG,4772
+2022-05-01,Hyundai,Exter,Micro SUV,7.557820505685841,Petrol,3532
+2022-06-01,Hyundai,Exter,Micro SUV,7.327016575956348,Petrol,4669
+2022-07-01,Hyundai,Exter,Micro SUV,7.150759485562217,Petrol,3423
+2022-08-01,Hyundai,Exter,Micro SUV,7.756024709960256,Petrol,4407
+2022-09-01,Hyundai,Exter,Micro SUV,7.669630987850007,Petrol,6585
+2022-10-01,Hyundai,Exter,Micro SUV,7.359548364118602,Petrol,5920
+2022-11-01,Hyundai,Exter,Micro SUV,7.042901172139624,Hybrid,6387
+2022-12-01,Hyundai,Exter,Micro SUV,7.093478877843371,Petrol,4829
+2023-01-01,Hyundai,Exter,Micro SUV,7.525361857662513,CNG,3724
+2023-02-01,Hyundai,Exter,Micro SUV,7.549908754477879,CNG,5449
+2023-03-01,Hyundai,Exter,Micro SUV,7.304205034571208,Petrol,7668
+2023-04-01,Hyundai,Exter,Micro SUV,7.354601516429598,Petrol,5751
+2023-05-01,Hyundai,Exter,Micro SUV,7.231066010338692,Petrol,5831
+2023-06-01,Hyundai,Exter,Micro SUV,7.467493484625377,Hybrid,8244
+2023-07-01,Hyundai,Exter,Micro SUV,7.536830582621618,Petrol,7106
+2023-08-01,Hyundai,Exter,Micro SUV,7.6274551769440295,EV,7516
+2023-09-01,Hyundai,Exter,Micro SUV,6.738091858661812,CNG,2137
+2023-10-01,Hyundai,Exter,Micro SUV,7.133453504382614,Petrol,5727
+2023-11-01,Hyundai,Exter,Micro SUV,7.782247775240505,Diesel,4040
+2023-12-01,Hyundai,Exter,Micro SUV,7.24569391472459,EV,4896
+2024-01-01,Hyundai,Exter,Micro SUV,7.399101970370166,Petrol,5176
+2024-02-01,Hyundai,Exter,Micro SUV,7.901057276171254,Petrol,8588
+2024-03-01,Hyundai,Exter,Micro SUV,7.299595289807887,Petrol,5018
+2024-04-01,Hyundai,Exter,Micro SUV,6.954908447815453,CNG,8517
+2024-05-01,Hyundai,Exter,Micro SUV,7.272724277849161,CNG,3600
+2024-06-01,Hyundai,Exter,Micro SUV,7.561342752248833,CNG,4387
+2024-07-01,Hyundai,Exter,Micro SUV,7.243867771771749,Petrol,4604
+2024-08-01,Hyundai,Exter,Micro SUV,7.3534870900061104,CNG,4711
+2024-09-01,Hyundai,Exter,Micro SUV,7.440967477055503,Petrol,6728
+2024-10-01,Hyundai,Exter,Micro SUV,7.477846513686708,Petrol,7143
+2024-11-01,Hyundai,Exter,Micro SUV,7.423325678043516,Petrol,6042
+2024-12-01,Hyundai,Exter,Micro SUV,7.692464223263839,Petrol,3796
+2025-01-01,Hyundai,Exter,Micro SUV,7.622167131116827,Petrol,3844
+2025-02-01,Hyundai,Exter,Micro SUV,7.436984296149161,Petrol,5291
+2025-03-01,Hyundai,Exter,Micro SUV,7.30819573286734,Petrol,6694
+2025-04-01,Hyundai,Exter,Micro SUV,7.636330815491765,Diesel,5456
+2025-05-01,Hyundai,Exter,Micro SUV,7.598002734341439,Diesel,3996
+2025-06-01,Hyundai,Exter,Micro SUV,8.053538153947978,Hybrid,7632
+2025-07-01,Hyundai,Exter,Micro SUV,7.562963603823751,Petrol,3255
+2025-08-01,Hyundai,Exter,Micro SUV,7.22226722619607,Petrol,5155
+2025-09-01,Hyundai,Exter,Micro SUV,7.944295710064431,Petrol,7200
+2025-10-01,Hyundai,Exter,Micro SUV,7.53982444595741,Hybrid,6041
+2025-11-01,Hyundai,Exter,Micro SUV,7.619150741830995,Petrol,6068
+2025-12-01,Hyundai,Exter,Micro SUV,7.482550303559465,Petrol,5358
+2026-01-01,Hyundai,Exter,Micro SUV,6.849527921237078,Petrol,7296
+2026-02-01,Hyundai,Exter,Micro SUV,7.376632947711531,EV,5474
+2026-03-01,Hyundai,Exter,Micro SUV,7.684209132730013,Petrol,5210
+2026-04-01,Hyundai,Exter,Micro SUV,7.573648210639595,CNG,7970
+2026-05-01,Hyundai,Exter,Micro SUV,7.309140170672335,CNG,5916
+2026-06-01,Hyundai,Exter,Micro SUV,7.624480733567345,Petrol,5194
+2026-07-01,Hyundai,Exter,Micro SUV,7.193823805587365,Petrol,7757
+2026-08-01,Hyundai,Exter,Micro SUV,7.51344635782058,CNG,4841
+2026-09-01,Hyundai,Exter,Micro SUV,7.349320159242445,CNG,6856
+2026-10-01,Hyundai,Exter,Micro SUV,7.568215629506443,Petrol,7070
+2022-01-01,Tata,Punch,Micro SUV,7.741137670559834,Petrol,4849
+2022-02-01,Tata,Punch,Micro SUV,7.414461777316988,Petrol,3124
+2022-03-01,Tata,Punch,Micro SUV,7.514124172998308,Petrol,2799
+2022-04-01,Tata,Punch,Micro SUV,6.960997998485155,Petrol,3936
+2022-05-01,Tata,Punch,Micro SUV,7.2115812709000595,Petrol,4691
+2022-06-01,Tata,Punch,Micro SUV,7.476178553246516,Hybrid,6726
+2022-07-01,Tata,Punch,Micro SUV,7.548775993285722,Diesel,4881
+2022-08-01,Tata,Punch,Micro SUV,7.523648133239425,Petrol,6207
+2022-09-01,Tata,Punch,Micro SUV,7.047963988282314,Hybrid,6093
+2022-10-01,Tata,Punch,Micro SUV,7.321545125695322,Petrol,7633
+2022-11-01,Tata,Punch,Micro SUV,7.850220465078242,Diesel,3052
+2022-12-01,Tata,Punch,Micro SUV,7.59761373301347,Petrol,6007
+2023-01-01,Tata,Punch,Micro SUV,7.6223459847346025,Petrol,3335
+2023-02-01,Tata,Punch,Micro SUV,7.553774533954759,Petrol,4989
+2023-03-01,Tata,Punch,Micro SUV,7.29771850376474,Petrol,5354
+2023-04-01,Tata,Punch,Micro SUV,8.0516313267851,Petrol,4397
+2023-05-01,Tata,Punch,Micro SUV,7.524500478524846,Diesel,6020
+2023-06-01,Tata,Punch,Micro SUV,7.300298563776755,EV,7471
+2023-07-01,Tata,Punch,Micro SUV,7.579773708505893,Petrol,3607
+2023-08-01,Tata,Punch,Micro SUV,8.175996276819847,Hybrid,5224
+2023-09-01,Tata,Punch,Micro SUV,7.264330021367165,Petrol,4733
+2023-10-01,Tata,Punch,Micro SUV,7.484122831390433,Petrol,6826
+2023-11-01,Tata,Punch,Micro SUV,7.5560743267953985,Hybrid,6022
+2023-12-01,Tata,Punch,Micro SUV,7.669371210522849,CNG,3699
+2024-01-01,Tata,Punch,Micro SUV,7.825289587163008,Petrol,4779
+2024-02-01,Tata,Punch,Micro SUV,8.20316231205968,Petrol,5629
+2024-03-01,Tata,Punch,Micro SUV,7.287295094404326,Petrol,7610
+2024-04-01,Tata,Punch,Micro SUV,7.583760591884353,Petrol,5449
+2024-05-01,Tata,Punch,Micro SUV,7.650751713356669,Petrol,4663
+2024-06-01,Tata,Punch,Micro SUV,7.034378811843801,CNG,7059
+2024-07-01,Tata,Punch,Micro SUV,7.469548693986667,Diesel,6808
+2024-08-01,Tata,Punch,Micro SUV,7.681524590361583,Petrol,4964
+2024-09-01,Tata,Punch,Micro SUV,7.543251784913056,Petrol,2643
+2024-10-01,Tata,Punch,Micro SUV,7.446212708557217,CNG,4062
+2024-11-01,Tata,Punch,Micro SUV,7.522700005902512,Diesel,4746
+2024-12-01,Tata,Punch,Micro SUV,7.38596095097116,Petrol,5889
+2025-01-01,Tata,Punch,Micro SUV,7.697598369241543,Petrol,7011
+2025-02-01,Tata,Punch,Micro SUV,7.28339596533514,Petrol,8574
+2025-03-01,Tata,Punch,Micro SUV,7.337684270097466,Petrol,3965
+2025-04-01,Tata,Punch,Micro SUV,7.521498370186906,CNG,7969
+2025-05-01,Tata,Punch,Micro SUV,7.537730381701624,Petrol,7335
+2025-06-01,Tata,Punch,Micro SUV,7.621270441766033,CNG,5078
+2025-07-01,Tata,Punch,Micro SUV,7.269130055016674,CNG,3532
+2025-08-01,Tata,Punch,Micro SUV,7.274373373389177,Diesel,3344
+2025-09-01,Tata,Punch,Micro SUV,7.151581878908457,CNG,4549
+2025-10-01,Tata,Punch,Micro SUV,7.104458245968271,Petrol,4998
+2025-11-01,Tata,Punch,Micro SUV,7.240854506282586,CNG,3508
+2025-12-01,Tata,Punch,Micro SUV,7.758446541984725,Petrol,6713
+2026-01-01,Tata,Punch,Micro SUV,7.771146597865961,Petrol,4832
+2026-02-01,Tata,Punch,Micro SUV,7.53455128233832,Petrol,7096
+2026-03-01,Tata,Punch,Micro SUV,7.65211293410742,Petrol,4547
+2026-04-01,Tata,Punch,Micro SUV,7.6040920370347385,Hybrid,6973
+2026-05-01,Tata,Punch,Micro SUV,7.531716744073961,Petrol,4011
+2026-06-01,Tata,Punch,Micro SUV,7.3633655517429055,Petrol,8022
+2026-07-01,Tata,Punch,Micro SUV,7.776235122239432,Petrol,6087
+2026-08-01,Tata,Punch,Micro SUV,7.67437207798025,CNG,3839
+2026-09-01,Tata,Punch,Micro SUV,7.611665378819726,Petrol,4943
+2026-10-01,Tata,Punch,Micro SUV,7.791236111297032,Petrol,4142
+2022-01-01,Tata,Nexon,Compact SUV,10.373149855899893,Diesel,3915
+2022-02-01,Tata,Nexon,Compact SUV,9.809331123581565,Diesel,2810
+2022-03-01,Tata,Nexon,Compact SUV,10.983845295882277,Diesel,5684
+2022-04-01,Tata,Nexon,Compact SUV,10.706601827473314,Petrol,5865
+2022-05-01,Tata,Nexon,Compact SUV,10.624030177022197,Hybrid,3725
+2022-06-01,Tata,Nexon,Compact SUV,11.05859656154942,Petrol,5941
+2022-07-01,Tata,Nexon,Compact SUV,10.78506332023607,Petrol,5203
+2022-08-01,Tata,Nexon,Compact SUV,9.945131435344237,Petrol,2857
+2022-09-01,Tata,Nexon,Compact SUV,10.274472215454738,CNG,5028
+2022-10-01,Tata,Nexon,Compact SUV,10.37711479346071,Petrol,4134
+2022-11-01,Tata,Nexon,Compact SUV,10.76237465146583,Petrol,7540
+2022-12-01,Tata,Nexon,Compact SUV,9.986309673081177,CNG,3499
+2023-01-01,Tata,Nexon,Compact SUV,10.455908512377668,EV,3160
+2023-02-01,Tata,Nexon,Compact SUV,10.66288515516099,Petrol,4390
+2023-03-01,Tata,Nexon,Compact SUV,10.203703854866921,Hybrid,6926
+2023-04-01,Tata,Nexon,Compact SUV,10.802316142106344,Petrol,4410
+2023-05-01,Tata,Nexon,Compact SUV,10.411933741262558,EV,8211
+2023-06-01,Tata,Nexon,Compact SUV,10.779849290499595,Petrol,6443
+2023-07-01,Tata,Nexon,Compact SUV,10.22483468394141,Hybrid,4954
+2023-08-01,Tata,Nexon,Compact SUV,10.41132567426008,Petrol,3554
+2023-09-01,Tata,Nexon,Compact SUV,10.510657756109437,CNG,5834
+2023-10-01,Tata,Nexon,Compact SUV,10.116783780411824,CNG,6577
+2023-11-01,Tata,Nexon,Compact SUV,10.097798322682507,Hybrid,4902
+2023-12-01,Tata,Nexon,Compact SUV,10.009788600382617,CNG,6059
+2024-01-01,Tata,Nexon,Compact SUV,10.27813404381446,Petrol,3083
+2024-02-01,Tata,Nexon,Compact SUV,10.338947937403388,Petrol,5694
+2024-03-01,Tata,Nexon,Compact SUV,10.57029329141087,CNG,5982
+2024-04-01,Tata,Nexon,Compact SUV,10.572683294466705,Petrol,6974
+2024-05-01,Tata,Nexon,Compact SUV,10.274741492686262,CNG,5050
+2024-06-01,Tata,Nexon,Compact SUV,10.777492410776425,CNG,5419
+2024-07-01,Tata,Nexon,Compact SUV,10.654058849138329,Petrol,5490
+2024-08-01,Tata,Nexon,Compact SUV,10.887472641532282,Petrol,6032
+2024-09-01,Tata,Nexon,Compact SUV,11.026721183319536,Petrol,2984
+2024-10-01,Tata,Nexon,Compact SUV,10.119450181202144,Petrol,7818
+2024-11-01,Tata,Nexon,Compact SUV,10.439345238149931,Petrol,4543
+2024-12-01,Tata,Nexon,Compact SUV,10.748884832040671,Petrol,6136
+2025-01-01,Tata,Nexon,Compact SUV,10.25709530674676,Petrol,7438
+2025-02-01,Tata,Nexon,Compact SUV,10.405973952360105,Petrol,4531
+2025-03-01,Tata,Nexon,Compact SUV,10.366228211655821,Diesel,7120
+2025-04-01,Tata,Nexon,Compact SUV,10.397366502996245,Hybrid,3824
+2025-05-01,Tata,Nexon,Compact SUV,10.039403884492332,Petrol,7024
+2025-06-01,Tata,Nexon,Compact SUV,10.461347310345023,Diesel,3267
+2025-07-01,Tata,Nexon,Compact SUV,10.389873034788002,Petrol,3923
+2025-08-01,Tata,Nexon,Compact SUV,10.38474342985479,CNG,5751
+2025-09-01,Tata,Nexon,Compact SUV,10.27309562347485,Hybrid,3607
+2025-10-01,Tata,Nexon,Compact SUV,10.690537310489672,CNG,5769
+2025-11-01,Tata,Nexon,Compact SUV,10.554360103825815,CNG,4025
+2025-12-01,Tata,Nexon,Compact SUV,10.526776257502368,Petrol,4678
+2026-01-01,Tata,Nexon,Compact SUV,10.557450031451312,Petrol,5749
+2026-02-01,Tata,Nexon,Compact SUV,10.691488863181558,Petrol,5512
+2026-03-01,Tata,Nexon,Compact SUV,10.469479028007152,Petrol,5368
+2026-04-01,Tata,Nexon,Compact SUV,10.638269196756312,CNG,8439
+2026-05-01,Tata,Nexon,Compact SUV,10.804431296862784,Petrol,5196
+2026-06-01,Tata,Nexon,Compact SUV,10.72631485037349,Petrol,7396
+2026-07-01,Tata,Nexon,Compact SUV,10.554051169080672,Petrol,4936
+2026-08-01,Tata,Nexon,Compact SUV,10.502745723145601,Petrol,7791
+2026-09-01,Tata,Nexon,Compact SUV,10.446188885855962,CNG,6890
+2026-10-01,Tata,Nexon,Compact SUV,10.973262221355636,Diesel,7812
+2022-01-01,Tata,Tiago,Hatchback,6.770587982447934,Petrol,3540
+2022-02-01,Tata,Tiago,Hatchback,6.561170481371837,Petrol,4026
+2022-03-01,Tata,Tiago,Hatchback,6.2825106317448824,Petrol,7111
+2022-04-01,Tata,Tiago,Hatchback,6.657809582016787,Petrol,6811
+2022-05-01,Tata,Tiago,Hatchback,6.696870676096381,CNG,7629
+2022-06-01,Tata,Tiago,Hatchback,7.005159924693958,Petrol,6183
+2022-07-01,Tata,Tiago,Hatchback,6.472941665419257,Petrol,3969
+2022-08-01,Tata,Tiago,Hatchback,6.404990484451951,Diesel,5327
+2022-09-01,Tata,Tiago,Hatchback,6.872531085574143,Diesel,4830
+2022-10-01,Tata,Tiago,Hatchback,6.9205958963350245,Hybrid,7133
+2022-11-01,Tata,Tiago,Hatchback,6.609879036072857,Petrol,7039
+2022-12-01,Tata,Tiago,Hatchback,6.659984041450198,Petrol,4285
+2023-01-01,Tata,Tiago,Hatchback,6.595317847520244,CNG,5099
+2023-02-01,Tata,Tiago,Hatchback,6.843085585716629,Petrol,4646
+2023-03-01,Tata,Tiago,Hatchback,6.5849521436226075,CNG,4393
+2023-04-01,Tata,Tiago,Hatchback,6.852540498825484,Hybrid,7741
+2023-05-01,Tata,Tiago,Hatchback,7.039664752676209,Diesel,7229
+2023-06-01,Tata,Tiago,Hatchback,6.294324494230224,CNG,5251
+2023-07-01,Tata,Tiago,Hatchback,6.759572482245955,Petrol,7169
+2023-08-01,Tata,Tiago,Hatchback,6.551176671505132,Petrol,4207
+2023-09-01,Tata,Tiago,Hatchback,6.450875394900473,Diesel,3350
+2023-10-01,Tata,Tiago,Hatchback,6.705930231760948,Petrol,2917
+2023-11-01,Tata,Tiago,Hatchback,6.330255171412005,Petrol,5132
+2023-12-01,Tata,Tiago,Hatchback,6.914344030058124,Diesel,5280
+2024-01-01,Tata,Tiago,Hatchback,6.552865038090979,Diesel,4257
+2024-02-01,Tata,Tiago,Hatchback,6.8665507049064205,CNG,5848
+2024-03-01,Tata,Tiago,Hatchback,6.253439972370851,Petrol,6556
+2024-04-01,Tata,Tiago,Hatchback,6.8018562570778,EV,5193
+2024-05-01,Tata,Tiago,Hatchback,6.3537028877682475,Diesel,3303
+2024-06-01,Tata,Tiago,Hatchback,6.2607908217800885,Diesel,5693
+2024-07-01,Tata,Tiago,Hatchback,6.371590934821272,Petrol,5111
+2024-08-01,Tata,Tiago,Hatchback,6.025546375025056,Petrol,6535
+2024-09-01,Tata,Tiago,Hatchback,6.353520447387104,Petrol,6139
+2024-10-01,Tata,Tiago,Hatchback,6.612453831639134,Petrol,2877
+2024-11-01,Tata,Tiago,Hatchback,6.14279614144343,Petrol,4740
+2024-12-01,Tata,Tiago,Hatchback,6.432155876767069,Petrol,6441
+2025-01-01,Tata,Tiago,Hatchback,6.858994531200444,Petrol,2808
+2025-02-01,Tata,Tiago,Hatchback,6.5913718362596265,Petrol,4715
+2025-03-01,Tata,Tiago,Hatchback,6.613498907861739,Petrol,7152
+2025-04-01,Tata,Tiago,Hatchback,6.327471114712013,Petrol,4199
+2025-05-01,Tata,Tiago,Hatchback,6.440057246776602,Petrol,4448
+2025-06-01,Tata,Tiago,Hatchback,6.241991938709606,Diesel,3690
+2025-07-01,Tata,Tiago,Hatchback,6.738587082272924,Diesel,7206
+2025-08-01,Tata,Tiago,Hatchback,6.284504411171656,CNG,6080
+2025-09-01,Tata,Tiago,Hatchback,6.796535625529708,Petrol,2879
+2025-10-01,Tata,Tiago,Hatchback,5.784620407474832,Diesel,5468
+2025-11-01,Tata,Tiago,Hatchback,6.676633128224457,Hybrid,4103
+2025-12-01,Tata,Tiago,Hatchback,6.516888871020206,CNG,6066
+2026-01-01,Tata,Tiago,Hatchback,6.2284913617414635,Petrol,4454
+2026-02-01,Tata,Tiago,Hatchback,6.544911670195013,Petrol,7034
+2026-03-01,Tata,Tiago,Hatchback,6.457612321074889,Hybrid,6963
+2026-04-01,Tata,Tiago,Hatchback,6.174516357459124,CNG,7567
+2026-05-01,Tata,Tiago,Hatchback,6.39930426472344,CNG,7829
+2026-06-01,Tata,Tiago,Hatchback,6.848017730243564,EV,6787
+2026-07-01,Tata,Tiago,Hatchback,6.055908090288445,Petrol,3704
+2026-08-01,Tata,Tiago,Hatchback,6.382533687695107,Petrol,4988
+2026-09-01,Tata,Tiago,Hatchback,6.401590632175739,Petrol,3380
+2026-10-01,Tata,Tiago,Hatchback,6.2006029277414605,CNG,6343
+2022-01-01,Tata,Altroz,Premium Hatchback,8.217993874929752,CNG,6807
+2022-02-01,Tata,Altroz,Premium Hatchback,8.222281829381751,CNG,6627
+2022-03-01,Tata,Altroz,Premium Hatchback,8.438161888637735,CNG,3772
+2022-04-01,Tata,Altroz,Premium Hatchback,8.14417709038585,Diesel,5447
+2022-05-01,Tata,Altroz,Premium Hatchback,8.65868518860375,Petrol,5978
+2022-06-01,Tata,Altroz,Premium Hatchback,7.747282770535921,Petrol,2955
+2022-07-01,Tata,Altroz,Premium Hatchback,8.266494407435784,CNG,3619
+2022-08-01,Tata,Altroz,Premium Hatchback,7.9858897257782235,Petrol,2948
+2022-09-01,Tata,Altroz,Premium Hatchback,7.97286584182871,Petrol,4126
+2022-10-01,Tata,Altroz,Premium Hatchback,8.16890165829112,Petrol,7109
+2022-11-01,Tata,Altroz,Premium Hatchback,7.839109718762338,Petrol,4847
+2022-12-01,Tata,Altroz,Premium Hatchback,7.754522538512299,Petrol,4765
+2023-01-01,Tata,Altroz,Premium Hatchback,7.5211087088827515,CNG,7002
+2023-02-01,Tata,Altroz,Premium Hatchback,7.908892895483939,Petrol,2591
+2023-03-01,Tata,Altroz,Premium Hatchback,7.866186108342355,Petrol,4853
+2023-04-01,Tata,Altroz,Premium Hatchback,8.210793577505667,Petrol,3872
+2023-05-01,Tata,Altroz,Premium Hatchback,7.742199482890104,Hybrid,4297
+2023-06-01,Tata,Altroz,Premium Hatchback,8.481124009253143,EV,3572
+2023-07-01,Tata,Altroz,Premium Hatchback,8.245168323581856,Petrol,6509
+2023-08-01,Tata,Altroz,Premium Hatchback,7.973116563933484,Petrol,3271
+2023-09-01,Tata,Altroz,Premium Hatchback,8.018849885786516,EV,6591
+2023-10-01,Tata,Altroz,Premium Hatchback,8.182953348580222,Petrol,6537
+2023-11-01,Tata,Altroz,Premium Hatchback,7.844794653579853,Petrol,5490
+2023-12-01,Tata,Altroz,Premium Hatchback,8.357729754706089,Petrol,6048
+2024-01-01,Tata,Altroz,Premium Hatchback,8.393844162358885,CNG,6940
+2024-02-01,Tata,Altroz,Premium Hatchback,7.7775524184257,CNG,3161
+2024-03-01,Tata,Altroz,Premium Hatchback,8.764882807249206,CNG,6383
+2024-04-01,Tata,Altroz,Premium Hatchback,8.382328369741824,Petrol,6363
+2024-05-01,Tata,Altroz,Premium Hatchback,7.830622113577058,Petrol,7872
+2024-06-01,Tata,Altroz,Premium Hatchback,7.439293094597391,Petrol,2873
+2024-07-01,Tata,Altroz,Premium Hatchback,8.099102125551767,Petrol,3828
+2024-08-01,Tata,Altroz,Premium Hatchback,8.285203197340346,Diesel,5010
+2024-09-01,Tata,Altroz,Premium Hatchback,8.035414174347757,Diesel,6598
+2024-10-01,Tata,Altroz,Premium Hatchback,8.105404207477457,Petrol,7555
+2024-11-01,Tata,Altroz,Premium Hatchback,7.697400318054303,EV,3026
+2024-12-01,Tata,Altroz,Premium Hatchback,8.202136937400505,Petrol,5560
+2025-01-01,Tata,Altroz,Premium Hatchback,7.865725752608472,Petrol,3879
+2025-02-01,Tata,Altroz,Premium Hatchback,8.005009322716578,Hybrid,6456
+2025-03-01,Tata,Altroz,Premium Hatchback,8.471980992882367,CNG,7750
+2025-04-01,Tata,Altroz,Premium Hatchback,8.486149448065056,Petrol,7184
+2025-05-01,Tata,Altroz,Premium Hatchback,8.228038098994194,Petrol,7128
+2025-06-01,Tata,Altroz,Premium Hatchback,7.8388860587793205,CNG,6074
+2025-07-01,Tata,Altroz,Premium Hatchback,8.069204932332704,Petrol,7358
+2025-08-01,Tata,Altroz,Premium Hatchback,8.217418939173623,Petrol,4994
+2025-09-01,Tata,Altroz,Premium Hatchback,7.31511671942763,CNG,3627
+2025-10-01,Tata,Altroz,Premium Hatchback,7.812318845433722,Diesel,7563
+2025-11-01,Tata,Altroz,Premium Hatchback,7.926649227234006,CNG,4321
+2025-12-01,Tata,Altroz,Premium Hatchback,8.105616856059306,CNG,7174
+2026-01-01,Tata,Altroz,Premium Hatchback,8.18871547311851,Petrol,7011
+2026-02-01,Tata,Altroz,Premium Hatchback,7.467957614503547,CNG,4385
+2026-03-01,Tata,Altroz,Premium Hatchback,8.046091676793916,Petrol,6656
+2026-04-01,Tata,Altroz,Premium Hatchback,8.076108880703455,Petrol,7695
+2026-05-01,Tata,Altroz,Premium Hatchback,8.352476554318757,Petrol,3786
+2026-06-01,Tata,Altroz,Premium Hatchback,8.257013391349796,Petrol,7719
+2026-07-01,Tata,Altroz,Premium Hatchback,8.029780982341569,Hybrid,6329
+2026-08-01,Tata,Altroz,Premium Hatchback,7.847475283485721,CNG,4871
+2026-09-01,Tata,Altroz,Premium Hatchback,7.951094417298078,Petrol,4019
+2026-10-01,Tata,Altroz,Premium Hatchback,8.355572941197028,Petrol,7023
+2022-01-01,Kia,Sonet,Compact SUV,10.34593009029825,Petrol,2375
+2022-02-01,Kia,Sonet,Compact SUV,10.597555677662951,Hybrid,3192
+2022-03-01,Kia,Sonet,Compact SUV,10.582756167889517,Petrol,2464
+2022-04-01,Kia,Sonet,Compact SUV,10.171923046279446,EV,2664
+2022-05-01,Kia,Sonet,Compact SUV,9.884369654014293,Hybrid,2912
+2022-06-01,Kia,Sonet,Compact SUV,10.184907801246641,Petrol,3441
+2022-07-01,Kia,Sonet,Compact SUV,10.029666042431,Diesel,1640
+2022-08-01,Kia,Sonet,Compact SUV,10.264297317560342,Petrol,1936
+2022-09-01,Kia,Sonet,Compact SUV,10.375308965956803,EV,2645
+2022-10-01,Kia,Sonet,Compact SUV,10.003309168200417,Petrol,1436
+2022-11-01,Kia,Sonet,Compact SUV,10.068238938715847,Hybrid,3546
+2022-12-01,Kia,Sonet,Compact SUV,10.08928216906783,Petrol,3095
+2023-01-01,Kia,Sonet,Compact SUV,9.976029099358508,Petrol,2140
+2023-02-01,Kia,Sonet,Compact SUV,9.970242873349969,Petrol,3370
+2023-03-01,Kia,Sonet,Compact SUV,9.906621500704789,Petrol,1909
+2023-04-01,Kia,Sonet,Compact SUV,10.355889868066258,Petrol,2303
+2023-05-01,Kia,Sonet,Compact SUV,9.981057130885043,Petrol,1847
+2023-06-01,Kia,Sonet,Compact SUV,9.88137176659524,Petrol,2979
+2023-07-01,Kia,Sonet,Compact SUV,10.04980951031231,CNG,1678
+2023-08-01,Kia,Sonet,Compact SUV,10.001033220663716,Diesel,3491
+2023-09-01,Kia,Sonet,Compact SUV,9.788669883755608,EV,2254
+2023-10-01,Kia,Sonet,Compact SUV,10.19267469552369,CNG,3845
+2023-11-01,Kia,Sonet,Compact SUV,9.568661434498074,Petrol,3614
+2023-12-01,Kia,Sonet,Compact SUV,9.72279925626549,Petrol,2689
+2024-01-01,Kia,Sonet,Compact SUV,10.184831506418726,Hybrid,1566
+2024-02-01,Kia,Sonet,Compact SUV,10.24235244768705,Petrol,3903
+2024-03-01,Kia,Sonet,Compact SUV,9.803964426632398,Petrol,3114
+2024-04-01,Kia,Sonet,Compact SUV,9.835878473295319,EV,1561
+2024-05-01,Kia,Sonet,Compact SUV,9.869440380114373,CNG,3872
+2024-06-01,Kia,Sonet,Compact SUV,10.011164570240867,Petrol,4332
+2024-07-01,Kia,Sonet,Compact SUV,9.796756493839954,Petrol,4007
+2024-08-01,Kia,Sonet,Compact SUV,10.194882355192863,CNG,2090
+2024-09-01,Kia,Sonet,Compact SUV,9.961692259935447,Petrol,2065
+2024-10-01,Kia,Sonet,Compact SUV,10.046378326646186,CNG,2734
+2024-11-01,Kia,Sonet,Compact SUV,10.139154166419388,Petrol,3416
+2024-12-01,Kia,Sonet,Compact SUV,10.092426481409783,Hybrid,3534
+2025-01-01,Kia,Sonet,Compact SUV,9.84409937259266,Petrol,3770
+2025-02-01,Kia,Sonet,Compact SUV,10.266421293680011,Petrol,1616
+2025-03-01,Kia,Sonet,Compact SUV,10.757940603777659,Petrol,4680
+2025-04-01,Kia,Sonet,Compact SUV,10.093081390015076,Petrol,1932
+2025-05-01,Kia,Sonet,Compact SUV,10.059787321158366,CNG,4031
+2025-06-01,Kia,Sonet,Compact SUV,9.966493194797659,Petrol,3615
+2025-07-01,Kia,Sonet,Compact SUV,9.93413068745524,Petrol,2641
+2025-08-01,Kia,Sonet,Compact SUV,10.13666675815412,Petrol,1579
+2025-09-01,Kia,Sonet,Compact SUV,10.085110110875386,Petrol,2437
+2025-10-01,Kia,Sonet,Compact SUV,9.702902786350432,Petrol,3084
+2025-11-01,Kia,Sonet,Compact SUV,10.009828266506075,Diesel,3574
+2025-12-01,Kia,Sonet,Compact SUV,10.044279957501258,Petrol,2160
+2026-01-01,Kia,Sonet,Compact SUV,9.625490056152238,Diesel,3106
+2026-02-01,Kia,Sonet,Compact SUV,9.658014430654534,Petrol,2827
+2026-03-01,Kia,Sonet,Compact SUV,9.659487292286837,Petrol,3593
+2026-04-01,Kia,Sonet,Compact SUV,9.704851415061627,Diesel,2244
+2026-05-01,Kia,Sonet,Compact SUV,9.948388560397365,CNG,2623
+2026-06-01,Kia,Sonet,Compact SUV,10.290873953576618,Diesel,3638
+2026-07-01,Kia,Sonet,Compact SUV,9.91428883677254,Petrol,3526
+2026-08-01,Kia,Sonet,Compact SUV,9.862913615533746,Petrol,1825
+2026-09-01,Kia,Sonet,Compact SUV,9.743705201388956,Petrol,3120
+2026-10-01,Kia,Sonet,Compact SUV,10.302065706370126,CNG,3201
+2022-01-01,Kia,Seltos,Mid-size SUV,15.521342845400648,EV,2956
+2022-02-01,Kia,Seltos,Mid-size SUV,15.352005298067505,Petrol,2111
+2022-03-01,Kia,Seltos,Mid-size SUV,15.175497893964636,EV,2390
+2022-04-01,Kia,Seltos,Mid-size SUV,15.877467670780078,Petrol,1244
+2022-05-01,Kia,Seltos,Mid-size SUV,15.636448439962487,Hybrid,2102
+2022-06-01,Kia,Seltos,Mid-size SUV,15.212101616648011,Petrol,3344
+2022-07-01,Kia,Seltos,Mid-size SUV,15.564561546749307,Petrol,1437
+2022-08-01,Kia,Seltos,Mid-size SUV,15.162533146926071,Diesel,2516
+2022-09-01,Kia,Seltos,Mid-size SUV,15.488816766453033,Diesel,3269
+2022-10-01,Kia,Seltos,Mid-size SUV,15.585500864355256,Petrol,2478
+2022-11-01,Kia,Seltos,Mid-size SUV,15.415642561473456,Petrol,2799
+2022-12-01,Kia,Seltos,Mid-size SUV,15.902977619366872,Petrol,3062
+2023-01-01,Kia,Seltos,Mid-size SUV,15.49026769987879,Petrol,3627
+2023-02-01,Kia,Seltos,Mid-size SUV,15.418439079594043,CNG,3010
+2023-03-01,Kia,Seltos,Mid-size SUV,15.21700338998076,Petrol,2559
+2023-04-01,Kia,Seltos,Mid-size SUV,15.400069985927558,Petrol,1824
+2023-05-01,Kia,Seltos,Mid-size SUV,15.826128424278888,CNG,3207
+2023-06-01,Kia,Seltos,Mid-size SUV,15.76831445794729,CNG,2857
+2023-07-01,Kia,Seltos,Mid-size SUV,15.569336044930054,CNG,1993
+2023-08-01,Kia,Seltos,Mid-size SUV,15.655093098482839,Petrol,2693
+2023-09-01,Kia,Seltos,Mid-size SUV,15.537885198941316,Petrol,1766
+2023-10-01,Kia,Seltos,Mid-size SUV,15.74399748745396,Hybrid,4722
+2023-11-01,Kia,Seltos,Mid-size SUV,15.676003768580413,Petrol,4115
+2023-12-01,Kia,Seltos,Mid-size SUV,15.661903494304891,Hybrid,2945
+2024-01-01,Kia,Seltos,Mid-size SUV,15.715787684676034,CNG,2289
+2024-02-01,Kia,Seltos,Mid-size SUV,15.693472795227466,Hybrid,1498
+2024-03-01,Kia,Seltos,Mid-size SUV,15.694707429280259,CNG,1910
+2024-04-01,Kia,Seltos,Mid-size SUV,15.516034200594538,Hybrid,4139
+2024-05-01,Kia,Seltos,Mid-size SUV,15.491330187495352,Petrol,3850
+2024-06-01,Kia,Seltos,Mid-size SUV,15.429657502023575,Petrol,1804
+2024-07-01,Kia,Seltos,Mid-size SUV,15.092989446512197,Petrol,1910
+2024-08-01,Kia,Seltos,Mid-size SUV,15.695532059773685,Diesel,3680
+2024-09-01,Kia,Seltos,Mid-size SUV,15.544397779230898,Petrol,2181
+2024-10-01,Kia,Seltos,Mid-size SUV,15.605080707444031,Diesel,2784
+2024-11-01,Kia,Seltos,Mid-size SUV,14.824045579981664,Petrol,3664
+2024-12-01,Kia,Seltos,Mid-size SUV,15.24510387295814,Petrol,2585
+2025-01-01,Kia,Seltos,Mid-size SUV,15.553876992325439,CNG,2434
+2025-02-01,Kia,Seltos,Mid-size SUV,15.507501634632735,Petrol,2391
+2025-03-01,Kia,Seltos,Mid-size SUV,15.436208956244636,CNG,2826
+2025-04-01,Kia,Seltos,Mid-size SUV,15.497930029017603,Petrol,3621
+2025-05-01,Kia,Seltos,Mid-size SUV,15.258746818805122,Diesel,2106
+2025-06-01,Kia,Seltos,Mid-size SUV,15.969594782998282,Diesel,4270
+2025-07-01,Kia,Seltos,Mid-size SUV,15.494144260199796,Petrol,3683
+2025-08-01,Kia,Seltos,Mid-size SUV,15.23157439682055,Petrol,2999
+2025-09-01,Kia,Seltos,Mid-size SUV,15.645946636323236,Petrol,3550
+2025-10-01,Kia,Seltos,Mid-size SUV,15.035439334471866,Petrol,2562
+2025-11-01,Kia,Seltos,Mid-size SUV,15.321738229577171,Petrol,4459
+2025-12-01,Kia,Seltos,Mid-size SUV,15.67741546640947,Petrol,2828
+2026-01-01,Kia,Seltos,Mid-size SUV,15.623357997045924,CNG,3534
+2026-02-01,Kia,Seltos,Mid-size SUV,14.951204063369447,Petrol,2615
+2026-03-01,Kia,Seltos,Mid-size SUV,15.22354120446197,Diesel,3643
+2026-04-01,Kia,Seltos,Mid-size SUV,15.534150570753175,Diesel,4126
+2026-05-01,Kia,Seltos,Mid-size SUV,15.766078046561795,CNG,3504
+2026-06-01,Kia,Seltos,Mid-size SUV,15.595207313209418,Diesel,4368
+2026-07-01,Kia,Seltos,Mid-size SUV,15.09873600524902,CNG,3111
+2026-08-01,Kia,Seltos,Mid-size SUV,15.180186506956183,CNG,3990
+2026-09-01,Kia,Seltos,Mid-size SUV,15.428975248659805,Diesel,1764
+2026-10-01,Kia,Seltos,Mid-size SUV,15.515994427842214,Petrol,4967
+2022-01-01,Toyota,Glanza,Premium Hatchback,8.394665681338575,Petrol,2738
+2022-02-01,Toyota,Glanza,Premium Hatchback,8.104672304622252,Petrol,2408
+2022-03-01,Toyota,Glanza,Premium Hatchback,8.865449791886826,Diesel,2604
+2022-04-01,Toyota,Glanza,Premium Hatchback,8.443058613604665,Petrol,3082
+2022-05-01,Toyota,Glanza,Premium Hatchback,8.171242723615562,Petrol,2891
+2022-06-01,Toyota,Glanza,Premium Hatchback,8.840614561000054,EV,2768
+2022-07-01,Toyota,Glanza,Premium Hatchback,8.11367501361781,Petrol,3830
+2022-08-01,Toyota,Glanza,Premium Hatchback,8.172726236903003,Diesel,2849
+2022-09-01,Toyota,Glanza,Premium Hatchback,8.784489192350012,Petrol,2466
+2022-10-01,Toyota,Glanza,Premium Hatchback,8.743687953771646,Petrol,2530
+2022-11-01,Toyota,Glanza,Premium Hatchback,8.683227139359383,Petrol,3796
+2022-12-01,Toyota,Glanza,Premium Hatchback,8.196907926735069,Petrol,2067
+2023-01-01,Toyota,Glanza,Premium Hatchback,8.860203149501066,Petrol,2367
+2023-02-01,Toyota,Glanza,Premium Hatchback,8.442138300577803,Petrol,2494
+2023-03-01,Toyota,Glanza,Premium Hatchback,8.658960834566484,CNG,3472
+2023-04-01,Toyota,Glanza,Premium Hatchback,8.454692241363325,Petrol,3690
+2023-05-01,Toyota,Glanza,Premium Hatchback,8.627676987303378,Petrol,2518
+2023-06-01,Toyota,Glanza,Premium Hatchback,8.58918907257709,EV,1536
+2023-07-01,Toyota,Glanza,Premium Hatchback,8.503144625587959,Petrol,2648
+2023-08-01,Toyota,Glanza,Premium Hatchback,8.421932951348337,Petrol,1637
+2023-09-01,Toyota,Glanza,Premium Hatchback,8.59618082864631,Petrol,1558
+2023-10-01,Toyota,Glanza,Premium Hatchback,8.89029663329412,Hybrid,1827
+2023-11-01,Toyota,Glanza,Premium Hatchback,8.617812614461473,Petrol,3776
+2023-12-01,Toyota,Glanza,Premium Hatchback,8.715773113402728,Petrol,3904
+2024-01-01,Toyota,Glanza,Premium Hatchback,8.461491670856033,Petrol,3533
+2024-02-01,Toyota,Glanza,Premium Hatchback,8.90137084569849,Petrol,3156
+2024-03-01,Toyota,Glanza,Premium Hatchback,8.314330286324711,Petrol,3860
+2024-04-01,Toyota,Glanza,Premium Hatchback,8.731713978394135,Petrol,2188
+2024-05-01,Toyota,Glanza,Premium Hatchback,8.645299702998564,Petrol,2959
+2024-06-01,Toyota,Glanza,Premium Hatchback,8.185986301782991,CNG,2292
+2024-07-01,Toyota,Glanza,Premium Hatchback,8.67933711440217,Diesel,2943
+2024-08-01,Toyota,Glanza,Premium Hatchback,8.68142699582968,Petrol,2105
+2024-09-01,Toyota,Glanza,Premium Hatchback,8.488747839913884,Petrol,1711
+2024-10-01,Toyota,Glanza,Premium Hatchback,8.546513210913048,Hybrid,1096
+2024-11-01,Toyota,Glanza,Premium Hatchback,9.013636273655194,Petrol,2924
+2024-12-01,Toyota,Glanza,Premium Hatchback,9.008084256177584,Petrol,1745
+2025-01-01,Toyota,Glanza,Premium Hatchback,8.363248819788751,Petrol,3111
+2025-02-01,Toyota,Glanza,Premium Hatchback,8.612035536156677,Petrol,4358
+2025-03-01,Toyota,Glanza,Premium Hatchback,8.357216021410066,Petrol,2709
+2025-04-01,Toyota,Glanza,Premium Hatchback,9.104451384029112,Petrol,3525
+2025-05-01,Toyota,Glanza,Premium Hatchback,8.701525054200035,Petrol,4763
+2025-06-01,Toyota,Glanza,Premium Hatchback,8.490272491303445,Petrol,3721
+2025-07-01,Toyota,Glanza,Premium Hatchback,8.38413884659365,Petrol,2357
+2025-08-01,Toyota,Glanza,Premium Hatchback,8.715439623550841,Petrol,2562
+2025-09-01,Toyota,Glanza,Premium Hatchback,8.433614881342692,Petrol,2758
+2025-10-01,Toyota,Glanza,Premium Hatchback,8.763018721505937,CNG,3205
+2025-11-01,Toyota,Glanza,Premium Hatchback,8.268480489912378,CNG,4420
+2025-12-01,Toyota,Glanza,Premium Hatchback,8.797650169716979,Diesel,3723
+2026-01-01,Toyota,Glanza,Premium Hatchback,8.177313365771095,Petrol,2753
+2026-02-01,Toyota,Glanza,Premium Hatchback,8.163484668038754,Diesel,3296
+2026-03-01,Toyota,Glanza,Premium Hatchback,8.338147448574595,CNG,3016
+2026-04-01,Toyota,Glanza,Premium Hatchback,8.401736765603493,Petrol,3789
+2026-05-01,Toyota,Glanza,Premium Hatchback,8.564173624760771,CNG,4470
+2026-06-01,Toyota,Glanza,Premium Hatchback,8.586983619295678,Petrol,3136
+2026-07-01,Toyota,Glanza,Premium Hatchback,8.50107691058579,CNG,3602
+2026-08-01,Toyota,Glanza,Premium Hatchback,8.578686576397397,Petrol,3824
+2026-09-01,Toyota,Glanza,Premium Hatchback,8.224858666742461,CNG,2140
+2026-10-01,Toyota,Glanza,Premium Hatchback,8.631674510526144,Petrol,2699
+2022-01-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.493380359203417,Petrol,1086
+2022-02-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.01991818481689,Diesel,2264
+2022-03-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.88792755658894,CNG,2537
+2022-04-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.106870260530208,Diesel,3994
+2022-05-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.978598175564713,Petrol,3200
+2022-06-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.802560979968806,Diesel,3284
+2022-07-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.69330781636209,Hybrid,1873
+2022-08-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.80470224346325,CNG,1318
+2022-09-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.14923647432722,Petrol,1896
+2022-10-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.16704946088941,Diesel,2961
+2022-11-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.784829239208868,Petrol,2220
+2022-12-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.07021358718138,Petrol,1914
+2023-01-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.227807001297663,Diesel,3129
+2023-02-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.15809404814145,Petrol,2342
+2023-03-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.175337709586206,Petrol,2643
+2023-04-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.888448683913186,CNG,3604
+2023-05-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.88147988165841,Petrol,2212
+2023-06-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.15795117480298,CNG,2075
+2023-07-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.224999916107432,Petrol,2787
+2023-08-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.842046077729304,Petrol,2832
+2023-09-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.875818824301575,CNG,2223
+2023-10-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.099257900573495,CNG,3005
+2023-11-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.07576207073318,Petrol,2020
+2023-12-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.23117479919245,CNG,2218
+2024-01-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.890134121663277,CNG,3722
+2024-02-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.272617997784643,CNG,2894
+2024-03-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.982208252786727,Petrol,3768
+2024-04-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.763685862031657,Petrol,3418
+2024-05-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.917652115646828,EV,2576
+2024-06-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.88077899424168,Petrol,2226
+2024-07-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.630714258721895,CNG,3115
+2024-08-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.736141554761073,EV,3896
+2024-09-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.81281259400477,Petrol,3429
+2024-10-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.3437133289758,Hybrid,3030
+2024-11-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.10084406063168,Petrol,2498
+2024-12-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.938624627566124,CNG,1694
+2025-01-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.984298319214012,Diesel,2315
+2025-02-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.23970166400274,Petrol,3583
+2025-03-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.917736581987945,Petrol,3977
+2025-04-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.05882242729247,CNG,3421
+2025-05-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.95554356867783,Petrol,1948
+2025-06-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.14453872921613,Petrol,2689
+2025-07-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.654315457425344,Petrol,1808
+2025-08-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.021499766251303,Petrol,2808
+2025-09-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.21659155874626,Petrol,2194
+2025-10-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.661548120113284,Petrol,2066
+2025-11-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.71271017736534,Petrol,2199
+2025-12-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.69633291817286,Petrol,3463
+2026-01-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.571060428905422,Petrol,3564
+2026-02-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.07876075902904,Petrol,4452
+2026-03-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.877465412940154,CNG,2623
+2026-04-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.899050089804224,Petrol,2290
+2026-05-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.074095755029187,Hybrid,3064
+2026-06-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.308945723248534,Petrol,3593
+2026-07-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.896598689313894,Petrol,1786
+2026-08-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.646620669086836,CNG,1508
+2026-09-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,17.60037536699668,Petrol,1997
+2026-10-01,Toyota,Urban Cruiser Hyryder,Mid-size SUV,18.080261502291208,EV,5027
+2022-01-01,Mahindra,XUV 3XO,Compact SUV,9.942235080025128,Petrol,2519
+2022-02-01,Mahindra,XUV 3XO,Compact SUV,9.738039945282544,Petrol,3314
+2022-03-01,Mahindra,XUV 3XO,Compact SUV,10.605611975270874,Diesel,4192
+2022-04-01,Mahindra,XUV 3XO,Compact SUV,9.938972820369475,Petrol,3697
+2022-05-01,Mahindra,XUV 3XO,Compact SUV,10.098793285703872,Petrol,2571
+2022-06-01,Mahindra,XUV 3XO,Compact SUV,10.16645827445168,Petrol,5213
+2022-07-01,Mahindra,XUV 3XO,Compact SUV,9.644559482738222,Petrol,3191
+2022-08-01,Mahindra,XUV 3XO,Compact SUV,10.188812943994025,Petrol,2390
+2022-09-01,Mahindra,XUV 3XO,Compact SUV,10.052162395468342,CNG,4659
+2022-10-01,Mahindra,XUV 3XO,Compact SUV,10.370113258482672,Petrol,4004
+2022-11-01,Mahindra,XUV 3XO,Compact SUV,10.04943299417779,Petrol,4354
+2022-12-01,Mahindra,XUV 3XO,Compact SUV,10.32697890594496,Petrol,3405
+2023-01-01,Mahindra,XUV 3XO,Compact SUV,9.818251406898163,Petrol,3545
+2023-02-01,Mahindra,XUV 3XO,Compact SUV,10.006490528358377,Petrol,3863
+2023-03-01,Mahindra,XUV 3XO,Compact SUV,9.842763661266806,CNG,4624
+2023-04-01,Mahindra,XUV 3XO,Compact SUV,10.129247618040285,Diesel,4436
+2023-05-01,Mahindra,XUV 3XO,Compact SUV,9.75130672024284,Diesel,5691
+2023-06-01,Mahindra,XUV 3XO,Compact SUV,9.609073720364213,CNG,4500
+2023-07-01,Mahindra,XUV 3XO,Compact SUV,9.832915407911324,CNG,4875
+2023-08-01,Mahindra,XUV 3XO,Compact SUV,10.186083397187419,CNG,2727
+2023-09-01,Mahindra,XUV 3XO,Compact SUV,9.910617472861366,Petrol,2619
+2023-10-01,Mahindra,XUV 3XO,Compact SUV,9.719007059392641,Petrol,4027
+2023-11-01,Mahindra,XUV 3XO,Compact SUV,10.070860358936159,Petrol,3711
+2023-12-01,Mahindra,XUV 3XO,Compact SUV,10.150473912151611,CNG,4945
+2024-01-01,Mahindra,XUV 3XO,Compact SUV,9.837599072601293,Diesel,3139
+2024-02-01,Mahindra,XUV 3XO,Compact SUV,10.068330314134219,Petrol,3051
+2024-03-01,Mahindra,XUV 3XO,Compact SUV,9.920493141548233,Hybrid,5201
+2024-04-01,Mahindra,XUV 3XO,Compact SUV,10.090400130460896,Petrol,4619
+2024-05-01,Mahindra,XUV 3XO,Compact SUV,10.042738838046876,CNG,2990
+2024-06-01,Mahindra,XUV 3XO,Compact SUV,9.91975503990407,Diesel,4733
+2024-07-01,Mahindra,XUV 3XO,Compact SUV,9.660850037265222,Petrol,4020
+2024-08-01,Mahindra,XUV 3XO,Compact SUV,9.839043996506874,Petrol,4663
+2024-09-01,Mahindra,XUV 3XO,Compact SUV,9.693924147489435,Petrol,4522
+2024-10-01,Mahindra,XUV 3XO,Compact SUV,9.818856542953023,Petrol,3109
+2024-11-01,Mahindra,XUV 3XO,Compact SUV,9.826703263464388,CNG,6545
+2024-12-01,Mahindra,XUV 3XO,Compact SUV,9.992161324830874,Petrol,3872
+2025-01-01,Mahindra,XUV 3XO,Compact SUV,9.958683007494392,Diesel,4937
+2025-02-01,Mahindra,XUV 3XO,Compact SUV,10.22235336413113,Petrol,4274
+2025-03-01,Mahindra,XUV 3XO,Compact SUV,10.14302393089962,CNG,3582
+2025-04-01,Mahindra,XUV 3XO,Compact SUV,10.147183905720286,Petrol,4426
+2025-05-01,Mahindra,XUV 3XO,Compact SUV,9.836981357649302,Petrol,2580
+2025-06-01,Mahindra,XUV 3XO,Compact SUV,9.793973375183999,Petrol,3237
+2025-07-01,Mahindra,XUV 3XO,Compact SUV,9.94510150268531,Petrol,3676
+2025-08-01,Mahindra,XUV 3XO,Compact SUV,9.696050425372782,Petrol,3503
+2025-09-01,Mahindra,XUV 3XO,Compact SUV,9.9010891114685,Petrol,3516
+2025-10-01,Mahindra,XUV 3XO,Compact SUV,10.019464181066827,EV,4918
+2025-11-01,Mahindra,XUV 3XO,Compact SUV,9.795432490270386,Petrol,6285
+2025-12-01,Mahindra,XUV 3XO,Compact SUV,10.569134672385772,Diesel,3720
+2026-01-01,Mahindra,XUV 3XO,Compact SUV,10.137988724076399,Petrol,2543
+2026-02-01,Mahindra,XUV 3XO,Compact SUV,10.109069863308216,Diesel,5417
+2026-03-01,Mahindra,XUV 3XO,Compact SUV,9.805469039534852,Hybrid,4803
+2026-04-01,Mahindra,XUV 3XO,Compact SUV,9.395346429326072,Diesel,2865
+2026-05-01,Mahindra,XUV 3XO,Compact SUV,10.13969275868444,CNG,5525
+2026-06-01,Mahindra,XUV 3XO,Compact SUV,9.797842382531861,Petrol,2484
+2026-07-01,Mahindra,XUV 3XO,Compact SUV,9.823406124471052,Petrol,4075
+2026-08-01,Mahindra,XUV 3XO,Compact SUV,9.750003804797402,Petrol,2675
+2026-09-01,Mahindra,XUV 3XO,Compact SUV,10.252515924216231,Petrol,4756
+2026-10-01,Mahindra,XUV 3XO,Compact SUV,10.254294336905051,Diesel,3020
+2022-01-01,Mahindra,Scorpio-N,Mid-size SUV,17.736804234222085,Petrol,2715
+2022-02-01,Mahindra,Scorpio-N,Mid-size SUV,17.747712414658288,Diesel,2731
+2022-03-01,Mahindra,Scorpio-N,Mid-size SUV,17.947222378737234,Diesel,2767
+2022-04-01,Mahindra,Scorpio-N,Mid-size SUV,17.53974095817679,Diesel,4440
+2022-05-01,Mahindra,Scorpio-N,Mid-size SUV,17.566674738837982,Petrol,4715
+2022-06-01,Mahindra,Scorpio-N,Mid-size SUV,17.79028597262187,Diesel,2743
+2022-07-01,Mahindra,Scorpio-N,Mid-size SUV,18.334549033234662,Petrol,2357
+2022-08-01,Mahindra,Scorpio-N,Mid-size SUV,17.66801687150164,Petrol,2347
+2022-09-01,Mahindra,Scorpio-N,Mid-size SUV,18.076037611546543,Hybrid,2260
+2022-10-01,Mahindra,Scorpio-N,Mid-size SUV,18.125912571881013,Petrol,4640
+2022-11-01,Mahindra,Scorpio-N,Mid-size SUV,17.813451311610738,CNG,5285
+2022-12-01,Mahindra,Scorpio-N,Mid-size SUV,18.084155926656837,Petrol,4513
+2023-01-01,Mahindra,Scorpio-N,Mid-size SUV,18.019803761951035,CNG,4659
+2023-02-01,Mahindra,Scorpio-N,Mid-size SUV,18.096083489828352,Petrol,4275
+2023-03-01,Mahindra,Scorpio-N,Mid-size SUV,18.530418746266484,Petrol,2734
+2023-04-01,Mahindra,Scorpio-N,Mid-size SUV,17.74917065240958,Petrol,4838
+2023-05-01,Mahindra,Scorpio-N,Mid-size SUV,17.590152523633858,Petrol,4159
+2023-06-01,Mahindra,Scorpio-N,Mid-size SUV,17.502708107175682,CNG,4426
+2023-07-01,Mahindra,Scorpio-N,Mid-size SUV,17.93567052868358,Petrol,5281
+2023-08-01,Mahindra,Scorpio-N,Mid-size SUV,17.914116070293574,Petrol,2751
+2023-09-01,Mahindra,Scorpio-N,Mid-size SUV,17.966730889497182,Diesel,4008
+2023-10-01,Mahindra,Scorpio-N,Mid-size SUV,18.302380175610722,CNG,5202
+2023-11-01,Mahindra,Scorpio-N,Mid-size SUV,18.405743362157345,Petrol,5751
+2023-12-01,Mahindra,Scorpio-N,Mid-size SUV,17.827663686945666,Petrol,4990
+2024-01-01,Mahindra,Scorpio-N,Mid-size SUV,17.832906329175117,CNG,4199
+2024-02-01,Mahindra,Scorpio-N,Mid-size SUV,17.75975091451892,Hybrid,6012
+2024-03-01,Mahindra,Scorpio-N,Mid-size SUV,18.051086921802238,Petrol,4579
+2024-04-01,Mahindra,Scorpio-N,Mid-size SUV,18.007783713236243,Diesel,2480
+2024-05-01,Mahindra,Scorpio-N,Mid-size SUV,17.7378520887931,Petrol,2466
+2024-06-01,Mahindra,Scorpio-N,Mid-size SUV,18.053835948322188,Diesel,5852
+2024-07-01,Mahindra,Scorpio-N,Mid-size SUV,17.93307229323813,Petrol,4887
+2024-08-01,Mahindra,Scorpio-N,Mid-size SUV,17.802366387569272,CNG,2448
+2024-09-01,Mahindra,Scorpio-N,Mid-size SUV,18.377784141589785,CNG,2426
+2024-10-01,Mahindra,Scorpio-N,Mid-size SUV,17.88330270298912,EV,4439
+2024-11-01,Mahindra,Scorpio-N,Mid-size SUV,17.800165883918755,Petrol,3920
+2024-12-01,Mahindra,Scorpio-N,Mid-size SUV,17.6821877100219,Petrol,3487
+2025-01-01,Mahindra,Scorpio-N,Mid-size SUV,18.0984312498286,CNG,4474
+2025-02-01,Mahindra,Scorpio-N,Mid-size SUV,17.905428695658948,Petrol,5971
+2025-03-01,Mahindra,Scorpio-N,Mid-size SUV,18.199464800069816,Diesel,3819
+2025-04-01,Mahindra,Scorpio-N,Mid-size SUV,17.821467226949988,CNG,3539
+2025-05-01,Mahindra,Scorpio-N,Mid-size SUV,17.88953605442678,Petrol,3205
+2025-06-01,Mahindra,Scorpio-N,Mid-size SUV,18.018694197283878,Petrol,3442
+2025-07-01,Mahindra,Scorpio-N,Mid-size SUV,18.41939236246885,Diesel,2758
+2025-08-01,Mahindra,Scorpio-N,Mid-size SUV,17.819409910283152,Petrol,2088
+2025-09-01,Mahindra,Scorpio-N,Mid-size SUV,18.064902836975804,Diesel,5134
+2025-10-01,Mahindra,Scorpio-N,Mid-size SUV,18.08157473585789,CNG,3948
+2025-11-01,Mahindra,Scorpio-N,Mid-size SUV,17.9928304280813,Petrol,3463
+2025-12-01,Mahindra,Scorpio-N,Mid-size SUV,17.763078416090206,Petrol,4180
+2026-01-01,Mahindra,Scorpio-N,Mid-size SUV,17.62608493728116,Petrol,2905
+2026-02-01,Mahindra,Scorpio-N,Mid-size SUV,18.26126616644278,Petrol,2648
+2026-03-01,Mahindra,Scorpio-N,Mid-size SUV,18.45922379245725,Petrol,6330
+2026-04-01,Mahindra,Scorpio-N,Mid-size SUV,18.144333185446172,Petrol,5405
+2026-05-01,Mahindra,Scorpio-N,Mid-size SUV,18.007259892876323,Petrol,3812
+2026-06-01,Mahindra,Scorpio-N,Mid-size SUV,17.97972321086266,Petrol,5297
+2026-07-01,Mahindra,Scorpio-N,Mid-size SUV,17.776560915426384,Petrol,3976
+2026-08-01,Mahindra,Scorpio-N,Mid-size SUV,17.95009204383059,CNG,5826
+2026-09-01,Mahindra,Scorpio-N,Mid-size SUV,17.743192350828085,CNG,3334
+2026-10-01,Mahindra,Scorpio-N,Mid-size SUV,17.888033397055885,Petrol,6025
+2022-01-01,Mahindra,Thar,Lifestyle SUV,16.907574813697806,Petrol,5245
+2022-02-01,Mahindra,Thar,Lifestyle SUV,17.112077426439093,Petrol,3585
+2022-03-01,Mahindra,Thar,Lifestyle SUV,16.61132248173004,Petrol,3142
+2022-04-01,Mahindra,Thar,Lifestyle SUV,17.218913882963324,Petrol,4172
+2022-05-01,Mahindra,Thar,Lifestyle SUV,16.881889946981893,CNG,5105
+2022-06-01,Mahindra,Thar,Lifestyle SUV,17.118704080715773,Petrol,3665
+2022-07-01,Mahindra,Thar,Lifestyle SUV,16.929164206573127,Petrol,2683
+2022-08-01,Mahindra,Thar,Lifestyle SUV,17.045597303680967,Petrol,4030
+2022-09-01,Mahindra,Thar,Lifestyle SUV,16.709524944600048,Petrol,2589
+2022-10-01,Mahindra,Thar,Lifestyle SUV,16.74648270177868,Petrol,4862
+2022-11-01,Mahindra,Thar,Lifestyle SUV,16.828598251910435,Petrol,3815
+2022-12-01,Mahindra,Thar,Lifestyle SUV,16.866686954329325,Petrol,2550
+2023-01-01,Mahindra,Thar,Lifestyle SUV,17.357084576565978,Petrol,3788
+2023-02-01,Mahindra,Thar,Lifestyle SUV,16.958788904605058,Petrol,3521
+2023-03-01,Mahindra,Thar,Lifestyle SUV,17.091763381670223,Petrol,3616
+2023-04-01,Mahindra,Thar,Lifestyle SUV,16.644568163240635,Petrol,5857
+2023-05-01,Mahindra,Thar,Lifestyle SUV,17.042662985437513,Petrol,4435
+2023-06-01,Mahindra,Thar,Lifestyle SUV,16.98671087798256,Petrol,3290
+2023-07-01,Mahindra,Thar,Lifestyle SUV,17.045164473237676,Diesel,2627
+2023-08-01,Mahindra,Thar,Lifestyle SUV,17.20451752331862,Petrol,3507
+2023-09-01,Mahindra,Thar,Lifestyle SUV,16.46043758431302,Petrol,3152
+2023-10-01,Mahindra,Thar,Lifestyle SUV,16.730565910488185,Petrol,2806
+2023-11-01,Mahindra,Thar,Lifestyle SUV,17.001683633525406,CNG,4778
+2023-12-01,Mahindra,Thar,Lifestyle SUV,17.10153431367636,CNG,4392
+2024-01-01,Mahindra,Thar,Lifestyle SUV,16.933051356581203,Petrol,5446
+2024-02-01,Mahindra,Thar,Lifestyle SUV,16.986656288892874,CNG,5294
+2024-03-01,Mahindra,Thar,Lifestyle SUV,17.13462446341027,Petrol,2300
+2024-04-01,Mahindra,Thar,Lifestyle SUV,16.79574783731448,Petrol,5627
+2024-05-01,Mahindra,Thar,Lifestyle SUV,17.2217065821998,Petrol,2844
+2024-06-01,Mahindra,Thar,Lifestyle SUV,16.870843809506315,Diesel,2770
+2024-07-01,Mahindra,Thar,Lifestyle SUV,16.989520072189418,Diesel,5760
+2024-08-01,Mahindra,Thar,Lifestyle SUV,16.83974602100311,Hybrid,5211
+2024-09-01,Mahindra,Thar,Lifestyle SUV,16.91993981442464,Petrol,3250
+2024-10-01,Mahindra,Thar,Lifestyle SUV,16.757545484184543,Petrol,5626
+2024-11-01,Mahindra,Thar,Lifestyle SUV,16.46190854428643,Hybrid,3383
+2024-12-01,Mahindra,Thar,Lifestyle SUV,17.271402350743514,Petrol,4138
+2025-01-01,Mahindra,Thar,Lifestyle SUV,17.400392844473856,EV,3297
+2025-02-01,Mahindra,Thar,Lifestyle SUV,17.151381301306078,Petrol,3145
+2025-03-01,Mahindra,Thar,Lifestyle SUV,16.81282778165751,Petrol,3505
+2025-04-01,Mahindra,Thar,Lifestyle SUV,16.96009683311983,Hybrid,4835
+2025-05-01,Mahindra,Thar,Lifestyle SUV,17.196335789382864,CNG,5354
+2025-06-01,Mahindra,Thar,Lifestyle SUV,17.01873176964156,Petrol,3749
+2025-07-01,Mahindra,Thar,Lifestyle SUV,17.047177740852803,Petrol,3476
+2025-08-01,Mahindra,Thar,Lifestyle SUV,17.07253333177219,CNG,2859
+2025-09-01,Mahindra,Thar,Lifestyle SUV,17.091584242233516,Petrol,2303
+2025-10-01,Mahindra,Thar,Lifestyle SUV,17.172639329568565,EV,2672
+2025-11-01,Mahindra,Thar,Lifestyle SUV,16.75830161970849,Petrol,3382
+2025-12-01,Mahindra,Thar,Lifestyle SUV,16.924048303368306,Petrol,4983
+2026-01-01,Mahindra,Thar,Lifestyle SUV,17.248738899391665,Petrol,5545
+2026-02-01,Mahindra,Thar,Lifestyle SUV,17.445259614810574,Hybrid,2801
+2026-03-01,Mahindra,Thar,Lifestyle SUV,17.197874733021205,Petrol,2993
+2026-04-01,Mahindra,Thar,Lifestyle SUV,17.079619516699147,Petrol,4177
+2026-05-01,Mahindra,Thar,Lifestyle SUV,16.231742432294674,Petrol,3852
+2026-06-01,Mahindra,Thar,Lifestyle SUV,16.775428321558916,Diesel,3209
+2026-07-01,Mahindra,Thar,Lifestyle SUV,17.077843282280416,CNG,2495
+2026-08-01,Mahindra,Thar,Lifestyle SUV,16.775495561646448,CNG,4211
+2026-09-01,Mahindra,Thar,Lifestyle SUV,16.91172591714555,Diesel,2831
+2026-10-01,Mahindra,Thar,Lifestyle SUV,16.926195823219835,Petrol,5170
